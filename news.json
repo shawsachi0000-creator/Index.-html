@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-08-13T00:00:00Z",
+  "items": [
+    {
+      "id": "bengal-001",
+      "title": "West Bengal Latest News: Bengal Today पर पढ़ें आज की बड़ी खबरें",
+      "description": "West Bengal और Kolkata से जुड़ी ताजा खबरों, घटनाओं और महत्वपूर्ण अपडेट का संक्षिप्त समाचार। पूरी खबर के लिए original publisher की रिपोर्ट देखें।",
+      "link": "https://www.indiatoday.in/india",
+      "date": "2026-08-13T12:00:00Z",
+      "source": "Bengal Today",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "india-001",
+      "title": "India News: देश की आज की बड़ी खबरें और महत्वपूर्ण अपडेट",
+      "description": "भारत से जुड़ी प्रमुख खबरों और महत्वपूर्ण घटनाओं का latest update।",
+      "link": "https://www.indiatoday.in/india",
+      "date": "2026-08-13T11:30:00Z",
+      "source": "Bengal Today",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "politics-001",
+      "title": "Politics News: राजनीति की आज की बड़ी खबरें",
+      "description": "देश और राज्यों की राजनीति से जुड़े प्रमुख घटनाक्रम और latest updates।",
+      "link": "https://www.indiatoday.in/india/politics",
+      "date": "2026-08-13T11:00:00Z",
+      "source": "Bengal Today",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "world-001",
+      "title": "World News: दुनिया की आज की बड़ी खबरें",
+      "description": "दुनिया भर की महत्वपूर्ण घटनाओं और international developments का latest update।",
+      "link": "https://www.indiatoday.in/world",
+      "date": "2026-08-13T10:30:00Z",
+      "source": "Bengal Today",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "business-001",
+      "title": "Business News: कारोबार और बाजार की बड़ी खबरें",
+      "description": "Business, economy और market से जुड़े महत्वपूर्ण समाचार और updates।",
+      "link": "https://www.indiatoday.in/business",
+      "date": "2026-08-13T10:00:00Z",
+      "source": "Bengal Today",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "sports-001",
+      "title": "Sports News: खेल जगत की आज की बड़ी खबरें",
+      "description": "Cricket और अन्य खेलों से जुड़े latest updates और महत्वपूर्ण खबरें।",
+      "link": "https://www.indiatoday.in/sports",
+      "date": "2026-08-13T09:30:00Z",
+      "source": "Bengal Today",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "education-001",
+      "title": "Education News: छात्रों के लिए आज के महत्वपूर्ण अपडेट",
+      "description": "Education, exams, results और students से जुड़े महत्वपूर्ण समाचार।",
+      "link": "https://www.indiatoday.in/education-today",
+      "date": "2026-08-13T09:00:00Z",
+      "source": "Bengal Today",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "technology-001",
+      "title": "Technology News: टेक्नोलॉजी की आज की बड़ी खबरें",
+      "description": "Technology, smartphones, AI और digital world से जुड़े latest updates।",
+      "link": "https://www.indiatoday.in/technology",
+      "date": "2026-08-13T08:30:00Z",
+      "source": "Bengal Today",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "entertainment-001",
+      "title": "Entertainment News: मनोरंजन जगत की बड़ी खबरें",
+      "description": "Movies, television और entertainment world से जुड़े latest updates।",
+      "link": "https://www.indiatoday.in/movies",
+      "date": "2026-08-13T08:00:00Z",
+      "source": "Bengal Today",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
