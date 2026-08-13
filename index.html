@@ -1,162 +1,144 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="description" content="Bengal Today - Latest Bengal, India, World, Business, Sports, Education and Technology news.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Bengal Today - Latest Bengal, India, World, Politics, Business, Sports, Education, Technology and Entertainment news.">
 <meta name="theme-color" content="#b40000">
-<title>Bengal Today - Latest News</title>
+<title>Bengal Today</title>
 <style>
-*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#fff;color:#111}
-a{text-decoration:none;color:inherit}.top{background:#111;color:#fff;font-size:13px;padding:8px 4%;display:flex;justify-content:space-between}
-.header{padding:16px 4%;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ddd;background:#fff}
-.logo{font-size:34px;font-weight:900;color:#b40000}.logo span{color:#111}.tag{font-size:12px;color:#777}
-.nav{background:#b40000;color:#fff;overflow:auto;white-space:nowrap}.nav-inner{display:flex;gap:0;padding:0 4%}.nav a{display:inline-block;padding:13px 15px;font-weight:700;font-size:14px}.nav a:hover{background:#850000}
-.breaking{background:#f2f2f2;border-bottom:1px solid #ddd;display:flex;align-items:center;overflow:hidden}.breaking b{background:#111;color:#fff;padding:10px 14px;white-space:nowrap}.ticker{white-space:nowrap;overflow:hidden;flex:1}.ticker-track{display:inline-block;padding-left:20px;animation:ticker 32s linear infinite}.ticker-track span{margin-right:50px;font-weight:600}@keyframes ticker{from{transform:translateX(100%)}to{transform:translateX(-100%)}}
-.container{max-width:1250px;margin:auto;padding:20px 18px}.hero{display:grid;grid-template-columns:2fr 1fr;gap:20px}.lead{position:relative;min-height:390px;background:#222;overflow:hidden;border-radius:4px}.lead img{width:100%;height:100%;object-fit:cover;opacity:.72}.lead .caption{position:absolute;bottom:0;left:0;right:0;padding:28px;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.9))}.caption h1{font-size:32px;margin:0 0 8px}.side{display:grid;grid-template-columns:1fr 1fr;gap:14px}.card{border-bottom:1px solid #ddd;padding-bottom:12px}.card img{width:100%;height:130px;object-fit:cover;border-radius:3px}.card h3{font-size:17px;line-height:1.25;margin:7px 0}.meta{font-size:11px;color:#777}.section-title{border-left:6px solid #b40000;padding-left:10px;margin:30px 0 15px;font-size:24px;border-bottom:2px solid #111;padding-bottom:7px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.grid .card img{height:170px}.layout{display:grid;grid-template-columns:2fr 1fr;gap:25px}.list{display:grid;gap:14px}.list-item{display:grid;grid-template-columns:190px 1fr;gap:15px;border-bottom:1px solid #ddd;padding-bottom:14px}.list-item img{width:190px;height:115px;object-fit:cover;border-radius:3px}.list-item h3{margin:0 0 8px;font-size:20px}.ad{min-height:90px;border:1px dashed #bbb;background:#fafafa;display:flex;align-items:center;justify-content:center;color:#999;margin:15px 0}.footer{margin-top:40px;background:#111;color:#ddd;padding:35px 5%}.footer h2{color:#fff}.footer p{color:#aaa}.search{display:flex;gap:7px}.search input{padding:11px;border:1px solid #ccc;border-radius:4px;width:180px}.search button{padding:11px 15px;background:#b40000;color:#fff;border:0;border-radius:4px;font-weight:bold}
-.article{max-width:900px;margin:auto}.article h1{font-size:42px;line-height:1.1}.article img{width:100%;max-height:520px;object-fit:cover}.article p{font-size:18px;line-height:1.7}.hidden{display:none}.loading{text-align:center;padding:30px;color:#777}.error{background:#fff3f3;color:#900;padding:12px;border:1px solid #e0aaaa}
-@media(max-width:800px){.header{padding:12px 3%;flex-wrap:wrap;gap:10px}.logo{font-size:27px}.search input{width:130px}.hero,.layout{grid-template-columns:1fr}.grid{grid-template-columns:1fr 1fr}.lead{min-height:300px}.caption h1{font-size:24px}.side{grid-template-columns:1fr 1fr}.article h1{font-size:30px}.list-item{grid-template-columns:120px 1fr}.list-item img{width:120px;height:85px}.list-item h3{font-size:16px}}
-@media(max-width:480px){.grid,.side{grid-template-columns:1fr}.top{font-size:11px}.nav a{padding:11px 10px}.container{padding:14px 10px}}
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#111;background:#fff}a{text-decoration:none;color:inherit}
+.top{background:#111;color:#fff;padding:8px 4%;font-size:12px;display:flex;justify-content:space-between}
+.header{padding:15px 4%;display:flex;align-items:center;justify-content:space-between;gap:15px;border-bottom:1px solid #ddd}
+.logo{font-size:34px;font-weight:900;color:#b40000}.logo span{color:#111}.tag{font-weight:bold;color:#555}
+.search{display:flex;gap:6px}.search input{padding:10px;border:1px solid #bbb;border-radius:4px;width:220px}.search button{background:#b40000;color:#fff;border:0;padding:10px 15px;border-radius:4px;font-weight:bold}
+.nav{background:#b40000;color:#fff;overflow:auto;white-space:nowrap}.nav a{display:inline-block;padding:13px 14px;font-size:13px;font-weight:bold}.nav a:hover{background:#8e0000}
+.breaking{display:flex;background:#f2f2f2;border-bottom:1px solid #ddd;overflow:hidden}.breaking b{background:#111;color:#fff;padding:10px 13px;white-space:nowrap}.ticker{overflow:hidden;flex:1;white-space:nowrap}.track{display:inline-block;padding:10px 20px;animation:ticker 35s linear infinite}.track span{margin-right:55px;font-weight:bold}@keyframes ticker{from{transform:translateX(100%)}to{transform:translateX(-100%)}}
+.container{max-width:1250px;margin:auto;padding:20px 16px}.ad{min-height:80px;border:1px dashed #bbb;background:#fafafa;color:#999;display:flex;align-items:center;justify-content:center;margin:10px 0 20px}
+.hero{display:grid;grid-template-columns:2fr 1fr;gap:18px}.lead{position:relative;height:390px;background:#222;overflow:hidden;border-radius:5px}.lead img{width:100%;height:100%;object-fit:cover;opacity:.7}.caption{position:absolute;bottom:0;left:0;right:0;color:#fff;padding:28px;background:linear-gradient(transparent,rgba(0,0,0,.95))}.caption h1{font-size:31px;margin:7px 0}
+.side{display:grid;grid-template-columns:1fr 1fr;gap:15px}.card{border-bottom:1px solid #ddd;padding-bottom:12px}.card img{width:100%;height:135px;object-fit:cover;border-radius:4px}.card h3{font-size:17px;line-height:1.25;margin:7px 0}.meta{font-size:11px;color:#777}
+.title{border-left:6px solid #b40000;border-bottom:2px solid #111;padding:6px 0 7px 10px;margin:30px 0 15px;font-size:23px}
+.layout{display:grid;grid-template-columns:2fr 1fr;gap:25px}.list{display:grid;gap:15px}.item{display:grid;grid-template-columns:190px 1fr;gap:15px;border-bottom:1px solid #ddd;padding-bottom:15px}.item img{width:190px;height:115px;object-fit:cover;border-radius:4px}.item h3{font-size:20px;line-height:1.25;margin:5px 0}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.article{max-width:900px;margin:auto}.article h1{font-size:42px;line-height:1.1}.article img{width:100%;max-height:540px;object-fit:cover;border-radius:5px}.article p{font-size:18px;line-height:1.7}
+.share{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.share button{border:0;border-radius:4px;padding:10px 13px;font-weight:bold;cursor:pointer}.wa{background:#25d366;color:#fff}.fb{background:#1877f2;color:#fff}.copy{background:#111;color:#fff}.native{background:#b40000;color:#fff}
+.back{display:inline-block;color:#b40000;font-weight:bold;margin-bottom:15px}
+.footer{background:#111;color:#aaa;padding:35px 5%;margin-top:40px}.footer h2{color:#fff}.footer a{color:#fff;margin-right:18px}
+.loading{text-align:center;padding:40px;color:#777}
+.empty{padding:30px;border:1px solid #ddd;text-align:center;color:#777}
+@media(max-width:800px){.header{flex-wrap:wrap}.logo{font-size:28px}.tag{display:none}.hero,.layout{grid-template-columns:1fr}.grid{grid-template-columns:1fr 1fr}.item{grid-template-columns:120px 1fr}.item img{width:120px;height:85px}.article h1{font-size:30px}}
+@media(max-width:480px){.grid,.side{grid-template-columns:1fr}.search{width:100%}.search input{width:100%}.top{font-size:10px}.nav a{padding:11px 9px}.item{grid-template-columns:100px 1fr}.item img{width:100px;height:75px}.item h3{font-size:16px}}
 </style>
 </head>
 <body>
-
-<div class="top"><span id="today"></span><span>Independent Digital News Portal</span></div>
-
+<div class="top"><span id="date"></span><span>Independent Digital News Portal</span></div>
 <header class="header">
-  <a class="logo" href="#" onclick="showHome();return false;">Bengal <span>Today</span></a>
-  <div class="tag">News • Bengal • India • World</div>
-  <div class="search">
-    <input id="searchBox" placeholder="Search news..." onkeydown="if(event.key==='Enter')searchNews()">
-    <button onclick="searchNews()">Search</button>
-  </div>
+<a class="logo" href="#" onclick="home();return false">Bengal <span>Today</span></a>
+<div class="tag">News • Bengal • India • World</div>
+<div class="search"><input id="q" placeholder="Search news..." onkeydown="if(event.key==='Enter')search()"><button onclick="search()">Search</button></div>
 </header>
-
-<nav class="nav"><div class="nav-inner">
-<a href="#" onclick="showHome();return false;">HOME</a>
-<a href="#" onclick="loadCategory('Bengal');return false;">BENGAL</a>
-<a href="#" onclick="loadCategory('India');return false;">INDIA</a>
-<a href="#" onclick="loadCategory('Politics');return false;">POLITICS</a>
-<a href="#" onclick="loadCategory('World');return false;">WORLD</a>
-<a href="#" onclick="loadCategory('Business');return false;">BUSINESS</a>
-<a href="#" onclick="loadCategory('Sports');return false;">SPORTS</a>
-<a href="#" onclick="loadCategory('Education');return false;">EDUCATION</a>
-<a href="#" onclick="loadCategory('Technology');return false;">TECH</a>
-<a href="#" onclick="loadCategory('Entertainment');return false;">ENTERTAINMENT</a>
-</div></nav>
-
-<div class="breaking"><b>🔴 BREAKING</b><div class="ticker"><div id="ticker" class="ticker-track"><span>Loading latest headlines...</span></div></div></div>
-
-<main id="app" class="container"></main>
-
+<nav class="nav" id="nav"></nav>
+<div class="breaking"><b>🔴 BREAKING</b><div class="ticker"><div id="ticker" class="track">Loading latest headlines...</div></div></div>
+<main id="app" class="container"><div class="loading">Loading Bengal Today...</div></main>
 <footer class="footer">
 <h2>Bengal Today</h2>
-<p>Independent digital news portal. News headlines shown from publicly available RSS feeds for discovery. Visit the original publisher for the full report.</p>
-<p>© <span id="year"></span> Bengal Today. All rights reserved.</p>
+<p>Latest headlines and summaries with links to original publishers.</p>
+<p><a href="#" onclick="home();return false">Home</a><a href="#" onclick="showPage('about');return false">About</a><a href="#" onclick="showPage('contact');return false">Contact</a><a href="#" onclick="showPage('privacy');return false">Privacy</a></p>
+<p>© <span id="year"></span> Bengal Today</p>
 </footer>
-
 <script>
-const feeds=[
- {name:"Bengal",url:"https://news.google.com/rss/search?q=Bengal+West+Bengal+India&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"India",url:"https://news.google.com/rss/search?q=India+news&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Politics",url:"https://news.google.com/rss/search?q=India+politics&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"World",url:"https://news.google.com/rss/search?q=World+news&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Business",url:"https://news.google.com/rss/search?q=India+business&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Sports",url:"https://news.google.com/rss/search?q=India+sports&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Education",url:"https://news.google.com/rss/search?q=India+education&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Technology",url:"https://news.google.com/rss/search?q=India+technology&hl=en-IN&gl=IN&ceid=IN:en"},
- {name:"Entertainment",url:"https://news.google.com/rss/search?q=India+entertainment&hl=en-IN&gl=IN:en"}
-];
-const proxy=u=>"https://api.allorigins.win/raw?url="+encodeURIComponent(u);
-let allNews=[],cache={};
+const categories=["Home","Bengal","India","Politics","World","Business","Sports","Education","Technology","Entertainment"];
+const fallbackImage="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80";
+let news=[];
+document.getElementById("nav").innerHTML=categories.map(c=>`<a href="#" onclick="${c==='Home'?'home()':`category('${c}')`};return false">${c.toUpperCase()}</a>`).join("");
+document.getElementById("date").textContent=new Date().toLocaleDateString("en-IN",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+document.getElementById("year").textContent=new Date().getFullYear();
 
 function esc(s){return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-function cleanTitle(s){return s.replace(/ - [^-]+$/,"").trim()}
-function placeholder(t){return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1000&q=80"}
-function parseRSS(text,category){
- const xml=new DOMParser().parseFromString(text,"text/xml");
- return [...xml.querySelectorAll("item")].slice(0,20).map((x,i)=>{
-   const title=cleanTitle(x.querySelector("title")?.textContent||"Latest News");
-   const link=x.querySelector("link")?.textContent||"#";
-   const desc=(x.querySelector("description")?.textContent||"").replace(/<[^>]*>/g,"").trim();
-   const date=x.querySelector("pubDate")?.textContent||"";
-   const source=x.querySelector("source")?.textContent||"News";
-   return {id:btoa(unescape(encodeURIComponent(category+"|"+title+"|"+i))).replace(/=/g,""),title,link,desc,date,source,category,img:placeholder(title)};
- }).filter(x=>x.title);
+function ago(d){let t=new Date(d).getTime();if(!t)return"Latest";let m=Math.max(1,Math.floor((Date.now()-t)/60000));return m<60?m+" min ago":m<1440?Math.floor(m/60)+" hr ago":Math.floor(m/1440)+" day ago"}
+function safeImage(x){return x||fallbackImage}
+function card(n){return`<article class="card"><a href="#${n.id}" onclick="article('${n.id}');return false"><img src="${esc(safeImage(n.image))}" loading="lazy" alt=""><h3>${esc(n.title)}</h3></a><div class="meta">${esc(n.source)} • ${ago(n.date)}</div></article>`}
+function item(n){return`<article class="item"><a href="#${n.id}" onclick="article('${n.id}');return false"><img src="${esc(safeImage(n.image))}" loading="lazy" alt=""></a><div><div class="meta">${esc(n.category)} • ${esc(n.source)} • ${ago(n.date)}</div><h3><a href="#${n.id}" onclick="article('${n.id}');return false">${esc(n.title)}</a></h3><div>${esc(n.description||"")}</div></div></article>`}
+
+function home(){
+if(!news.length){document.getElementById("app").innerHTML='<div class="loading">No news loaded yet. Please refresh after the automatic feed is available.</div>';return}
+let lead=news[0],side=news.slice(1,5),latest=news.slice(5,17);
+document.getElementById("app").innerHTML=`
+<div class="ad">ADVERTISEMENT</div>
+<section class="hero">
+<article class="lead"><a href="#${lead.id}" onclick="article('${lead.id}');return false"><img src="${esc(safeImage(lead.image))}"><div class="caption"><div>${esc(lead.category)} • ${ago(lead.date)}</div><h1>${esc(lead.title)}</h1><div>${esc(lead.description||"")}</div></div></a></article>
+<div class="side">${side.map(card).join("")}</div>
+</section>
+<h2 class="title">Latest News</h2>
+<div class="layout"><div class="list">${latest.map(item).join("")}</div>
+<aside><div class="ad">ADVERTISEMENT</div><h2 class="title">Trending</h2>${news.slice(0,8).map((n,i)=>`<div style="padding:10px 0;border-bottom:1px solid #ddd"><b style="color:#b40000">${String(i+1).padStart(2,"0")}</b> <a href="#${n.id}" onclick="article('${n.id}');return false">${esc(n.title)}</a></div>`).join("")}</aside></div>
+${["Bengal","India","Politics","Sports"].map(c=>`<h2 class="title">${c}</h2><div class="grid">${news.filter(n=>n.category===c).slice(0,4).map(card).join("")||'<div class="empty">No news available.</div>'}</div>`).join("")}`;
+window.scrollTo(0,0)
 }
-async function fetchFeed(f){
- try{
-   const r=await fetch(proxy(f.url),{cache:"no-store"});
-   if(!r.ok)throw Error("Feed unavailable");
-   const t=await r.text(); cache[f.name]=parseRSS(t,f.name); return cache[f.name];
- }catch(e){cache[f.name]=[];return []}
+
+function category(c){
+let a=news.filter(n=>n.category===c);
+document.getElementById("app").innerHTML=`<a class="back" href="#" onclick="home();return false">← Back to Home</a><h1>${esc(c)} News</h1><div class="ad">ADVERTISEMENT</div><div class="list">${a.map(item).join("")||'<div class="empty">No news found.</div>'}</div>`;
+window.scrollTo(0,0)
 }
-async function loadAll(){
- document.getElementById("app").innerHTML='<div class="loading">Loading latest news…</div>';
- const results=await Promise.all(feeds.map(fetchFeed));
- allNews=results.flat().sort((a,b)=>new Date(b.date)-new Date(a.date));
- updateTicker();
- renderHome();
+
+function shareNews(n){
+const url=location.href.split("#")[0]+"#"+n.id;
+const text=n.title+" — Bengal Today";
+document.getElementById("share").innerHTML=`
+<button class="wa" onclick="window.open('https://wa.me/?text='+encodeURIComponent(text+' '+url),'_blank')">WhatsApp</button>
+<button class="fb" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(url),'_blank')">Facebook</button>
+<button class="copy" onclick="copyLink('${n.id}')">Copy Link</button>
+<button class="native" onclick="nativeShare('${n.id}')">Share</button>`;
 }
-function updateTicker(){
- const items=allNews.slice(0,15);
- document.getElementById("ticker").innerHTML=items.map(x=>`<span>${esc(x.title)}</span>`).join("")||"<span>Latest news unavailable. Refresh to try again.</span>";
+function copyLink(id){navigator.clipboard?.writeText(location.href.split("#")[0]+"#"+id);alert("Article link copied");}
+function nativeShare(id){let n=news.find(x=>x.id===id);let url=location.href.split("#")[0]+"#"+id;if(navigator.share)navigator.share({title:n.title,text:n.title,url});else copyLink(id)}
+
+function article(id){
+let n=news.find(x=>x.id===id);if(!n){home();return}
+document.getElementById("app").innerHTML=`
+<article class="article"><a class="back" href="#" onclick="home();return false">← Back to Home</a>
+<div class="meta">${esc(n.category)} • ${esc(n.source)} • ${new Date(n.date).toLocaleString()}</div>
+<h1>${esc(n.title)}</h1>
+<img src="${esc(safeImage(n.image))}" alt="">
+<div class="share" id="share"></div>
+<p>${esc(n.description||"Latest news update.")}</p>
+<div class="ad">ADVERTISEMENT</div>
+<p><b>Original report:</b> <a style="color:#b40000;text-decoration:underline" href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">Read at original publisher ↗</a></p>
+</article>`;
+shareNews(n);window.scrollTo(0,0)
 }
-function card(n){
- return `<article class="card"><a href="#" onclick="openArticle('${n.id}');return false;"><img src="${n.img}" alt="" loading="lazy"><h3>${esc(n.title)}</h3></a><div class="meta">${esc(n.source)} • ${timeAgo(n.date)}</div></article>`
+
+function search(){
+let q=document.getElementById("q").value.toLowerCase().trim();
+if(!q){home();return}
+let a=news.filter(n=>(n.title+" "+n.description+" "+n.category+" "+n.source).toLowerCase().includes(q));
+document.getElementById("app").innerHTML=`<a class="back" href="#" onclick="home();return false">← Back to Home</a><h1>Search Results</h1><div class="list">${a.map(item).join("")||'<div class="empty">No matching news.</div>'}</div>`;
+window.scrollTo(0,0)
 }
-function timeAgo(d){
- const t=new Date(d).getTime();if(!t)return "Latest";
- const m=Math.max(1,Math.floor((Date.now()-t)/60000));if(m<60)return m+" min ago";const h=Math.floor(m/60);if(h<24)return h+" hr ago";return Math.floor(h/24)+" day ago";
+
+function showPage(page){
+let data={
+about:["About Bengal Today","Bengal Today is a digital news portal interface for discovering current headlines and summaries. Full reports are linked to their original publishers."],
+contact:["Contact","For website feedback or corrections, please add your official contact email and social links here."],
+privacy:["Privacy Policy","Bengal Today may use analytics and advertising services in the future. External publisher links are governed by their own policies."]
+}[page];
+document.getElementById("app").innerHTML=`<article class="article"><a class="back" href="#" onclick="home();return false">← Back to Home</a><h1>${data[0]}</h1><p>${data[1]}</p></article>`;
+window.scrollTo(0,0)
 }
-function renderHome(){
- const lead=allNews[0]||{title:"Welcome to Bengal Today",desc:"Latest news from Bengal, India and around the world.",img:placeholder()};
- const side=allNews.slice(1,5);
- const latest=allNews.slice(5,17);
- document.getElementById("app").innerHTML=`
- <div class="ad">ADVERTISEMENT</div>
- <section class="hero">
-  <article class="lead"><a href="#" onclick="openArticle('${lead.id||""}');return false;"><img src="${lead.img}" alt=""><div class="caption"><div class="meta">${esc(lead.category||"Latest")} • ${timeAgo(lead.date)}</div><h1>${esc(lead.title)}</h1><div>${esc((lead.desc||"").slice(0,180))}</div></div></a></article>
-  <div class="side">${side.map(card).join("")}</div>
- </section>
- <h2 class="section-title">Latest News</h2>
- <div class="layout"><div class="list">${latest.map(listItem).join("")}</div><aside><div class="ad">ADVERTISEMENT</div><h2 class="section-title">Trending</h2>${allNews.slice(0,8).map((n,i)=>`<div style="padding:10px 0;border-bottom:1px solid #ddd"><b style="color:#b40000">${String(i+1).padStart(2,"0")}</b> <a href="#" onclick="openArticle('${n.id}');return false;">${esc(n.title)}</a></div>`).join("")}</aside></div>
- <h2 class="section-title">Bengal</h2><div class="grid">${(cache.Bengal||[]).slice(0,4).map(card).join("")}</div>
- <h2 class="section-title">India</h2><div class="grid">${(cache.India||[]).slice(0,4).map(card).join("")}</div>
- <h2 class="section-title">Sports</h2><div class="grid">${(cache.Sports||[]).slice(0,4).map(card).join("")}</div>`;
-}
-function listItem(n){return `<article class="list-item"><a href="#" onclick="openArticle('${n.id}');return false;"><img src="${n.img}" alt="" loading="lazy"></a><div><div class="meta">${esc(n.category)} • ${esc(n.source)} • ${timeAgo(n.date)}</div><h3><a href="#" onclick="openArticle('${n.id}');return false;">${esc(n.title)}</a></h3><div>${esc((n.desc||"").slice(0,150))}</div></div></article>`}
-function loadCategory(cat){
- const arr=cache[cat]||allNews.filter(n=>n.category===cat);
- document.getElementById("app").innerHTML=`<h1>${esc(cat)} News</h1><div class="ad">ADVERTISEMENT</div><div class="grid">${arr.map(card).join("")||'<div class="loading">No news available right now.</div>'}</div>`;
- window.scrollTo(0,0);
-}
-function openArticle(id){
- const n=allNews.find(x=>x.id===id);
- if(!n)return;
- document.getElementById("app").innerHTML=`<article class="article">
- <div class="meta">${esc(n.category)} • ${esc(n.source)} • ${new Date(n.date).toLocaleString()}</div>
- <h1>${esc(n.title)}</h1>
- <img src="${n.img}" alt="">
- <p>${esc(n.desc||"This headline is provided for news discovery. Read the complete report at the original publisher.")}</p>
- <div class="ad">ADVERTISEMENT</div>
- <p><b>Read the complete report:</b> <a href="${esc(n.link)}" target="_blank" rel="noopener" style="color:#b40000;text-decoration:underline">Open original source ↗</a></p>
- <p style="font-size:14px;color:#777">Bengal Today displays headline discovery from RSS feeds and links readers to the original publisher.</p>
- </article>`;
- window.scrollTo(0,0);
-}
-function searchNews(){
- const q=document.getElementById("searchBox").value.toLowerCase().trim();
- if(!q){renderHome();return}
- const arr=allNews.filter(n=>(n.title+" "+n.desc+" "+n.category).toLowerCase().includes(q));
- document.getElementById("app").innerHTML=`<h1>Search results for “${esc(q)}”</h1><div class="list">${arr.map(listItem).join("")||'<div class="loading">No matching news found.</div>'}</div>`;
- window.scrollTo(0,0);
-}
-function showHome(){renderHome();window.scrollTo(0,0)}
-document.getElementById("today").textContent=new Date().toLocaleDateString("en-IN",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
-document.getElementById("year").textContent=new Date().getFullYear();
-loadAll();
-setInterval(loadAll,10*60*1000);
+
+async function load(){
+try{
+let r=await fetch("./news.json?"+Date.now());if(!r.ok)throw Error("news.json missing");
+let data=await r.json();news=data.items||[];
+document.getElementById("ticker").innerHTML=(news.slice(0,20).map(n=>`<span>${esc(n.title)}</span>`).join("")||"<span>No headlines</span>");
+home();
+}catch(e){
+document.getElementById("app").innerHTML='<div class="loading">Automatic news data is not available yet. The site will retry automatically.</div>';
+document.getElementById("ticker").textContent="Waiting for latest headlines...";
+}}
+load();
+setInterval(load,10*60*1000);
 </script>
 </body>
 </html>
