@@ -1,95 +1,1205 @@
 {
-  "updated_at": "2026-08-13T00:00:00Z",
+  "updated_at": "2026-08-13T16:12:54.913351+00:00",
   "items": [
     {
-      "id": "bengal-001",
-      "title": "West Bengal Latest News: Bengal Today पर पढ़ें आज की बड़ी खबरें",
-      "description": "West Bengal और Kolkata से जुड़ी ताजा खबरों, घटनाओं और महत्वपूर्ण अपडेट का संक्षिप्त समाचार। पूरी खबर के लिए original publisher की रिपोर्ट देखें।",
-      "link": "https://www.indiatoday.in/india",
-      "date": "2026-08-13T12:00:00Z",
-      "source": "Bengal Today",
+      "id": "2c3a0d8c068192ff",
+      "title": "India, Liberia hold talks to deepen cooperation in technology, agriculture, health and trade - ddindia.co.in",
+      "description": "India, Liberia hold talks to deepen cooperation in technology, agriculture, health and trade    ddindia.co.in",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWVsV3lCc08tSUlweWotYXhXNk15RFd4dDRIeXNocEFlYUVyLVE1VmxLLWlzTF9FNHNuSFBtNU45OEFYTjhQcEtSaHZnQ3VqZy13eDZnZWdWSWVDV2RlUlJENzNhWHZBYkNFdDlVRHdOZTFPZXJiUk9qZVVWc1g2cV9SVG04dk5oN3JubWlKSW9kMU1IcHMtX21LT0NJMEpHT2puSC1oc3RoRnlaclRhZEpxU0NSeGFRQTMyTg?oc=5",
+      "date": "2026-08-13T16:08:07+00:00",
+      "source": "ddindia.co.in",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8e7607003c6f1136",
+      "title": "#WATCH 🎥 | Hamirpur, Uttar Pradesh: A video circulating on social media, claimed to be from an upper-primary school in Maudaha, shows children being served rice alongside what appears to be thin, watery dal, with little else visible on the plates. The footag - LinkedIn",
+      "description": "#WATCH 🎥 | Hamirpur, Uttar Pradesh: A video circulating on social media, claimed to be from an upper-primary school in Maudaha, shows children being served rice alongside what appears to be thin, watery dal, with little else visible on the plates. The footag    LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVo0MmVWQmU1bzRoS0tsTE51MXZVQ0VSVnJ2X2N2NE9Hd0VUZlJwR0J5STlybnJNc0ZwNTk5ZklsMjNJS2szS0ZKYUk3M2h1Vk1jbFFPVmdkdDhMalFRNnVQcnVpU010M0lQRDgtNlhJRkotRzhzNkhRZkgtWG1CVjIyTno5bnROWndydDhxWWxXNnJMRWRpRXd3RVNuUWVsU1ZWc0lR?oc=5",
+      "date": "2026-08-13T16:03:42+00:00",
+      "source": "LinkedIn",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "7a3d6b3dfb4410e7",
+      "title": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured - The Economic Times",
+      "description": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRUM5R0JPaWNNOHVsVjF4eHlCVm1aZF9LcW1GS1lBdEhhbHdhWXBsOVkxeWJpTW1lS1JjaWFTWmlaQ09PY3lsVXZYOTlqSjFON29OQTRWelBERkdjeFhEQlc3OGZ5dHlqTEtXQ3lxN296RHNkb3VKLXpoaEN5aUk1VERYSlEtZlYwenNscFRhWjA1c2FKU0kzRWh0R1lMTUtSM2Y0UFJaREpuWlJzekhtaHAxOXN5MWttNTllMU00Ylg5REFKZzVtRDlvMDVVRGhlTFdTeFM4dlJTdmYwQU12b1pobVlTOWZxRENDTjVnWUc?oc=5",
+      "date": "2026-08-13T15:31:09+00:00",
+      "source": "The Economic Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e3448a1ae0e51f17",
+      "title": "Uber rolls out bike taxi services in seven more cities of West Bengal - The Economic Times",
+      "description": "Uber rolls out bike taxi services in seven more cities of West Bengal    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXIzalU4QWNyOVZJT3UwVVN6T2kySHlRSUdWRWdSS3R4N3I0MThGZktkcHRkQ2hLaEUzeGxpbnd6eS1SS3ZScjhOVU1EWnNjNlFhT1NqVW4xZEZTbkR0TThtblBiNmlfb21pbzVxNkJfZURkS1dWWkdydHhsMTJEVFRZdzFtcEFTdERfa2JLdl95Y1Eta2ZYMVRKdlI5NjlDT1dHazhHYXJ2eTRNVEpjQmc0QVd3emd3Vm9mOHpIelRMc1M4X3RSSDl6Skw5R2vSAdQBQVVfeXFMTzJ0MklHMlJFbWk4R1VoQy1tdG1ablRwRTFFUXA1ME5NSW00aEM4UXU0djVxS0NCU1Y5QUpEVzRDQ0JvU0FranJ5X2lRTkNpLWpEY1A3TXNuWEY4ZDA4djdjUm9tU0NYa2xjbk5zYkJYUkxqVnRaSXVSVC1MdDlPcXRqaDloSENTM1o0QjdydVV4aWNjRVhBLV9WZ1BaSExCTTdqLXFDR1FCRG53VFpzSExjZjhUVmdkOW1QT3lhd1NqeU9iYm1mY2JraG5IWmRUSHdaR24?oc=5",
+      "date": "2026-08-13T15:16:12+00:00",
+      "source": "The Economic Times",
       "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "india-001",
-      "title": "India News: देश की आज की बड़ी खबरें और महत्वपूर्ण अपडेट",
-      "description": "भारत से जुड़ी प्रमुख खबरों और महत्वपूर्ण घटनाओं का latest update।",
-      "link": "https://www.indiatoday.in/india",
-      "date": "2026-08-13T11:30:00Z",
-      "source": "Bengal Today",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80"
+      "id": "6ca0772cf52fa3d9",
+      "title": "West Bengal withdraws Banga Bibhushan honour from BJP MP Nagendra Ray amid Netaji remarks row - WION",
+      "description": "West Bengal withdraws Banga Bibhushan honour from BJP MP Nagendra Ray amid Netaji remarks row    WION",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlh0ajJlZG40OUlNb1dKakszWWlKc0FsVWhGRDQ3dl9ZdG1yeHd6UUdQb0RKS242Wi1WREFXazN2WEJoMENSMHliM1dibUtPbDBlYjY4RkpMS0RKTlhKNDRnMWJmSDNZWi1ZYmt2R25fbzJMbmxHam1MZm5YOVo2U3Bxa1IwY2laUExqUEhfNXVwMGRKdHVNeThqNlp1cWxXUDZaQkhySzE4TTZ1a1A4cF9kaHpXemxqZW1leGxhWVJpVk5RMElka1lqeWFrY2t2X0hHc3pKSUgtZ9IB3wFBVV95cUxPdGZpME5hZ0xYS2FiRGJmamJndGhSdHZiUmdqX1FRd3FDLTd4eFJhRy1JM1NXOXdpVDZGXzhlMVhOU1paZXVXcXZuV3ItemdqWVJ1c1lhQ1JUY3NjMWdiRkdjRGFQQ0ozZ2R3RTV5cWJ1Nk5xQXkwUEE2a0NuZjUzWkxGLUUwUjJqdk04Ymp0T2pJQ0NibjJvdDZHM3I4UDRHOXE1cGcwanhQMWFlVUhZR2Iwd2VRaElVNW1EZHU1V0Y0a0JCOXJFeEZTeTBOVEx6Zk1nWmlwTVZwMllmcFBZ?oc=5",
+      "date": "2026-08-13T15:05:00+00:00",
+      "source": "WION",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "politics-001",
-      "title": "Politics News: राजनीति की आज की बड़ी खबरें",
-      "description": "देश और राज्यों की राजनीति से जुड़े प्रमुख घटनाक्रम और latest updates।",
-      "link": "https://www.indiatoday.in/india/politics",
-      "date": "2026-08-13T11:00:00Z",
-      "source": "Bengal Today",
-      "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "world-001",
-      "title": "World News: दुनिया की आज की बड़ी खबरें",
-      "description": "दुनिया भर की महत्वपूर्ण घटनाओं और international developments का latest update।",
-      "link": "https://www.indiatoday.in/world",
-      "date": "2026-08-13T10:30:00Z",
-      "source": "Bengal Today",
+      "id": "c9a1d74d19016ae2",
+      "title": "Breaking News, World News and Video from Al Jazeera - Al Jazeera",
+      "description": "Breaking News, World News and Video from Al Jazeera    Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjJlVjlzUGVlRDFaWFRRZG9LVEZpMGswbEZ1VU50OVpzamxtSlU2RXlVTkZoa3RqM20tYjJUZ0RQVVA4X2NRUTZ4ZVVuWnpiTENNdHlIdFhqY1VPLTB0cmVpMWJIWVFjTXRqa2IyMWFyQVVzOVVZNjdSaWFSa19sSWtJRm5TY3UwMzdwVjVNTkt6QlRlNElqZTZfVEo?oc=5",
+      "date": "2026-08-13T15:03:57+00:00",
+      "source": "Al Jazeera",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80"
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "business-001",
-      "title": "Business News: कारोबार और बाजार की बड़ी खबरें",
-      "description": "Business, economy और market से जुड़े महत्वपूर्ण समाचार और updates।",
-      "link": "https://www.indiatoday.in/business",
-      "date": "2026-08-13T10:00:00Z",
-      "source": "Bengal Today",
+      "id": "11ea356822a3f4ff",
+      "title": "Congo's fastest-growing Ebola outbreak reaches a sixth province - The Economic Times",
+      "description": "Congo's fastest-growing Ebola outbreak reaches a sixth province    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPLWVMRkZjSGhselZKQVF0d01yaHFkMWhybFVqYnpONzRxU1E3cGpadGNlWVFoZ1MzUHh2dG0yXzhYSTNpeWxiX1NpVTlYanp6Wi04NnRBMWRZSkFRa0h2OHJfa25LaFlIY1RhMzZrUlloSnVwOURGWHF2MURhb0VJRlZNbTFYRXVJdzhBY2NBeVIta041TTZBOVR1NWxQSy1vYXZ0Tk04akloS29uNTd5TVI4ZzJnRXRMWGktVkhiTzJ5anRPd1NSUmJvU0YxQVFBNU5IdW5SdFU3enp5NTU2ODMtUXN5X3d0VWVaRHU4RDBYa2RzX3E5eXpmTWtnUUxZYnczTjBQS0taaW85cDRweEtoTkRyV1dQVThYS2ZCbFMtMnRkX2Y5WE1NeDFYZEttZktzazBMZHBTRDVwWGpFUnRfaURfeXVj0gHkAUFVX3lxTE9UWUZhUjkwZ3JidEEzV0tmN3VaVGtZQkhJbGhwcVpsRkhwRG9jbnVjZWdhMnFGUVh2eXJ0eGNfTXBjcGVkaE5ITFRCb2tmaE95MGsyN0pKZTZQeWZ2MnZ0b0xzNkVEbl9ZRlpSZ3lxN2czbTBZUTFfNnBSZG8yRk8tX3l2RWRvZVkwT2FtZ3J0NVZpRG1mLWRQY2JiZ3RGdWtmOEpmVk1sMmxuSVQ1eEVtUUZxVWxjRHFHMzBVQWRNeGNJeU12Wk00ZHYwNzhzcUhVNkxKOE5ldy1sRl9WSFRuUlE2Rw?oc=5",
+      "date": "2026-08-13T14:53:46+00:00",
+      "source": "The Economic Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "f3e8a081fa203fe7",
+      "title": "Karoline Leavitt resigns: Her role in Trump’s India-US trade, Operation Sindoor messaging - The Indian Express",
+      "description": "Karoline Leavitt resigns: Her role in Trump’s India-US trade, Operation Sindoor messaging    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkx3S2JHU093YlJVa3F4YVlHWHh0LUJVRGtCaFBiY2tyRExpWjgwVnFBa3k4dldtS0Q5OHlCNVk2WV9CbFlfZjdyNHBlOVR3RlhQVlNicGFtc2lvWThqeV9URGd6a2JLb2p3Xy1kWnlUdk1JOWpDRG5vSTlZV1d0WXFlcnU4UlVtR043UVByLTM0aU11U0htYnd2R1dHMnlrNVNkaDdFcTRHdmR1QkJvRGV4ZHFHa2phRTEzcktfLVJCZ0owV2pFZGJzSkHSAdMBQVVfeXFMT3hPbWg0X1lfUjhadDFRSmNXWVU5alp4NXRPWWp2YkVpNFhFYUlGOTFnVDR1Qk92bDJvcXE1WnlvSi1JWlpqYmRYNElEenAxUDlmaEkxbS1zNlVUQlhDTlZOQVpmZllQOTVPbkZBZ3dzUHZCNVVuSWEzbU1lNWhCeDNPdnhjYl9jblg0MEdyZDJPUWI4VlpMYk1wUmFEZEhVZVdZTm9Na25Xb085SWZqRlVUNDhrMHVMRDRWNjQ4SHVNLTQ2NHNldGR1X3I3VDE2SWZwaw?oc=5",
+      "date": "2026-08-13T14:51:03+00:00",
+      "source": "The Indian Express",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "da0a3621de714170",
+      "title": "What Trump tariffs? Russia accounts for more than half of India’s crude oil imports - The Times of India",
+      "description": "What Trump tariffs? Russia accounts for more than half of India’s crude oil imports    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPam1YOG5Palg5blBfZFBMd2RoWG96bjl3N09lME9Tb09DbVJyTUVSanZmTm05bEFndmh2N2c0SUdiZ1laeFRMbDBUQldKY1FkbGdkUWtrS185QUFad2xYSmgyVUh4c3dRdXR2c3Z5M0JwRDhmNDd1bmhFbEowdGVuMVpFQXFZZnhsWHN4X2E4b0hST2J4Q2tpMDFtZXhlOUQ1Z2lCM0oxZ3FGbUF6dnRDZUNzLWs5NWJfVXJZZG5HUG1kRTVmWXhDTEpLYUFLaXRleTc3TDFIa3JCUWIzaFA1ZzNqdWRGMUZDek95bl9raHdfWG1uUDNQRTlNc9IBgAJBVV95cUxQbUpyTERpdHA0QkFKWjVTNm5yMWJyUkpBM0E5TnRMdnR0dGJwV3Fzc1BXNVRTM21sNERMaHE4aVdxTVZDdjRPaHRraFh5Uy1sWkZqZmpBdlk0NmFWa0dla09iNW02Njc1TE9rdlU3Tmh6MFNCOUprMGxlV2NCTk5wclRrUnVpQzZfMVZ2Vk5ZNnpBTXdXa21fQnFmNXNtNmNoYmVPQXp5VEFOMkNCdWJ2MEVEdmNHNE5nUm9yNmdRQk1LY0FKcTQxVWNsMGxESHVJZ1FOQ18ya1lLNVM5LTNjX1FBSG50X3J6ODB3aHZUTjFubzNOTURTS2tQd0F1eVMx?oc=5",
+      "date": "2026-08-13T14:51:00+00:00",
+      "source": "The Times of India",
       "category": "Business",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80"
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "sports-001",
-      "title": "Sports News: खेल जगत की आज की बड़ी खबरें",
-      "description": "Cricket और अन्य खेलों से जुड़े latest updates और महत्वपूर्ण खबरें।",
-      "link": "https://www.indiatoday.in/sports",
-      "date": "2026-08-13T09:30:00Z",
-      "source": "Bengal Today",
-      "category": "Sports",
-      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1200&q=80"
+      "id": "f9f2b8a403bd304b",
+      "title": "The high-stakes battle for UP 2027: Why this election could redefine Indian politics - theweek.in",
+      "description": "The high-stakes battle for UP 2027: Why this election could redefine Indian politics    theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGF4dkFDUWNRNDd5SXpWc3pqV1B2T2dvaUlUN3Fzc2pZakh1RkFlN3RJVjdudWZleU9XTEtkTi1HWklqeUlnU0tmdXZyX3JlS2RqUTQwZFBYVlB4TlRlbXoxOHNxNXBGQ0dhQlloQi1YTWFjMW9xVW1mRUN2R1pIQ1dDYlQyaDlpaVA0S3BZbmNTRFVkcXplZlNFMTZVWURpb2JsTWY2V0JFaWF5YTV1WEJ1VjFVNTdyYmVQMzhNUGtzcXN6U3BveEVYaktUd9IB0wFBVV95cUxQai1vcWI5NVpiRTRVOTNSanpQUDU4SWFuOHV0Q3RXTktCR1JFcndYVU5YeURncUQway1fV2kwUXZDSEMwM1hSd2ZORDRmWHBGdXdMMmNIam5QcXFGck05dGVZakVvbnQzMnZ1NnFwMVpnVTFPY1NhQVBxOHUxc2ZFaUtYNmhUS0R1ekhYQXJNNTY3aGlnQU5aYUoyTE5nUXBBWV9QVm82S1ZEM1JhWDBPbEdzMm56aHBfM25tVUtDQ0VPNzduTV9MOXpwSmpWZFh5d1Ew?oc=5",
+      "date": "2026-08-13T14:40:58+00:00",
+      "source": "theweek.in",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "education-001",
-      "title": "Education News: छात्रों के लिए आज के महत्वपूर्ण अपडेट",
-      "description": "Education, exams, results और students से जुड़े महत्वपूर्ण समाचार।",
-      "link": "https://www.indiatoday.in/education-today",
-      "date": "2026-08-13T09:00:00Z",
-      "source": "Bengal Today",
-      "category": "Education",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "technology-001",
-      "title": "Technology News: टेक्नोलॉजी की आज की बड़ी खबरें",
-      "description": "Technology, smartphones, AI और digital world से जुड़े latest updates।",
-      "link": "https://www.indiatoday.in/technology",
-      "date": "2026-08-13T08:30:00Z",
-      "source": "Bengal Today",
+      "id": "a861e16094c7a498",
+      "title": "SaaS Support Does Not Amount To Transfer Of Technology Under India-US DTAA: ITAT Delhi - LiveLawBiz",
+      "description": "SaaS Support Does Not Amount To Transfer Of Technology Under India-US DTAA: ITAT Delhi    LiveLawBiz",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGZUSTBZMHIxT1VZakpRRzY1aUVCd01JMnREaXpqRXFOS2haSXdUV1VoVEpOVmV5NUZ3dDlMUThPd1RmOE40bjRVNHBBSndhYUFxNVNiVHJFTlpTZnNNSVpxN3lTRTg1SU55dXZQY1dodllxMnJHdEhHUHY0V254RG1VVnNpeVlHOVNCWnpsb3RFdGpwaUJuTlc1Q2FmSENHVlFSVENyZnpRQUFvbmtlN0FWdWdqbnZuMXB0NEVWZTkxUXlZbVhhS2h30gHPAUFVX3lxTE04bThjMnlld2JYODlPU0tONXVaX0hZc0czNEtSa3JqLWxxVFA5RksyaVBFTTFvTkJfb19hSXNib0FiLXFoMEhKQ1JUZmVSaHJNR3h5dHNGVmJMRzh2VTFCZlJYMDZhWVVGRjhvRTAtdEhLVjdaM0NHTmY1WmpWVy01YWpSa2RVNzlmNjBfMDlaQ2dnVEVlcHI5X2lZMTQ2UWpJYTdmYXN0Nnd6RDdDQnZrU1RQakc2YTgtaFFpZWEwNXpkSkY4ZGR4YTB0RnQ3QQ?oc=5",
+      "date": "2026-08-13T14:33:18+00:00",
+      "source": "LiveLawBiz",
       "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "entertainment-001",
-      "title": "Entertainment News: मनोरंजन जगत की बड़ी खबरें",
-      "description": "Movies, television और entertainment world से जुड़े latest updates।",
-      "link": "https://www.indiatoday.in/movies",
-      "date": "2026-08-13T08:00:00Z",
-      "source": "Bengal Today",
+      "id": "188677830ca34be7",
+      "title": "India and Nepal sign MoUs for eight development projects in education, health and agriculture - News On AIR",
+      "description": "India and Nepal sign MoUs for eight development projects in education, health and agriculture    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeG1Rc0xkMWZxR2l2NGV2TkdMczFfNXJ4ZFZwczBXcVpPOEZPMm9iTlpFd25DWk5HM0syUnJQMkdZN3JoWWpKUG1mbXVNUFNZMlc4UmcwVmhtOE1Tc2RyQTR5NE9oRjNPa2lyV3U2cG1FUFhya3ZzMjRBWWNuZ2xIcGp5RDRQSXZVUDUweHkxT0wtVG9FNXdVVlRPeE83QksxMnZEaGYyQm51cWY3ZnFWbXFSUHVmTTJXdXc?oc=5",
+      "date": "2026-08-13T14:30:13+00:00",
+      "source": "News On AIR",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6289ff19a510446d",
+      "title": "West Bengal: BJP’s Rajya Sabha MP loses top honour over ‘derogatory’ remarks against Netaji Subhas Chandra Bose - livemint.com",
+      "description": "West Bengal: BJP’s Rajya Sabha MP loses top honour over ‘derogatory’ remarks against Netaji Subhas Chandra Bose    livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRmxSN1VTbDJBY0tFcHdNallzUVBBWllGcVhUODIzYU9UWWw5aS1TTDktb045by1EY1NGcEZRWWc4TUFjUDkzOTQ5TUtfY2MtMzk2Z0tycW1USHhrcC1OUGZtV0RzMUtKMlF0U0ZBOGxIUnVyak9pbWlDYTBDSFdMNVlCeGdweXhmdFdENUF2c2Rpd3phZ2tBSlR4ci13SFpxWlhRUU1QTGc5Wlo1djFmQ3JNYm1GdUVDSW41OVVDekRUbFAyaUEwY0RVQkFaZ1J1dm83STRENzRPVF9hcHRQUHBhZmNUM1FzcXZjalpIZWIweG1zU0Zj0gH8AUFVX3lxTE5ReThpNmJhRDJYd1RNa1ppckY2RVZpWlNnWURxTG81N3gzYjJNNWF4NEN5SjNHVEl6V3NrWEIwdS1WbDZoendWTS1xMGRoTDllUHF6ZWlKVXE5N3ZOOGc1bXJuNUhhdXNQQ1l0b3hVai1XcUVWTE5UaXVJUTBqVTdsR0NZTnkxeGxTZU9mVGdFQWhjenNOaGpaRzdFbVdXeU9yakxSc3Y0M0dub1dESjcwYlpjU0Q2YUhZWTBKREJPY1FqS1ZPcWtydWRQOC1PWlQ3RHYwUnlXMWtIb1dsdTl5bF9idm1fcXdhdWJNOGdnVmk3ODVFVzNNTU5qVw?oc=5",
+      "date": "2026-08-13T14:23:09+00:00",
+      "source": "livemint.com",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b09b0f09565059f6",
+      "title": "Neeraj Chopra Foundation, Pullela Gopichand and AISTS INDIA launch ISCE to shape Indias next generation of coaches - The Tribune",
+      "description": "Neeraj Chopra Foundation, Pullela Gopichand and AISTS INDIA launch ISCE to shape Indias next generation of coaches    The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWUd3dVNEMmxDeEZFLTNrUlQ3azNYOTVHdThGQ0J1b2ZGZDQ0NUoxNGk5OFZiSnZ1aGxWVTNZdHdDLW1CRzBpYk16c0FlNGd0UFcxc3hMRDZfaVh5WUdiSUE2cWkxR0I4TjdPRi1wU1U5WTJfOHR3S1NzbmlZdy14ZjFrZkVQc3JPeXRQSTkyT2JRYndEUU1URDRPQ0ZnOVRMTU9sazNoVXQ4MG81TzZBM2lUQVFSQ0RSRDhRaUdLYnFjRzgxQVZmaDgzbHFTdHkyZk9rX2JPUFdMUWdyb0ZkZERnVHZ6LTlwQ2JR0gHvAUFVX3lxTE1OcUN0ZjlrdUtkeW1Bc0U4QzNzVkVYYUloNHQwT2hEdFdCT0NkVzB6OENQMTgyY3A4WXFmTm5YS3B2Qlc4MUVPNXVXd1Y0VFB1UTFESUhyalNiV1c0cFdPekEtMGNhdTlYU3o4NXNNbllHemJwV1R6THI0b0lwaUVWTXAwVVFQa2JnRndrV0xBNVNvX3hyWDJmQWludDFnU255dC1WRkZmYldGMldJYjZCWl9Fc3JxaklxR2FTMmpURG4yQktUb00xN3dSSGJydUlESmo0cGlUYksxV1dLN1JiRU8wZWg2MUc3WU1RVUxR?oc=5",
+      "date": "2026-08-13T14:13:14+00:00",
+      "source": "The Tribune",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "635370a6fac000c0",
+      "title": "FO Exclusive: India’s Youth Cockroach Protests Rattle Prime Minister Narendra Modi - Fair Observer",
+      "description": "FO Exclusive: India’s Youth Cockroach Protests Rattle Prime Minister Narendra Modi    Fair Observer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjdybE96cS1zdGZDRm9EZjZLc0hnZ1ozMmYzS1A2UHM0cWJ2Y3lqY2VqaU91cUNSU3YyTmxSbUV2S19YQ280MFJmV2NkbW5fNmpzbmZlMG9mZVZqTkNKb3FfYWNxY3d0LTFHdTZCQlV0d3RkcVhEUGVhN21uUzBLNGoycXRXWUVKRGRRUXNkU0N5SUY2R2E3OEVFOWdHSFRMeThUaEJoclhTbkgyQlpwMktOMGxMU3Rvbkpr?oc=5",
+      "date": "2026-08-13T14:10:37+00:00",
+      "source": "Fair Observer",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "d3bec9e826560581",
+      "title": "India welcomes Kenya’s decision to recognise Persons of Indian Origin as indigenous community - News On AIR",
+      "description": "India welcomes Kenya’s decision to recognise Persons of Indian Origin as indigenous community    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2tzZkVKN3JiQndOd0VCdlBRY1VTVno5Q1hmdlJwVDQxNXNDTkg0bDBVVUQ5VW85elJ5V25RNWZIUnB0X1B3dEVXRGJGcE5KYk8ydG1hQ0lIZFk0bm0wQ3JrbTRaaWhKVXQwNDdHQU43UTExTU4xVmtGYlNhR2RORkdwSjctdXN2Ml9EdFRzSlNBYVl6SWIxcUJ5QUw1TnllOG1vWFJYcXp6ZlNkU1M2aWp6VUk1LWxtVWc?oc=5",
+      "date": "2026-08-13T14:10:35+00:00",
+      "source": "News On AIR",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "0d1cf1326bcb3a47",
+      "title": "Forward Bloc asks Modi to accept Mukherjee Commission report, halt move to bring Renkoji ashes to India - The Hindu",
+      "description": "Forward Bloc asks Modi to accept Mukherjee Commission report, halt move to bring Renkoji ashes to India    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1djbWlKcjJualdfY3NoeUszUXZNZUE3cjR1Z25TMmxtWmpqMTRfTlFxVUZ6VnpFLUpvSGNlVXhQb1hNZVFjdjEzNzlaek1lYk4yaVdvRnNBNnRmenJQM3Bua2IwRHNNVE0wMTR6ZDNBaDhBa2U5amdBdUhsY1ZhaE5RejdIQmVWM2FNYU1oTU9lcXlWY2htS3VjTm11QzV5N0c5aEl4ZE02c1NDRDlqOFM3bmp5Y0pWaXVNYXBxRXJSRHpDYUY5bmR5cDJXbVRISU1oYndLY1lLS3VuaG9iVG14eU1aNVFFRzFrZUNCUG5XYzjSAfoBQVVfeXFMTXJyUUoyX2NZM21xaWE0d2UzYXQ3MzE2UXRLcXlBcEFCenZveWZHWDJzWVJMOUxZU2dkNlViWUFOOFdMZE9wVGJwWTNReUdKSGZZeXNxNmp4UkxCUlB4dXNOalNmUVg2OFZsSGVoM1F4SmNBQnE3bDZKMGVkQ3pERjRyTl9vODdxYlB4UUFwaTJuZzVXNFJ5M3NaWW5QNDZ0OTZDdDl0NWZZcGNnOFNiMmk1aVI1TmdOcW5xQ1ZBOE1DSjYzbmxodnMwRklLR29JSjh6TWdOSGFBY1hjTVVoUk9EVGlnWElSSUhLMGZnNFctRUt5a0FkRHZTQQ?oc=5",
+      "date": "2026-08-13T14:10:10+00:00",
+      "source": "The Hindu",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "caf9d9ac02b0f908",
+      "title": "No NALSAR 2026 graduate to be enrolled as advocate: Bar Council amid CJI invite row - India Today",
+      "description": "No NALSAR 2026 graduate to be enrolled as advocate: Bar Council amid CJI invite row    India Today",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbVpqNkl5WkszajBOdmJtckZkYlRtbEZtTHBQT3RORlh2dnprM2JHN2k1SGN6MEFmRmJHeHZfb1Fuczh2aTlLdWFwZUJhYU5ENlE4SzZ2dG5WTEpBQWU3NVd4TFhERnR6eUh0MUZmblAxRkM0YzNTdXFhal9QeFJXS3BGTG1PYkw1SGJhOTl0UG1lX0FFXzF3cy1CdVlJVEZPYWZackhac3MxUVo5Mk9hVDRjWjVjNV9WUmtmNXNRUS1tZUlmUmsxcDEzdUxRdm5uZ1RJc2VuaHdDU0Q2SWk1RDVETm45OVJ4NWhTaERhYUdSMHZCTXNNRjFnUDJOWkYteHfSAYcCQVVfeXFMTURsaVNMQXdaSXozUEppaXdYMzg4dVZmVXNTY0lWOHBDMVlBM2FlR2FGNTh4d0RrSldzdzNtRUxQN1piUVVsWUsyR25wbzV2elhRaFZrZVpDTnltMDhLc2VQVjJoUTBRcTRJX3Ffb1FkZGgxX3Zfc2E2WG5ELUhUOU5RUTJmS2lrd2oxRDB3X0t5YlF4blJKOTlzaHFaV1lvRFJnc0hHRVdDU2VkQnI1ekFteFVwSFpKdk8xYy0td1pLMzg4Qk5QZ1Axd3BjeGxQMGNPWmxqdXhxZTV0UW1Pemxkc0tQdVV4Z1ZiSkMyUVJlTUVJRHhHZmdxLVJoS29QNkZWLTJFcXM?oc=5",
+      "date": "2026-08-13T14:01:58+00:00",
+      "source": "India Today",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "409e29b67bed39eb",
+      "title": "Is India shifting from a secular state to a Hindu homeland? - news.northeastern.edu",
+      "description": "Is India shifting from a secular state to a Hindu homeland?    news.northeastern.edu",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05YmRudW9nc1ZBSUwwNEIycUxsRk55bC1pVURMaDdpUjlNX1VjOTNDZkE3aHZLeDZ3ZFNQQjAwTW1Ec2h0WmhUSXMyYzVEMmhTLThaUXBtU200YXBZY2NISWdFX0JTWUZ3RGd3U3V6UXk?oc=5",
+      "date": "2026-08-13T14:01:24+00:00",
+      "source": "news.northeastern.edu",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "194b1f284dd1d648",
+      "title": "T-Hub launches 12-month Blueprint programme to help deep-tech startups scale - Fortune India",
+      "description": "T-Hub launches 12-month Blueprint programme to help deep-tech startups scale    Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRGhaMjRfVXpiZDZ6U1M0MTlDaFdjeHM1OWZCMmM2cDRNWUNtQ0dqT0VBUGxPeEdnSHp2WGRsOWRCOTFwQm9YQ0VRYVdwN1ZjMnBzM1NqZUcya3ZXQ2RqcGNmcjZnSUpMZ3ZnaEVoTndGNWlhS0FRYnJaZHU0a05ILXFCakwxVnR4N0J5bE40X3g4d01rSGxvRU5kcFFPX19uRmo2Q3hWRXpLeEstOHVQTjJnTDQyMXhVRUZER3NhX1bSAc4BQVVfeXFMTllyLTRrZEk3WElxSW1CNDVYOG5tajY4Vy03ejlMZjI4VEJXVUFmb0Rhb0hmY2RUc0ZLUW45Q1J0WnJYYU9jbjQ5US05MU9ZeHJyZkR5MWJXamdJUmo2R1NIdU9aaU43S0ZfNVExMWh2RDVfeklNM0g5VVRrd1E5X0E1endHZ0xRX3VQbE85MXcweUdzWW5rN2dUbENKaVpxeXRnamFIeUJXRFN2UW03ampEcXRTRnlCQWlIVUZja2Y1SEVaNkhRWlFET0E2RlE?oc=5",
+      "date": "2026-08-13T13:56:03+00:00",
+      "source": "Fortune India",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "de6269a4a7934115",
+      "title": "Will the world’s drying lands get relief from COP17 in Mongolia? - Climate Home News",
+      "description": "Will the world’s drying lands get relief from COP17 in Mongolia?    Climate Home News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmhVckQxbmNiVXhBNC1uZ0REXzF5Vk9qcllkcjVxZV9NNGhlS0J3WS1URlhITHpCMGx0enRvZzVDRU9tZ2VNVDhWR2g3YWo1ZFg3bjJJX01iZXFjLVZkV295ZmVqY1BVLWl2Nms4UkRPbGdzYW5VaFBVUm1ac1ktRFV0UkFkeXFTNUlWdEkwODlzZHVTN0VJZ2EweXRlZlIxVnJpZ1Ftbk8wN0lH?oc=5",
+      "date": "2026-08-13T13:49:57+00:00",
+      "source": "Climate Home News",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e17944a4a7ccf9b8",
+      "title": "World News Today Live Updates: At least 1 killed in explosion at Europe’s biggest port in Netherlands - The Indian Express",
+      "description": "World News Today Live Updates: At least 1 killed in explosion at Europe’s biggest port in Netherlands    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWUNtOUhFaHp5TGpmbTM4Q3dZZzgyTFlNLTVSZ1VQdmt1T2o3VzQ2M251cEh1UDg1a05PZG9ZdG1fNWRQd2xaMzI1T3lfNVdsYV9uc2cweGpNcTBpTGdLZkMzZ09rSWJuVVR3WUJTVEhtbDJwWFFsUC15cnJ4cENPRVBxZzNUYldCRU9ZQzFIV0FBRHFqNS1HUEo0MHFtX0QtZUtFNkRrNG1UMFU2ZHhLVTFNczhNN3VDcXIyaW9SMFB0R2phUGt1eTBzcFBDdWdSdlotNE5fTFQzdlFJXzVidGE5azljREY2b0HSAfABQVVfeXFMT193TVkzbE5uZ3FSREljUVdldDB0TnZ4NVp2TG5yekh2WnNrci1xNzJHaHVDaVZLNXU2eUhuTTlDcGpKc2hFZzJFeFg3NjN3dnJkaDNUTHY2ZXBTcWpCX1RxWTlld0dTNHo2VXd3MnEycTZkcUItai05dTNqc01vRXhQRmZDSXdrcS1PeDN2M09iSDc2MlpINXlYMTV6eW1lUmpHV2JBME9vcHctZ0ZlNTBIZTU4Wkc1cjVoWXRYcHcwQjgtSloxNnQtTDVsbkwxbWVLdS1WUjVNT1FQZ3ZGWnBhSWNWZGc4U1JWcWsyZkpk?oc=5",
+      "date": "2026-08-13T13:47:46+00:00",
+      "source": "The Indian Express",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8e45c04986e02416",
+      "title": "Field Marshal Munir and the Pakistan Paradox | World News - Hindustan Times",
+      "description": "Field Marshal Munir and the Pakistan Paradox | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWhaN21aZHhYUERxTVdZazNtSGstTzF5U0ZwY0FkR3JybzgxR29VWnBZTUpXQ2hiYXBRRTVTeV96eWhPaTFFNHA2bEQzTXNGaGdTVUFvX2hfTVh3WFpZZE1yeExnNFJGbUk2VnYxV1k5MVN0VXJKcVlKcjllTGlFTXAtRDhoWFQ0UnY5Uk0wVjZSVXJTdktkMzNmNkNWSjVLNXlrd3lZMURjdzjSAbABQVVfeXFMTy00M2RkTzI0cks5cVhwRXpfem1RRjM4VWFqWGFpY25qa3NNS2EyLUcwWHBZdW03eW9QdXBhSG9yWHRlNkZ6Zk01eFBPcEpDUU5hWi1Ga2owXzZMUzJON0Rnc3hOdGhaeFEweXpEZTFIZUt5Y3FmTmREQW13ek9qd19CVmRJeTdGcGhuRVlSWmVFblRlZ2hPbFk5b0NkWS1tV1F0ZFFnc01zYjBjdlhuWHo?oc=5",
+      "date": "2026-08-13T13:30:40+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "d4f94d116293a3b3",
+      "title": "Field Marshal Munir and the Pakistan Paradox | World News - Hindustan Times",
+      "description": "Field Marshal Munir and the Pakistan Paradox | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTQzZGRPMjRySzlxWHBFel96bVFGMzhVYWpYYWljbmprc01LYTItRzBYcFl1bTd5b1B1cGFIb3JYdGU2RnpmTTV4UE9wSkNRTmFaLUZrajBfNkxTMk43RGdzeE50aFp4UTB5ekRlMUhlS3ljcWZOZERBbXd6T2p3X0JWZEl5N0ZwaG5FWVJaZUVuVGVnaE9sWTlvQ2RZLW1XUXRkUWdzTXNiMGN2WG5YetIBsAFBVV95cUxPLTQzZGRPMjRySzlxWHBFel96bVFGMzhVYWpYYWljbmprc01LYTItRzBYcFl1bTd5b1B1cGFIb3JYdGU2RnpmTTV4UE9wSkNRTmFaLUZrajBfNkxTMk43RGdzeE50aFp4UTB5ekRlMUhlS3ljcWZOZERBbXd6T2p3X0JWZEl5N0ZwaG5FWVJaZUVuVGVnaE9sWTlvQ2RZLW1XUXRkUWdzTXNiMGN2WG5Yeg?oc=5",
+      "date": "2026-08-13T13:30:40+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "eb1a32f8243d0dd4",
+      "title": "India’s first female actor Durgabai Kamat escaped violent marriage, chose cinema for survival - The Indian Express",
+      "description": "India’s first female actor Durgabai Kamat escaped violent marriage, chose cinema for survival    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQXprMktuTUVjY3Y4M3p0MThlSmFZZWE4Qnl3NDZVblJxZjV3Umh4ekJtVnhuNEdRNkhCUDRJNjA1ZUpkZWtWeEFqd3g0MThVNXR4TVFqVnBqRDhkUld0ZVBFWF9kQW1MampJMXh0ZTRXUWFjdmlBdXZUakpMMW5FZW15RUhfNWdJT2ZGdzgtY05ma2xwUDJpZDZFNVpZdGM2YWJneDdPNmdoS2QxUndRc1VyN3VHQk9nRWxjbFhoOTVoWVdkOTFRLTFLN21LSGVyVzJIV0dubEY1WE96RGtnX1NtVEJFSE9XS2E3NV9yRXTSAfcBQVVfeXFMTlIxUFZPUWxMeDZtNG5RVmFuLVNFWU9HQW5qN3FPV19jTHFkOVZnWjRmT0JfM3U5Qk5tdDBXTlhaa0RBbnpjczR2VjNIeDlsZ3k0RzVKR0k0UDF1VXpheGhlblBlTkpyWU1HSzJQVVVxemloYnhSR2g5NFZpSDdMbk5VTC03bkNJWDBnbWFWWmI0NHRrMXFMa2dtYndxZldHcDdwclFQek55Zm14ODZGckpGOEVJSUFvd25BdVBFZXgxczVXczkxMmkxTGxEV3gyTFJQZ3gwdEUtdFA3Um9mRVRFS0pYOGV1Tm5wdGZDdGItY3BzUGxiSQ?oc=5",
+      "date": "2026-08-13T13:28:03+00:00",
+      "source": "The Indian Express",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80"
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "2c48c146a0c71570",
+      "title": "School assembly news headlines today- August 14: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- August 14: Top national, sports and world news curated for you    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVpsZXRMZ2NnWTFzZGdKNWE0QnJHRFRrd20tOWZBZFNwM0owUnFLZlFPQmZaUHZfSHJseFBtZG5CNzZyZEFZbjZLd21BWnc1N2E4enA2NS1LZXdfcUFmTVJTc2VIN19RTXNNM0E5UFVyM1BPU2U0bjBQcl9pNDhJMVBWMFR5SmVnbzRGNzV4UXFUQW9GcElJOFBpQkFlY0c4LTNSUjl1aDZEY1prQ2c0Z0ZOdDZycmVzZVVLekZHMmZxRjEyNlViaVJQdXdaUnRnLUtGYnB0eDZxd1VjOVg2TG5uaEQ?oc=5",
+      "date": "2026-08-13T13:19:22+00:00",
+      "source": "India Today",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e45d9d118f3782e1",
+      "title": "School assembly news headlines today- August 14: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- August 14: Top national, sports and world news curated for you    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVpsZXRMZ2NnWTFzZGdKNWE0QnJHRFRrd20tOWZBZFNwM0owUnFLZlFPQmZaUHZfSHJseFBtZG5CNzZyZEFZbjZLd21BWnc1N2E4enA2NS1LZXdfcUFmTVJTc2VIN19RTXNNM0E5UFVyM1BPU2U0bjBQcl9pNDhJMVBWMFR5SmVnbzRGNzV4UXFUQW9GcElJOFBpQkFlY0c4LTNSUjl1aDZEY1prQ2c0Z0ZOdDZycmVzZVVLekZHMmZxRjEyNlViaVJQdXdaUnRnLUtGYnB0eDZxd1VjOVg2TG5uaEQ?oc=5",
+      "date": "2026-08-13T13:19:22+00:00",
+      "source": "India Today",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "79e3ff67701febc1",
+      "title": "School assembly news headlines today- August 14: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- August 14: Top national, sports and world news curated for you    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVpsZXRMZ2NnWTFzZGdKNWE0QnJHRFRrd20tOWZBZFNwM0owUnFLZlFPQmZaUHZfSHJseFBtZG5CNzZyZEFZbjZLd21BWnc1N2E4enA2NS1LZXdfcUFmTVJTc2VIN19RTXNNM0E5UFVyM1BPU2U0bjBQcl9pNDhJMVBWMFR5SmVnbzRGNzV4UXFUQW9GcElJOFBpQkFlY0c4LTNSUjl1aDZEY1prQ2c0Z0ZOdDZycmVzZVVLekZHMmZxRjEyNlViaVJQdXdaUnRnLUtGYnB0eDZxd1VjOVg2TG5uaEQ?oc=5",
+      "date": "2026-08-13T13:19:22+00:00",
+      "source": "India Today",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "c10e33cdccdb673d",
+      "title": "Historic moment for India, wins Commonwealth Fencing Championship for 1st time - India Today",
+      "description": "Historic moment for India, wins Commonwealth Fencing Championship for 1st time    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXNpby1pY0c3Q0NyUjZzTGNWY043c05Fal9zQW5tNUE4OXQ4S0hEam5qZnlmRVpmMkh3MWIzd05ZNVBtajZSMkU0SGtLdGRJU2h5UE5HMjllM1ZpZ2NyT1FjQURvU09Hd0VhN2tPYm5pdTdfeHJEX0RmOTVnSmczOTFVOG5SRExzUkhkZ2ZNMVl1NXZibS0zYjdNZnQ4ZmtKY3c1aUt1WjhTNUlhNVRaSHhrQ1RxU2pmMlFmblhzSVhwRlFtSXRibWxEbWkydnJtRnJVRi1SS3FPZ9IB3wFBVV95cUxQdXVYOHROUFVPTE9iMmZLV0VVeGs2OUVWWXNGanBDamZ6WlJ0LXZ3U3JjT2tmYXB3VU1oSDBaYlJvWmZNQkdGcHFJWEgzbEhyODQ1Q2VlV2pBN0UwbU9rcDM2LUZQc3hjdGhUc2VZZXFTRXpjWFF4bWNFdUFFamZmUDVhempTX09Ba1RQWHVfVnlmMzJhc1U0elRYT25EZUlOY1hMZkRaWG85VGxxOUQ2X3UtX09hQWJIOGZVTHFPS04wVVV0TGFaMVdWcFlPUk9nQXlOblBPUURnR196M0xV?oc=5",
+      "date": "2026-08-13T13:18:16+00:00",
+      "source": "India Today",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6ed72c68afb2ad0d",
+      "title": "Netaji comment row: Bengal govt withdraws Banga Bibhushan award from BJP MP Ananta Maharaj - Deccan Herald",
+      "description": "Netaji comment row: Bengal govt withdraws Banga Bibhushan award from BJP MP Ananta Maharaj    Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0w2WUJyTzNQQ3BkRk5JYXd4NnRWMEdmZ2MtRGFZMjVjN2pzUTdFTE1KUlVxTThxRjZ3NnROOEpoYkNoakx5X243WHBLc0JORkpITVBId1h3SllmbklJN3J6elRFLUZEaTEtMDZ0Z0tOMnNLbE1MdURsa2ZNTC1wLUdqZHRCMmdTQkc2LXVORndvWHZVTERsVi12NENWXzFjTGdTc3lEUUpldWVNMGljZWo2SHdKTTVoc1ltSXpNc0dNMDZYQVRGTnBXOUdVNVRJMzQySURuOUt5WjZo?oc=5",
+      "date": "2026-08-13T13:13:40+00:00",
+      "source": "Deccan Herald",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "06f28ebb21990efe",
+      "title": "Gokaldas Exports sees more global apparel sourcing shift to India - BusinessLine",
+      "description": "Gokaldas Exports sees more global apparel sourcing shift to India    BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHZqYm9CdGRiVndIM3RvX1J1aXlGWk1tdnB6YW4zTGJIdFRhVzdHb3I3RlBNaVgwZnFQVUcyMFlBZFpDZ1NaUnFYanVtZHJFbV8tS0pUOEpjMmVPNHBGRklUY3lteFJmSVY1S2w3cHZxcFd3OVVweXB4ZHZnOENRRVpqWlNTeVctdHJYMXNhYnhNUU11Q1JUZHlKZkVvZnB3YUNyelE4NUd1RHdUOEhyYnBOb1lIblFSQzZCZ2FuejhGTnJjTkd2UTdFaWXSAdMBQVVfeXFMTjZ2a01rWlVXZDFqell0LVBmLUZZcmxxazBYd1pYTUUtLUJZcUd1V19KeUstWGM2ZjdXVi00ZVZReUNlc213bzlneEJwUFg1RUkwb0lUUVRTcVJDZkVRbF9fdy1ZRGk4Tk4zNkowYUhYSDBrNzdta2N3X2pnVUtITDVRNm9qbUFvZ2ozMkVycWdueGhRX21nYVBIc2JYVjJsVGRTY25QMTBCWDFRNUp2dmplSTMzX2lkdy0yYmV2MEU0V2xtVkdYbG1DVXpGUmpmdFFZUQ?oc=5",
+      "date": "2026-08-13T13:13:07+00:00",
+      "source": "BusinessLine",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "7567778725fbdb04",
+      "title": "Olympic champion Abhinav Bindra to headline IAMGAME 2026 as Indias sports ecosystem converges at Bharat Mandapam - The Tribune",
+      "description": "Olympic champion Abhinav Bindra to headline IAMGAME 2026 as Indias sports ecosystem converges at Bharat Mandapam    The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOVNfQzhRT3hyUXdYR1RhdFkwUEFEcUxDMzI5QVdoUzF5UGxDRF9SdXg3SG5WcEN1eEJFemdYWTdlZ0FiNWdIUWx5dWNybGhJMncxX2lTaTl0OWFUTHZHQXdQUFgtMExjc1M5SUhId1FkNzhacUQ0SU1mNVMzeUY4SVBQTV9oRE1HQnJmMXY5TmJqZTBIT2JsQXczbGNuTGpsNllNRXRCNmhxLTNyczI1YWdvQkgyMDNVR3I2bUhyc3B3QzVYY0FsX0pWN2xJNHl1NE9tRHhzbmVveW5IQ2pNQnR5eE5KN2dHYkHSAe4BQVVfeXFMUG1JeVZWRDhYVXZBVjdTcnBoUUpXeXI2S3lzQ0lnS05JQVBaWFpzN3loVUVtMHNkY0wwMThWR1E0UzRQeG9LX3BsWUZITlRGQ0FzeWFzQ2tFazRSa080aHpKSXlSZ3M1RDU5cEtZcDEzazc3MHJYRXB4MWY2UGFnTFMzNmJnakxvWngxeTFjYTlhcUlPcjdibzZBVGRUZ01Ka0l5THV6NE8xVFpDcDVJME9JWldkdFZMN1hMcjRWazFxb0dRNFpyRWdSUFZmdWhsaFhsM2oyN3FjcURSdDZyMks1OEdiMXg0a1NfMExXdw?oc=5",
+      "date": "2026-08-13T13:08:06+00:00",
+      "source": "The Tribune",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "822192c45cb95f84",
+      "title": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs - The Hindu",
+      "description": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORm9Fb1JMaWV6dk5aZDVRSEhfa181Z2UtUDlHNnhGNVI4UWJpU05mMDlKTm1tOE9PN29VUG90LVJxTGFHYnpjQ28yVmNrdE1UZVV3eG5NV21zRWd2Vnh2N3VIS3J2Z1VkblJaYnlRZ1pwcHZtX1lWOC05ZVV4M3I2bUJ3blB2TGp2dDc3OVNuRFpfNV9fd3ZBNld3NWFZSGtGT0Q3OHFpMnpXT0JiRk1HcEd6OWJFZTZwenR1ZVhTQ0pYZ29nNnh3YkV6TUNlbS1TSDZuUnJUWdIB3gFBVV95cUxOeDZWZzBFdzZsSThnTm55bENtWEdFbURwNzhfRlJ2el9DazM1bFZMejROZTJLV3UxSnRvRjloOVFraG1XNUhPYllVR2lYcnkxX0Q2VHlsNGVISXlJLUx2TWRlQ1E1RDNwdHlPNExHRDhSRWJmdFdzbl8zZGpUNmw4Mzh6UXNSSGV2OG5rVWp0bUNNY3VoaXZTUm5tS1ZXNzc0ZFh6bHpPUzRkTWpyaVJBRXRtQl9ZT1ZEMzZ2ak1VdnU3TXRsRFdxSTdfTy1QNjBhazNlNUlYdDluQkFyM1E?oc=5",
+      "date": "2026-08-13T12:47:46+00:00",
+      "source": "The Hindu",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "54bc605744c581e1",
+      "title": "West Bengal govt withdraws Banga Bibhushan honour conferred on BJP MP Nagendra Ray - ANI News",
+      "description": "West Bengal govt withdraws Banga Bibhushan honour conferred on BJP MP Nagendra Ray    ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGltRDItb3VfLUppbGs2dXlybmhKdnhwQkp2Rmc3bVB5aEdfa0xVbGg3d0t3RFRwTHY2MExoM2RPTTRqcTdCNXV0UVFvOC0tZXJWYnRfajg4eDN2U3lxUjBfX01RWWp4XzVLSUUyWTRoZ2FSODlmdVJmN29OYS1Zdk5WRjJweWpEc0xiTGZDcmNITmNJbHlfbEl3Wk84UzA2Z1AwcGMwazh5OUdadHVSdzAydTlVT0h6SjlfdE9Mcjh5MHpDN3JVaEo2X1U5SU8tRUowWFhiLVM2M19VUUVn?oc=5",
+      "date": "2026-08-13T12:47:00+00:00",
+      "source": "ANI News",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "4ad59be8dcadc2b7",
+      "title": "TTFI asks Sports Ministry to keep suspension order on hold - The Hindu",
+      "description": "TTFI asks Sports Ministry to keep suspension order on hold    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnpvTGhDV2ZaeENDMmFUZ1lXNVh0cmo2QlI4cG1RQmVxbzV4d0lxUEhpbXN2VDRDZFRLVXl0M0ZrNnFaRnhwQmVOX1ZWTVJ4TFVyQ2pvV1dsZUhOX05zeHlGWDVIY1Z4SnJiU1NkRjlLUGs0RlBCS2N3OTVCck0wYXFwalI0NlFQWWd4TkJ6VTdnWGFkTFIxa05kUEtUYllKclA5OVhXSnZNQ01HcHZvYTNnQkdPa2FyWGcyeEJ4M0ZjbnZpUDAwUTVaMjVoN2YwYlRiejFVZ25kZVRKeW1McjZBY9IB6gFBVV95cUxNLUlYVzNfZDE4Y2NKUlBLd25NMnVyRno5aGNiR3dTWFZlUFMyWjJRb09rb1VRaV9XWlJZZ1pFVWdVR2diTEUta0Z0eEtNNTcyU3hOQjZNbEwtZTM4aEJiQWpfcFJ5T2JTUGx4bkRFc1dkV1V4Y2FMdVRCVjIzWjR0VFJIVTBrcF9pc05TWXhQV1kwNGFQOG40WkRveHJ3TFlna3o5Q0NsWXM2TzJkODdkN3Q0VzliZXlUZ3BSUDhhb0liU2hNaVVELTJHek10V1ZOZlA2SXJCSGJzMnIzcHg3bVVPLWNWaGl2U0E?oc=5",
+      "date": "2026-08-13T12:45:37+00:00",
+      "source": "The Hindu",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "cd2b49c206eb2417",
+      "title": "Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more - The Times of India",
+      "description": "Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZExXdzRSUlFjWlRGdVhwZ2ZhLWhaNEJZQnljOVM3ZWsxN1BFR092N09NamhLT2hGZG42a0dDOXJiZFVqbHdJdnBnM3BtR0puQ1l3SGFfejZuSnZoV3lJYjV5QndHT29HU3BYN3Q0UDJwSVpQd1FjVEV2c1N3OXZRd0g3NVVPR3JSWTAzNmJXMDVNTEdZanVyWFVHazFEMHo5YW9KeFdhV1h0WUM1aG9DYkJ0Q1ExMVJKWnotbjF1TU8wZXdDaE84UnlZYTlObnFiNkhTV2thakpycWNJQ3FrdGU3UkFyX3V1UFR2YWZiLWPSAfYBQVVfeXFMTmlwVFVFUFZrWEMzOVUtdUR3S2I2SV9pNGs5dXFwd00ydFhDNXpBNDB0a3BtdmRld2VVNVpNQzNuMW0tNVVpVi01cERaWlNnbFN1aFR4OHJ4c05ST29HMHNkTmNLRldhRElVNzJlXzBBUElzMGtQZTF3bTR6TFFtRlA5R0R2VE5zbGxsYWJuRmJlUEZRV1dnakFMZmZveXVtY3U5aTRUMGhITFB5SEs2YTZBNUNIV1JoSTdfaW9QTnUyTkpBV0I3eG05aUVWZm9NenVJM3pRWC1WNFFvc0FSNTc1eVFfNVltaUotZFVuYkxZb3BGRFN3?oc=5",
+      "date": "2026-08-13T12:41:00+00:00",
+      "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "95559d0039cace2f",
+      "title": "SkyDrive Aims For India Launch Of EVTOL Aircraft By 2028 - Rediff",
+      "description": "SkyDrive Aims For India Launch Of EVTOL Aircraft By 2028    Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFzSEtYdjNnMDdncTdUS1Vmb3J6bk1NSjdDa3BPX0JMLXNJVWVQaUt2ZHo0OEhOMWQzU2MxSVVmMHFRejJCUnllbm5pSnBCcldRRUY1VkI4UXFPa0RiUHNSZDZ2N0RHUEZFNENibWItSEdqcnlIWDRmY1JFWGNWWjNFdVMyd2VCT0tUT0N4TU9CcWxDODFDWjJSV2FlZ3plcVM4UjZxa1PSAasBQVVfeXFMT3ZPaUotWThyS1B0R2pfTFBwWV8tVGdXMXEtaGZTZmN6a0F4RTNRR2RSQ295Si1NZGhnN1NZaXBidG9NQUt0RHVhSHlHSW01cDFKc2lRMmpleXJtTlJCbGN0eGNnYkJxbnRmS3hYUU5fc3JGajBGUEJtTmdjZF8wSFhBOHYwOVc4emJzYWxJdF84eVpmQnZxNnYyWk9QaVo0b05Db3JORWZSYm5z?oc=5",
+      "date": "2026-08-13T12:39:45+00:00",
+      "source": "Rediff",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ed69954b0c01e5fe",
+      "title": "India news: Parliament ends turbulent monsoon session - DW.com",
+      "description": "India news: Parliament ends turbulent monsoon session    DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakhMRmNBUlkyb1dJblFTOUo1dS10WkJFVS1ONDVCSVJKV1FSdFByeENTeVljZ05hVEkxb2pEdk9ydXl2TXRTaHNFUV9qYkRCX2NrelV1eHB2VldPcHE3eEFTLXhNckE2RDNRT1JIdmNVWDBBY1VYUDBMWGJTTXh6UWhSSHhKSUJLbS0zYk1Oam1YQQ?oc=5",
+      "date": "2026-08-13T12:39:27+00:00",
+      "source": "DW.com",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "44ead79a498b58a4",
+      "title": "India news: Parliament ends turbulent monsoon session - DW.com",
+      "description": "India news: Parliament ends turbulent monsoon session    DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakhMRmNBUlkyb1dJblFTOUo1dS10WkJFVS1ONDVCSVJKV1FSdFByeENTeVljZ05hVEkxb2pEdk9ydXl2TXRTaHNFUV9qYkRCX2NrelV1eHB2VldPcHE3eEFTLXhNckE2RDNRT1JIdmNVWDBBY1VYUDBMWGJTTXh6UWhSSHhKSUJLbS0zYk1Oam1YQQ?oc=5",
+      "date": "2026-08-13T12:39:27+00:00",
+      "source": "DW.com",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "08ef62075ff090f0",
+      "title": "Why every business owner in India needs to understand AI, even without a tech background - The Economic Times",
+      "description": "Why every business owner in India needs to understand AI, even without a tech background    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2JzZGNmUXRDZmVMSDZrQWxqUlFzckJGSTdIV1NVZUVIWnQzalllMUV5YnhyWmp4bG1zQTJBVFFXZUVmLU1HLXFTV2tuR3YwT0lLMnJieWUzTTB1ZUhhb1BfajJiX0pqNXZ6eDNlQjg0dG1qTm8wOVNyZ3RCSDdLbi1ONVpMYndSSzJDX2JoaERBcDktci1tUS1rMzNXUVJVMkNUWmdRaTBuaEFxSWlYbldFRnVrV2tWV190ZnRXQXMtUElkZjZ4VXpKV0tCRTBfQjFhQS0zQ2x5UGh2cmpWNWJYUXByZUppeFE4N0kwYlpYVDRSQnFxeEVmcXgtQdIBgwJBVV95cUxNUEgzdXdnUE5xUVRFSTBEbW9PeXBSdkNKc2xfWGdIVk56MGkyZEF5c2IyQ09NTlQ3Z3NaSXd4eW54YklPZDVDUWMxaUQ1TDVIdzc0MmQxQVNrWWpFcnlRbTN5SW1US2pSY2lNNUd5elpzcnV4MHFENkZ0YlREdERWMU5Ib3dwZFd0OUhMQ0Jjc2pZSlFEVlFGZF9iaUhoVEdubkFzME5iSlFDeVd4SHdwTzYzMVRtOUhpOEdONUdqbkdoU2RuVXdlODZDX2VQY0dKX19MdW8tY09EVVlOblRPc2ZaLU95VlBLVjRsUWN4Qmt6LUJLVldid3IzWW85VkdwWEFN?oc=5",
+      "date": "2026-08-13T12:34:42+00:00",
+      "source": "The Economic Times",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ef79cd3945946b4f",
+      "title": "Why every business owner in India needs to understand AI, even without a tech background - The Economic Times",
+      "description": "Why every business owner in India needs to understand AI, even without a tech background    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2JzZGNmUXRDZmVMSDZrQWxqUlFzckJGSTdIV1NVZUVIWnQzalllMUV5YnhyWmp4bG1zQTJBVFFXZUVmLU1HLXFTV2tuR3YwT0lLMnJieWUzTTB1ZUhhb1BfajJiX0pqNXZ6eDNlQjg0dG1qTm8wOVNyZ3RCSDdLbi1ONVpMYndSSzJDX2JoaERBcDktci1tUS1rMzNXUVJVMkNUWmdRaTBuaEFxSWlYbldFRnVrV2tWV190ZnRXQXMtUElkZjZ4VXpKV0tCRTBfQjFhQS0zQ2x5UGh2cmpWNWJYUXByZUppeFE4N0kwYlpYVDRSQnFxeEVmcXgtQdIBgwJBVV95cUxNUEgzdXdnUE5xUVRFSTBEbW9PeXBSdkNKc2xfWGdIVk56MGkyZEF5c2IyQ09NTlQ3Z3NaSXd4eW54YklPZDVDUWMxaUQ1TDVIdzc0MmQxQVNrWWpFcnlRbTN5SW1US2pSY2lNNUd5elpzcnV4MHFENkZ0YlREdERWMU5Ib3dwZFd0OUhMQ0Jjc2pZSlFEVlFGZF9iaUhoVEdubkFzME5iSlFDeVd4SHdwTzYzMVRtOUhpOEdONUdqbkdoU2RuVXdlODZDX2VQY0dKX19MdW8tY09EVVlOblRPc2ZaLU95VlBLVjRsUWN4Qmt6LUJLVldid3IzWW85VkdwWEFN?oc=5",
+      "date": "2026-08-13T12:34:42+00:00",
+      "source": "The Economic Times",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "9e893e392c5667fd",
+      "title": "#WATCH | “Struggle is real!” A KYC biometric app repeatedly fails to recognise a Naga man’s eyes, forcing several people to help keep his eyes open for the scan. The video, shared by Nagaland Minister Temjen Imna Along, has gone viral on X, sparking amu - LinkedIn",
+      "description": "#WATCH | “Struggle is real!” A KYC biometric app repeatedly fails to recognise a Naga man’s eyes, forcing several people to help keep his eyes open for the scan. The video, shared by Nagaland Minister Temjen Imna Along, has gone viral on X, sparking amu    LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXlGY2ZQOFRzV2ZscndPckZ0Wk5oM3p4MlBFSjdoQ0o0QURkRV93Q3JjcFdYVHZTYXB3eV81c0xHYThha19zdk42M3dMeGdVcmtYQXFYSmxKeDF0QjVER0tvZGZodTZuc2pDNDdqcHdWNkRKMVdLVElRVHJ1enZ2T0cycU9XZmV1SHpJOUJnYzB1RFg5TGduWURRRXo?oc=5",
+      "date": "2026-08-13T12:34:19+00:00",
+      "source": "LinkedIn",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "bb8322ca3f882e2a",
+      "title": "‘Hormuz Under Our Control’: Iran Rejects Trump’s ‘Total Control’ Claim - News18",
+      "description": "‘Hormuz Under Our Control’: Iran Rejects Trump’s ‘Total Control’ Claim    News18",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNi1SNUtqMWg3QThDN0FkN0tudGUyWXBzaEp1YzBVeHdIS2FmanhKREZ2ODJqSklFaUtacXBMaDdHWjJNSVpYbFlNa0swaVBEM2FjdEhvQkloRFU5Q25YclVyWEo5aDNLTjE0QnZPOTBhRENiejdYQXQyN1QtanZEWFFoeTZkM3ZwUW9MMW5ySThYQjN5RnlFTXFZNDVGaXBfQ0tSSlp3WXR0VUHSAbABQVVfeXFMUDNFazVYdjVVeW9XYUd2WUJEUmE4Nk1GNnh3SFRZc1BPdVhvR1EtRWdIR0lXVHoxekhHbl8wMFpyMlV2ZEVMZHJrc002UWRCUktjOU9wUUVlU3NmWlVuMVR3NUVxMFFVVWdxVzZ3M2p5OFRfY290UHZlZ2p2MFFiOGZRRDNxMVpDZVBsOV9wSHBhSWVFbEVjNExMZzlaTWNZZEZVV2hxRTdiU2cyN1Nyck8?oc=5",
+      "date": "2026-08-13T12:29:03+00:00",
+      "source": "News18",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "86a413e942abcf5d",
+      "title": "Semiconductor and spacetech boom: Is India entering a new deep-tech investment cycle? - livemint.com",
+      "description": "Semiconductor and spacetech boom: Is India entering a new deep-tech investment cycle?    livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXkzNDRwUUpydkZIWk9xbEZ0Sm9EUVBwaDA1VjQtSmtBazJfbkRySzJtLTF0NTlrcERHQlZmYVhLQ3p3MjdnQlVSUVhmSHU2X0FYV1R2aDJ1Tk0wV2YzU2VlNkUyQkhYbFltMmxnc08xRVdzYmNudWZHLU9UMGNncDd6S1FDTkNmMTZLT1dNak1IdVFnYzlicEttcVU1QTdNTDM3N1ZtNWN6QlFBUGNTR19sZXlRcGtCWnBlUnZiZTBFMEZ6SHBBQXh3UzNUYWRoUk03VnpReGV6Z3M5LVQwUkt6X3ZERkRw0gHuAUFVX3lxTE82RmRDMENLYzlxVm1lUFNkTE9GT191ZFgxRTRsT0xCRFJhSE5EQ0tyWVdudElkcUdOS3BrSkFFRHptZkp3RGt6VFg1cWtfSF9fTXBWX2Rpc25iQnV6YVZ5MFhnTTBNWXdyc0U4dEs1d1Z1Q1BfM0xWdWo4WGNDQWRPSnBNMGxPOVJfaGprNGhVZ1gwSDRDcWMweVQyOUZBYU5BMVpJdG9oekxKaHNWXzNhTmI2YmJIbjE4N0d5dExpd0x3Si1PalR0LUx4blRQZ0tiNEw2VlRqZzc1Y21FS1VMVThRamRKNjVoRlRCWFE?oc=5",
+      "date": "2026-08-13T12:25:50+00:00",
+      "source": "livemint.com",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e810968638e83fe8",
+      "title": "UNSC sanctions report says Red Fort attack ‘officially attributed’ to Al-Qaeda in Indian Subcontinent - The Hindu",
+      "description": "UNSC sanctions report says Red Fort attack ‘officially attributed’ to Al-Qaeda in Indian Subcontinent    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNajJUbHE2cnRlOWt5eWlXQVpZM0JVSThDWE92RnlZT1EzYi1paDhWelNWVmhPR2tRZHc4UTJGVmdabXhLaktla01hamlfSTQxcXZfNWlJMS1wWERjbjVRdzhqcWRBcmdzT1VPa0twb0liRHpSZTFOU056VnFpWGJCNzAwYXpaM3dwUThsNUI2Vy1IVHc1Mk96TG9Ia1hCRGFmU1ZnMFFZOE0zR0RWcDNoUGY1OG9aU2VaclNiOGdXMkVSNWxCdTIzRERaaGxPUWlVdEsxVWUxaWM1ckwzaWdlRGdGX3k1amI5OXJZNmF0UdIB9gFBVV95cUxONk1iVEdUTFBFczUwNV9yd25HSHFfR3JWdzVXWWRuR2VPVEw0cTM0NlIxaUZ4YlBXLWw0NnlnUk5XVmQ1cDJ5ZE1zOFFvMVdCVm1vOUlZVzdxVlBmVTFCMW9wSGZINVlVLXJZdTUzSzRQcHItRGZEQ0xyUVJwdEd3T1B1bjZ0VTZiM3FhN0ZIdHhXM0RQT0E3NHpPOGdlQXZQRjVNME0zN0g0bnRUNm1fQ0VYYUtlNzdNUllycjBtTjkxWHd2SXN3UHF1allRMzgxTFp1aVhVMkhMNThWZWVaVjZYSDZfVVYxdmNLZjNRRUZaN2V4X3c?oc=5",
+      "date": "2026-08-13T12:22:43+00:00",
+      "source": "The Hindu",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b472ec56cebd115a",
+      "title": "India's Exports To West Asia Region Rise 8.62 Pc In July: Commerce Secretary - ETV Bharat",
+      "description": "India's Exports To West Asia Region Rise 8.62 Pc In July: Commerce Secretary    ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXUwbnpESzg5d0pXTmk0aGJTRzA0bE9XaDI3MGRxUGNPWE9Oc3dTaTF2cDBDRlJINkRSV0l6ZEVUdnVHNU8yb1dpLXZ3NWVxRXpWaVhVWkM0UWRVYThVRy1Xb1NwdUk3aDh3aFhYYzhpclBSMHVDbDJ2NWFlT1NQXzVfZGQ5S2Vfak5nZGxKUEs2a3U2a2tjcmtmUlQzUzdMRE1Ib2sxS1F3TFFXWEwtVjFDUTM1MFdlMmFpVUVIR0EwckYwRXh4UmdoUW92Z9IB0wFBVV95cUxQZExlcmZ3eFNpUTVoUlZZZ1p4Q3AyckktTDVsdGRWQ0xjVVVhYWxiZlI4ZFluR3VMd2hmaHhOSll1bV9VczdvaGlDOC1namJPaVpINXdUWDFpa2xhR2NnNnRJaWZ6WGZ0aERSSjJnLUJnVW5lMUM2Yk9LbXFkTFVGNUFURTZ1WmpYUkJJV3hRZW1Gd3htdVhZUnVKRmVVMThiY1B4Y2hRVHY4OWZ0el9ERkppaEZuUXJ6M1RhbkFqVjZiLTE4R1NwWmxiWmVtRmpURm00?oc=5",
+      "date": "2026-08-13T12:22:32+00:00",
+      "source": "ETV Bharat",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ede02664dd2b7280",
+      "title": "Bengal govt strips BJP MP Ananta Maharaj of Banga Bibhushan award over 'insulting' remarks against Netaji - The Times of India",
+      "description": "Bengal govt strips BJP MP Ananta Maharaj of Banga Bibhushan award over 'insulting' remarks against Netaji    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRDg4ckVnZ1RHYTI2SExqNm10Y1o0b3pNcDUyQUNiNmdBUkJMamxvTXl5Y0U1U1puUEc2THBFOXFTT1ZlWHlPazQzTXFKUDdkZzVMVVV2dFBIQkJ1NEpjN09lcU9uUEZ2NFdLM2JVN1JNTmZnSWJZRWNsal80enE1QUc4NFZKVTFrcTIzeHh6UzF4dk9GVmdJWUp0WDhLb3c2YkZncVpaSkx1Rm5aNFloRWlSYWRtRWYyZHdCT3NOR0VuYUlBYlk5Z29HVC1kYjRPb29DQ2QzZHVUQWczTkQ5eWhYOXY2SlpwWkd0SFdFY3ZxRG5SbFBVS3ROb9IBgAJBVV95cUxQX3g1MF9udlRQUzdEaVh5d1JRWGY5SWV2dDJic3NmVmU2QWpGRjJvM1NTMTQtSV9YSHBNMm5QMUF1X2NkVlBCNVh3ejlidHdSQXY1VFhEOXJUZG9RNjMwa1Byc0xodm96UU0tSS1kQk9naVlrc21GbklqaXRxLVZ3bkdmdlJvdzQ1NTVrRW9zWUxQOTVLWHh0Z0VJY0pIYmdZeThDek1YalVpOS1waTlUaXIzME9nVlg1NWRGY0thQTJiNWJ6bGx5dGExczRVOXI3SFNYcGZWUEFuLW44NHpCRFBOSWRsZEV0QlpJdWNhTU9hYjhvM3RnTWhEM2VnNDF6?oc=5",
+      "date": "2026-08-13T12:19:00+00:00",
+      "source": "The Times of India",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "342f7939a7b87141",
+      "title": "India’s Online Education Market Is Entering A Phase Of Consolidation And Outcome-Led Growth - Nitin Golani - Outlook India",
+      "description": "India’s Online Education Market Is Entering A Phase Of Consolidation And Outcome-Led Growth - Nitin Golani    Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjdjMDRSTmphQkFvdkFiVmRWZUFNSExLZWpVMy12RUoxcVhYbjRkR2ZlX1B1VTRWdGQxLWl5SUhBZHZnMG5sUS13X3RHXzZ4dnhyWFNGUTlwdEJpTzhXSG80WmdNS0Nwc1ZjSkg3SGExMjlwQ2N4eW1HMC0zWXdKT0FMcDhIcnlWbGtSSlp3MzM1VEZIU1VlYk5DNHNOZHZTOGdXZkVsb2hqdGdMQ3ZWSHBNVGtsQnp1ckxXbm1zM0xvR3VTNFVsMUl1RHZGQnJ2NXFDUy1XNDhMR3NWLUE?oc=5",
+      "date": "2026-08-13T12:18:40+00:00",
+      "source": "Outlook India",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5abf9a9deee3da6e",
+      "title": "ANOTR India debut: Amsterdam's electro music duo to have standalone show, check dates - WION",
+      "description": "ANOTR India debut: Amsterdam's electro music duo to have standalone show, check dates    WION",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmlLQzFaNHpaYjdudTJXbFdaWUI1NWM0VjV1Q25udmlSU2d5OWUxZVZPb0dRRjh4ZDVIa2pneDcyV2FZUWJEOXhhQlBzbGRBSjlqb01WQmZqNDE2NE9XZWllaXNWbFlUZnNkZWdxTHFhSDZaTzRxYjl4YmhLNmFJcVE5ZlFTd0h2Nl9PbjFFTE1TbnlzTVM0MXgtX24wNWpiU2sxa3VuandkR1cwdHJUYUtkQnYxSFdjRE5FYjlBcEJNV2ZOUVNGQVE3RTVTQzNS0gHWAUFVX3lxTE1EcUpWMzlvdmgtSTFUZDBtcjlxT3RVRmVIM3RxaVlUQUFZaXczazdtU0pVQ2M5dWhFbGdlQ090ZXBwWkdrM0pIU1JCc0VZSlJCMnlKd0VDel81YkhHOFNoNnc5UlY0OTdCOVBON01XczZUNktRZHUtbXNKbmRiTTU4N1BrTVNXQXo2a3hYY2hNTmY4NFpMVEc4c2lld1NKaDZ2ek1wQUNwQXFnMVA5WU16ay1tbzZxLUNZVTl1enZUUzhKTUpFVnhFOEdWZDdZQUQzR3pGZHc?oc=5",
+      "date": "2026-08-13T12:18:00+00:00",
+      "source": "WION",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "d514745a273fbd09",
+      "title": "Mahindra University Sets Up India’s Second HackerFab to Build Semiconductor Talent - India Education Diary",
+      "description": "Mahindra University Sets Up India’s Second HackerFab to Build Semiconductor Talent    India Education Diary",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFZIb2lJTnVqeUMzU2dTaXdYekFHZ250clZkX2JDNVZ5MncyVk13WlhuZGRjQ2ZCWE5SV3NNOHo1QV9WVWlTT3RpdkFlYk14ZDU5YmVrVFYxVEtTTGk5c0doeWFhS1pBcUV6TUs2Wlp2LThUeVAwemladE0tT0ZZMUhOQXRQRDd2MFZwZWtOdjl6bzJ4MlRSdGdXdW1HV1JuRlNKc0wxNHRFbGlxSFZoMms4Zw?oc=5",
+      "date": "2026-08-13T12:08:30+00:00",
+      "source": "India Education Diary",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b276d4c4eaca5dfb",
+      "title": "India prioritise Brazil friendly, pulls out of FIFA Asean Cup - India Today",
+      "description": "India prioritise Brazil friendly, pulls out of FIFA Asean Cup    India Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDRHSFM4S1BMeFM5QzlLTGVvdjN0anBveExQNllaT1Y0ZnBxZUhWQXNHcklwZ0JHZ0N0T28xXzdlQWd1Qk1TdHgzWW9qTFpsWDgzVkx0dmc0b2k5bDBTLS1FRTY2aU9jZXdjX1kwaGtpZzh2TVkxc3pLXzhqRjE3OFUyN2JyX0laZWJPTzh5ZFpfRzNDaEI1VVZaNlFpQ1NLZXNVWkhYaVdHZkJfdWZPYy1tRUd0SXlpSWNQbFZkUWJESU3SAcgBQVVfeXFMTnlnWFNSOXFROXpJSkpZOEVhSElMekdRQmItTnlsWHFfN1JFTWt4R3VnWVZaemIyRWZyZXNZcERRbGR1dG1XQVJwbkdmNXkwc0FlcWN3cl9wTlJxUXE3dlY4SVNsbjh6QzN3bFk4UVBVdm9IWUhtdm5id2JzdDJiZlZaRGFLeVZwWlM0ZHRVLXNELTZzcFNVSDQtd2Z1VGt4SGZZZ2poMFdiWWtkS0JjSnA2LWhzRmlqUkl6ZVNqZl9FOWotMnZpcXk?oc=5",
+      "date": "2026-08-13T12:04:17+00:00",
+      "source": "India Today",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "cb9d6c80c3218af8",
+      "title": "Zanzibar Cup 2026: Race for peace, fellowship and fraternity - Vatican News",
+      "description": "Zanzibar Cup 2026: Race for peace, fellowship and fraternity    Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXFwRHdHZThQVmNRWGY3WGpKNEJZNW1vSG9WWUMxczdvenlhdlFHMWZXUk1ET1hydUlSYkQtZ01ma2s4OE4wRHVqcUhKb1FOcTc4ampLZlMtOHBEM25tUTh5NDVIS0FleElvamhPRlgwanVqdjRCQ2lqc2hQcUVaWWhJZnVjTXU5U2p3Sm03Nzg0a2xZdGxLNktfdDNnMURyZFBiZUczNEFTTXRnZkJFdy1n?oc=5",
+      "date": "2026-08-13T12:00:31+00:00",
+      "source": "Vatican News",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6f6fe1e3d7b68216",
+      "title": "India’s 80th Independence Day: Adivi Sesh to celebrate the special occasion in New York with Empire Stat - The Times of India",
+      "description": "India’s 80th Independence Day: Adivi Sesh to celebrate the special occasion in New York with Empire Stat    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQRWxUVXJTb3BRMEp1Wl9Gc01fTkxiUzk3V0RlZ2llY0UwYU53YlNyZ0xsS1NYNHNraldTY0NNRlEybTZsd3ZvWEloXzB2dzhNaXhUWTZtWU1McU41NjdqeXg5aXVLaTB1cmdIM0hGWEtEYm53d25kYjN4cExMSEtpMjV0a3h3X2JQcTVkY1I2RHBpYjFmc1VONXpGbk5abkVSVGRRSUdILVZfdlFmOUJRdXRaRjM4V1FHNjN2SURNLVRrMjY3NGpJeTBOMkhUcldmTmNoNmM5YVJtUXd2RFFESDFLbXhUb0hMcVpHcGtpUUN6OEozaU1EbmtDVGxpai0xeWJfTXA5b011QnM2SmFWNF9xYXk0VGJTdTlOVGFyQ0RBQ0VKQUNZSTBoVERUeWJHV3lNSWd5bnlkZVdRX0lKeThrS1cxTzNfaGxaczlTYTNHeUdP0gHaAkFVX3lxTE9mQ1F1T1B4QUJtbm83ZTRhNDhLZXhVZlgwWHdtU2pGUHhyQnlSU1BBTjByeHFJVC1ldk5pOVpaZWdIbDZNclpMaDJOb2dnaVhNcnk1WEFUOEVZNUZfZ2l3cXFSNU15Z053emZwMG1rOERMaU5Ia0cwUS14bWVmNVJxM2tKN2xjTU9IeFpqOGM4UWprT014LU1ET2VCYjNtQ3BjWG5xem9JZkxfY0ZHaG9xRFBRcVpZb1hQV2hEdkVYdjM4Z2ZqZ0dDZFRBbXdESlF1VEpxWk5yRjBxb1JLRGtPLUcyMHNSdmNFdkE1ZmRlZ251bTd3Z2hEU1Vna0RhbXExSHVPdExFYUNwdWZraXZiYXhjc3BhWXVSSFpwbzJKeElPZVAxNnVWMGVVRTRMZWNMQjVZVmZ0eGJWT2JkNFNmamtDZVBRRDg4a0lEQ2ZyWHBJR3I1dU85Wmc?oc=5",
+      "date": "2026-08-13T12:00:00+00:00",
+      "source": "The Times of India",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "a44f6c76e58bd5dc",
+      "title": "Analysis: Why Punjab's Farmer Leaders Fail At Electoral Politics - NDTV",
+      "description": "Analysis: Why Punjab's Farmer Leaders Fail At Electoral Politics    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVG5EVEtZdnhqWUduS3Mtd0JqRGFnZ05STWJ3OFFEVWZpcGl1MGNkWVpGUFBJdWRCVWpuM0RYdk9jSUpTX25RQllqNmU4NlphY21yN2xobU1tWkJUZ2dlSWlhS1l4V0M4Sm9EaGc4bkJHSTFIWl9nQnlqRk9IbW1KV2hGQXVOeGktRnJCMEFJelJsdUhUMUtHeDl2YUJ3dURVQm9ZZy130gGuAUFVX3lxTFBiME8wUUF1TzUtVnFTT042TUZHN3UtdXFySUdNb3ZfYWEwMWpHMURXSlVPNXAwNHVybWpPVVY5dmtKZXE5VHZaT0t4azRNVk9KM055WmVzMk9KaTRJVUY2ZkF4aGlFQzZEMkhNNUxiNG12TTIzWmJ2bkI4Q2dyOUFLN2tFTU1CX3h4WEZkMVF2cTdDUEFKUGJaVGN3QmsxWEhhSGYwbHNvZjROY2R0Zw?oc=5",
+      "date": "2026-08-13T11:53:59+00:00",
+      "source": "NDTV",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "71e057a5e28aaf1e",
+      "title": "Neeraj Chopra joins hands with THIS sporting legend to launch Indian School of Coaching Excellence - India.com",
+      "description": "Neeraj Chopra joins hands with THIS sporting legend to launch Indian School of Coaching Excellence    India.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTZkNTNkNm9PY24ybV9IX0UyT21tRWxZR1N0ZURhd29CZnhnaXc0MEtfdFRiQmNpNk1UMkY2QlhseC1aSkcyT3N5WFVaTXdiR21pSGZaRWNJWDRqMGs1VmRTWkQ5TzdJaGVVSVFMMHVpTlVZc3NYWGlqbjh6THNlLVBxd2pvV2dsdENYbFRDbmo2dUZSanFsYTlxdHBjb0Z2TVhwZTE4aTVCMkgzV2ZhWnhBV3pRTndhUmdMdGNCVC13a2hwdlVEaE1KaVNzc3J1SzZyWkdrMHk0NFRBS1pkNHJhTEVjSTVBaEHSAe8BQVVfeXFMTlNORzdDM1JaeGhDYllaLW1zdUVNbkY0em1WVUUwOUlCWlZKT1d5RnlUSHZYTzRDUEItR3RwSGh3eElUbXJCUXRPQk02MEVXOWNKQUJZa2dvaXJoQ0EtZFhtVHpLRmZOREo0YUhrdXF0eU9lQWhiUndyRElLQmRDOTNyWEtwX2FlZ3JMVUhVNzU3SmYtZFRjNHBBT1M2RUx0bkFfLXNob3R5R1phNVJSVGotVUZsQ2VDZ3lOUnd5ek10eHVSX3QzSjAyQjBPcEU5bXVPRE1DTzBiV2N2NDZpeHYtODlpVERtOUhxcmdxZ3c?oc=5",
+      "date": "2026-08-13T11:48:32+00:00",
+      "source": "India.com",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "7edc1fef4e5507ac",
+      "title": "AI, Pichwai, Handlooms And Sustainable Crafts: Bharat Vyapar Mahotsav Celebrates India's Business Spirit - ETV Bharat",
+      "description": "AI, Pichwai, Handlooms And Sustainable Crafts: Bharat Vyapar Mahotsav Celebrates India's Business Spirit    ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVlhekxlcjY0UV9oYkdheFNwdVR2RXptWjVSSE10dmZtZjRKYnd3bkxwRUNfVFgxNGdnMVJkdzloN242SmhuR1dJODltVzc5Sl84WjAzcE1mTjRiUHhMQVZjcC1ybFNNYnlHTGZuOWxxOHZCSmxSd1hUX200YjcwWmlHcVdoeW93NGY5RmlRdXFDZTRRR0Q2UXdwVFpSYk1lclVFaGozVGF3U3hGR19qU0p1NV91NnRsTWZzT2xpOGpIelREUm5GdThLRktKdDcwanZ5Z0hnRURkcVRtWnlIOUNJSGR4QTUz0gHuAUFVX3lxTE1PVTJtZ3c4MTMxRWtZWmRYSWxueWlJam5yTXQ0QkU5akwzXzBydlRFUG1UNVlhYW5pSWQ4RElCZVBsbGFuRUM4MGFtUE54bmljWHg2S3E5N25NdGNabVgxVDNsbjh4UW53VHl2TGtyM0o2TEVWOXhzUUdxWVlIclZQZ1JvdGUyQUt3bGZVRDJDZmhTSDB4VE1FZzV0Y1JWRUozdzJEUXJLRFp2RXZNdmxXNTV6aWVIZm9ZdjdleE0xZDZYdFpxelg0N3c4SzBhMk5CSmhLMzhmMDdPdmRBSV9kVldhbmlndndtY0JfN3c?oc=5",
+      "date": "2026-08-13T11:45:30+00:00",
+      "source": "ETV Bharat",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ecf6029f48e898a9",
+      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance - News On AIR",
+      "description": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+      "date": "2026-08-13T11:45:10+00:00",
+      "source": "News On AIR",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8b4a9218a806fe78",
+      "title": "Syama Prasad’s history in Bengal syllabus from primary to university level from 2027, says Suvendu - thestatesman.com",
+      "description": "Syama Prasad’s history in Bengal syllabus from primary to university level from 2027, says Suvendu    thestatesman.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaFBXeV9JVExIcUFmaFA3QXYyWjRjYTJpVXNydXBkRjRDZHl4WDlpbUY4WmFYOXRBcHV5RnlNODlIRVVJOW1BaXoxWFVYYjNHaXg3cm16emc1RDVuVURpbUVLMThqenFpVG1yRjRrSGJpZzZGV0t5eHhYRDh3c0pSZnBrQlUyR1lsSVB5SkFaNm9lcVFlZF9DX204QTRRN0U1WmdfNVBfdVUwU0tEQTJfdjAyWUpWNzljQWVIUnU3dWI5YWtUeHZ1b0R1MWhsTFBTZ2diUVRhUzlBTXNmMmFyUkRKZzFFU1ZxSUphMtIB8gFBVV95cUxNbi1DMVhCN2QxRWdMZUtxZFM0eUNKZ2I3THZEaFV3VndQLUREMVBaUnp3dWF0NjNHSnE0bVZlMkNUNjdhdW9nMHFwSDYtZzFsWXZ5WE1lVS1MdFptNkRVSW03am03d044V0NrOV9XeU1jVWN4RGhJOURCWjdYMVFXYV9TOUJWNVdSVzFkQ0hQSkYweVRHMy12dE52czh0bDBqRTBreGJuSmNFcE9JTEw5QW92LVdVTXpnN0tmeEJfY2RyTi15QmwwSS02QnQySE54NVMwS01LcXRuOEZfYkw3NzdBRG42M28tYWJMcTE2RGJFZw?oc=5",
+      "date": "2026-08-13T11:39:00+00:00",
+      "source": "thestatesman.com",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "23198ab89b401a04",
+      "title": "Chinese censorship is leaking into answers from American AI | World News - Hindustan Times",
+      "description": "Chinese censorship is leaking into answers from American AI | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXVqbzBPLXpRTkg0dzE2UXUxc2JzRU5oZTFMOC1IRzZoWUw2OFlyNjk4dWZROU1IRUUzZnl3SVh0ZTRpMTB6dTh1WktFSXhPYnNvdlc0Y0tSSFh6c3MzUHdhUG5xenh2YWNMOEZMZ1lwV1lOVE9vYnA1Y3ctcnBkbGFkSEVZd1NsMUtJYjJZQzIzbUVsQV9xQTlCeEo4UVBkbkdmdWNjNS1xT1ZDUUM5OWRzV1RKQzZYRkhlblVPTdIBxAFBVV95cUxNT2dnaHZtOFRxbWxEeVJhZ25sLXMzcHpDOWIydEdDWTlKMEltLTN1NmhkREdjZHRWbGJEZHl0U0lIUjdNQUpMclUyZGpmdHpUNHF5UlRBRDVkajcxOGVEMHo3SURvWXNHVll6OXZ6TXVSRUVCdGZYa01WRXIxV2gtTFo4c1VzYnVLOENKUTdyUDZ1SzRoUlJUbEFLQTNLYmkzRmM4eXdaLU9zTGxFUWNMNkRudjBJX29CV1pJRXk0bW91cE1C?oc=5",
+      "date": "2026-08-13T11:30:50+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "258ec5e8221468a8",
+      "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR",
+      "description": "PM Modi Attends India-Norway Business and Research Summit in Oslo    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzRsWVN4cGZSajRkYllHWTB2bEhTM2p6aTJkaXVEdVpmSnBCbmI1TlNhMno4bXdfU3hJVWxRZkQweUhWeWpRcFgwcG5UclFlemhoNTVRbU9SS2wxUktqUnhENTI4X0trMFRlVHY4dWwyY1pNV3phQUJ1eUJaMUdNNmZnR3gyc0hWOGFnUzg5QXFzS2tRb0E?oc=5",
+      "date": "2026-08-13T11:25:11+00:00",
+      "source": "News On AIR",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "1ea7ff1f14fcf529",
+      "title": "Building a Business-Ready India - PIB",
+      "description": "Building a Business-Ready India    PIB",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFU2Sk1fNFV2SWRJbFloZ2wwWXJPNlk0cUE1cjFEMWh5SW9HeGNlUXUteWpwX3RrTlZyY2dyVHJETkhza2NrRVJfYl9lcnFjcng3YV9vbWdWbEVBV0JEU2ozMWxxYWVJX1l3SmZxQWdUMmtQMmVOUl9LdTFYUWs0RVJsdUg3MDQ1bnNlbS1iRTQ0S29tYzFGbg?oc=5",
+      "date": "2026-08-13T11:25:00+00:00",
+      "source": "PIB",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8fbb30aa0ac5b63c",
+      "title": "OECD Report: India Remains World’s Fastest-Growing Major Economy - News On AIR",
+      "description": "OECD Report: India Remains World’s Fastest-Growing Major Economy    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5",
+      "date": "2026-08-13T11:14:42+00:00",
+      "source": "News On AIR",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "52d98bd48b30e111",
+      "title": "Dulquer Salmaan’s Onam release I'm Game postponed, will now have pan-India release in September in multiple languages | Hindustan Times - Hindustan Times",
+      "description": "Dulquer Salmaan’s Onam release I'm Game postponed, will now have pan-India release in September in multiple languages | Hindustan Times    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNLWhYUFh0d045bEY2SVhWU2ZVWFhPRHI4Mm1VS0FTVy0tT1NIeWNMLWR3bVFNQ195RHEtSHFEMWtKRDJaLXFFU09oS1Y3WmkxUXpZOVFqSWlBVExJZEs2YlNqMk93d01WekkwV3FXQjBNUS1DZFBzS0hSajVEMG8zb2NPZDJTb25DaVd5TW5Lazd2UWVsaHdlNmpMOFp0UXhNa1VPZGNsOWFfWXJMQVllWHZOVllYd2JwRXRHZVFmd0tZMVFPRmI2cTVKVE5jNHJ0MUxFOXJrMjBwdWlFYUJxRFhpTjR2UkNXQm1yemEyd3hJbGFPOXRXaHg0X3N1TTlEekR6aXU3Zy1EWURSUmtDX1EzeHDSAZoCQVVfeXFMT0MtVk1QNXVFdm5ZQWxBZjV4dTYzNVZ0SWQxT1VydTR1SzZJZ2VEYWh3dU5nVTcteG0xeXNKX3FQRWl6VU0xLWdyZENiY01TeG41bzNOck05X3kwcVJhSmcwa3JMeEpFXzhtUldRcEpqQmFYZ3dzN090bzlHZ0t5amwweURfYnBBcm5TcE5sUURnejFJY0xwVlBjNWZrQk1QMTZaa3NCUC04QzhndjBWU004YU42WVNCZnVJcXluM3NrUF9OWmk0ZUV6LUJmWGZGbEZLa0hCVlhVbDZZcWduQXJLeUFRbjl5RExVdlNUdlZOWk42bEVzc25YWGF6Sl83ZzdzakdXQ3NmbFk3T3RkaXNyb2h1OGRtZWpR?oc=5",
+      "date": "2026-08-13T11:12:57+00:00",
+      "source": "Hindustan Times",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5a5e8a2c467d49ad",
+      "title": "Neeraj Chopra, Gopichand Launch Indian School Of Coaching Excellence - Rediff",
+      "description": "Neeraj Chopra, Gopichand Launch Indian School Of Coaching Excellence    Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2RTeTN4WmVOMHVwb0pnbjRSSVd1SktXUVVTZS1Rdl9SOFFlWnhaODJUOUFzbmNINnJ2ZFlEOHVSYm9oUWgwMll0VWlJdGFhUWFlV2hqU3EtU3Y0aUwtZGZXNjd0X01wQVdhTFB4RlB1QlpTeEtQVmxhWU9Vck9tbWlaSjJDRVVHWjlpODNPRXY1bEp3bHFWOTMyYWwzcDlPQ2pYVW5zYXJzRDcwV1NtbXBHQnRJcXZleEtPaDR6TnVpdG_SAcMBQVVfeXFMTm9kU3kzeFplTjB1cG9KZ240UklXdUpLV1FVU2UtUXZfUjhRZVp4WjgyVDlBc25jSDZydmRZRDh1UmJvaFFoMDJZdFVpSXRhYVFhZVdoalNxLVN2NGlMLWRmVzY3dF9NcEFXYUxQeEZQdUJaU3hLUFZsYVlPVXJPbW1pWkoyQ0VVR1o5aTgzT0V2NWxKd2xxVjkzMmFsM3A5T0NqWFVuc2Fyc0Q3MFdTbW1wR0J0SXF2ZXhLT2g0ek51aXRv?oc=5",
+      "date": "2026-08-13T11:05:18+00:00",
+      "source": "Rediff",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5e40450acec40a89",
+      "title": "Modi Faces Pressure as Parliament Hit by Protest Fallout - Bloomberg.com",
+      "description": "Modi Faces Pressure as Parliament Hit by Protest Fallout    Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXl4WFRsTkRjd1JuclljcFdSZk53cGFSMjVlSnh1STVYQXdPU1JlTEdMTVFnQ0pBZTVRQWM1ajBfajJxaUVmUl95VHJDc2RFaWVFN29mWUV2bTc1cXBacHZvSmhta29zTmdKdTNtQWRjUGlld2pTa0xNNEI2OFJfdVRiOUFpcTVoUE82bGlrWXk4RUphTWNmTHBBcFJRVXhJYVlHWUJEZUFCWElGQzlMUXBaclg?oc=5",
+      "date": "2026-08-13T11:01:50+00:00",
+      "source": "Bloomberg.com",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "4288180fe8ad6284",
+      "title": "India advances semiconductor, AI capabilities to strengthen technology leadership - ddnews.gov.in",
+      "description": "India advances semiconductor, AI capabilities to strengthen technology leadership    ddnews.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmlSd0hkcy1jVUxxSVhkS0dtNmpFdm1pcUlEemZpcjhZeDBmR2dKaE9JSHo5UHpyWVJKTkozR0c5MHRlRVhLeXRUd2lCQjhhRFNoYUNxbWhobklyMkxDdXg3UVNnRWhyYy1fU1M3dnpBaVd0RGtpdHFwZWpVTUthejlwQ2xGcDVreS1OeXhPby04eDZLcW1OSldZZzhnVS1TZXZwMUVsWWl1Zw?oc=5",
+      "date": "2026-08-13T10:57:44+00:00",
+      "source": "ddnews.gov.in",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "d092de2d5aee1509",
+      "title": "Science plan casts a wide net to drive research and innovation - University World News",
+      "description": "Science plan casts a wide net to drive research and innovation    University World News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JaFhWRlZQbzlQVC0xSHlOekNuSDM3N3ByUzN6bE45XzVPaEppZl9DUE0teUpXRXBjdGlURkR0YW1SMXpLNWNhemotUVhKNEducnVfa2ZHeWYxRUxOdkh6TzZhWFZzYzNnOGF3Q0x3SXZ3djZkUzdV?oc=5",
+      "date": "2026-08-13T10:57:21+00:00",
+      "source": "University World News",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ffa37e9ba44743ba",
+      "title": "When we think ‘India’s Got Latent’ season 2 episode 5 may drop on Netflix and YouTube - Lifestyle Asia Hong Kong",
+      "description": "When we think ‘India’s Got Latent’ season 2 episode 5 may drop on Netflix and YouTube    Lifestyle Asia Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXJyN3UwZXNJXzUxczg5RkFUWUFWZk4zYW9HY0paNlZoQjdudDJ2NUNOdVp5eGxKdkRINXphaGtzTmRjbDBWdWN3V2I1Yl8zMkhXVldwX0F3aHlzYVFaQnUxZm1MSWtnanktTkFUWS14dmZWLVpsYWZwUDJQVndIR29QTDd2d3Z1SlJlSURDclgySzZ2RnVhVXYtajFRVXlpRk5qZHVnMjhpZ01yTHI2V0ZZZEg2SWRKdXQzWWZGaGhqUllM0gHKAUFVX3lxTE5BTmxKWTIwQ0oyUHNWUG40RHZXa2NqdXp2ZTdwckMxaUZwU2ZGT0VWRV94ZEhqalhfTTlLMUo5Ty0wUmlIRHRfajFueXowUXVEdk41SzFoaHBoenczM1pCZGRkYnNDN1ZyWlFVYjUwNWxPVGtPS21pcUNVTW5MSnIwV2RwNlhYN1FpQzJYdEZTQTdsN2wzYzJCbnBXblZkM1k3U2pHaUd5eC1NQWQ5LUI2b1E2RFpQdGRoSzcxak9JX2ZqU0RkTE1TVEE?oc=5",
+      "date": "2026-08-13T10:32:57+00:00",
+      "source": "Lifestyle Asia Hong Kong",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "0e7042991f20a0e2",
+      "title": "Neeraj Chopra, Gopichand launch initiative to strengthen India’s coaching system - India Today",
+      "description": "Neeraj Chopra, Gopichand launch initiative to strengthen India’s coaching system    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV0wzSnNJcHotcDZXdXhzb3BnREpseDI4RW45bjdGOXZCSXd0dUVFU3J2a0hTaUkyMndNeGx6ODdRZi1HeXlLcW5QN3NQTnFJVE4wa2NtSnh0RUg5R2x1N0NYU3FPUlIzZkFfSjJHZjdyd0o4NmU5cGZ6ZEVjRldHZTd6RTA4NlBHcVNSMTdKUTRMdFFuOWtUT01nMzh4RURqTEhyVTF2NFNOZW9Vc0w1cXU5TWRBT1ZzeDNPN0xjU29QU3ZvaV9FWGtrUXpxRHg4ZmE0dw?oc=5",
+      "date": "2026-08-13T10:27:07+00:00",
+      "source": "India Today",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "0d7531fb6ccb283c",
+      "title": "‘7 Dogs’: Salman Khan-Sanjay Dutt starrer global actioner gets India release date; trailer unveiled - The Hindu",
+      "description": "‘7 Dogs’: Salman Khan-Sanjay Dutt starrer global actioner gets India release date; trailer unveiled    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGo2TWZYVGNETW5LLVNLR0FaLVdZcXRPN1pwZXVGd0RhbUtLbmx2VXZDUzFYR0JrVk8yTHNRZU93VElHcll5Qm0yUGdhQ3pqMHQxaHczSlpHc0hmQmNfclBUcTFFdHR5TFVVVk83cG5HWGhsOVlXNXA2ZG55R0o1Wjdmb2ZiaGhFblNhZXliWllpWTR1QjJadm02MVhhTkFYUlk4U0kwSXVURHU1TVR0NWJUbGVzLXNLOWEtYUgwWGxXV0thRTBZanNpYmFKZFZtQzhfS0VkTVk5MzRoekpiNXRqemJZVzZkYTZyeGRJM2piQjDSAfoBQVVfeXFMUDZnYk13dTlVUkhvZTI5UWJBUElFMjNYZElLZDJGOFE5dm5zcnpvUDBvSW90YzlaRFphWmJaS3drc3AzVDRFX09LOExxODJ4WHFTSXlQZlpCVjJvSzJDZEpjTWxqTFZIRXhhaVdPMUdUMGI0Q2x5OFYxTUVJZzgwWk9Hc25wYTZxZ1R4YkZmb0xydDV1OWhIaExvWVVHejBZdkFOempFN1lGRTFzNHdRS21HN2g4a1djdkU2SkdKbThLaTBxUFdTWmVFQWxIb1IwV29MSEt0UXVSZGQwTEhJZXFkZnQ3bUQtS19lQXJ1VUJMYmN3YVZhRHhMQQ?oc=5",
+      "date": "2026-08-13T10:21:58+00:00",
+      "source": "The Hindu",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6839127535093729",
+      "title": "US tariff threat on Russian oil: Bill a concern for India, but ‘talks have been reassuring’ - The Times of India",
+      "description": "US tariff threat on Russian oil: Bill a concern for India, but ‘talks have been reassuring’    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONEthX1JJaC1wTWVOTDRwcVU2UDRRN3NuWk00Q2dfNjBOVTNNdGRxRDFWb1VLS2NubGV2SFFYNEFSWGFoUHBqZXlpSEFmb1Q2MGhJMmxmVDdpNmhJWUlTSG5wQ1hqbEZWaXd5M0wwVkF1aTRLb3FOYl9iRmZCUEtrcFE1dlJoV1NNSlc0SHdPb3R5dFlPTGJUaUsybTEyaURGaFh3VkVDczhNVk4tb2FWS3c0ZTZza2tlTkRNYUNqTlpaMC1NdDg3YmZpeDlmZ3pFZHRJRGoyUGhIaXBlWklDS3F2cWVEc3RnbzgyUElRQWUwYUZ6cWtnaHlySU5jTFRqZHZv0gGIAkFVX3lxTE9fVHNMeTBzd2M4U0t2aFFRalRRSElpanc2VUlUc3ExZ05qdTZIbUlTSzk1UF9jWmRQVnR5dGVYaVRlTUVQUS1TelprWXRFTThCZjN3VDJhc3BqclpPMHFna1BWakRQVkJfdVNTejFXcFVsRkVDbDFBSVFWOXo5d0ZtQUZTZG9pdjhTTHVGeDJfdDJjaDNyNXBMQ3FOVVhlTW5sOVoxSW5Kakxfb0o2U2RPTDlaRjJwY3JMUkw0Sk9aZUdFUGhtMFdYa1hWSzUxSk1HSWlvYjZodFZJU0dXaHdOUS0ySHY5YUhrNnFsUC0yQjZ4S0o5MFByektndjFHdFBPRkI0dnBncg?oc=5",
+      "date": "2026-08-13T10:14:00+00:00",
+      "source": "The Times of India",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "26a68bd4c9650e81",
+      "title": "Nearly 31% fewer Indians are moving abroad to study: What is making students lose appetite for overseas education? - The Times of India",
+      "description": "Nearly 31% fewer Indians are moving abroad to study: What is making students lose appetite for overseas education?    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUFFWU1JRRG9xSTU0TldkdUlCZV91OUxnUWI3NElRSVhzYWltSEJZT0FGdEVfZXhtdEpFTGJuRl9tcmRCWFppU3YwYUgyVGlYWUV1RDc1ejF5Q3dBczJRWmZLOF9OSWlZcG1ZMTg4LWlDZkxHOGlJbHpqbnRGMGNzV3hCbUc0V3dEdmFrdTBpYUVYdDFvTWNaMU5UQ1pweXZidGhlcHBhNERDTklqLWRHREFzTllwdW94blJ5a2l3WVRkTjRRY0p1YlhKNHNDbXZlYi1ScENKb1NjUWpFQWtIOFBOMFhjbFZvR3J5dlNYTUFoM0pkUUZkMU15a210LUdSbklaUHlBb3YyeFhKUF9qODBVVjF1NlU?oc=5",
+      "date": "2026-08-13T10:14:00+00:00",
+      "source": "The Times of India",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "106d6c9dba50cfa5",
+      "title": "Araghchi slams Trump over ‘total control’ claim on Hormuz - Awaz The Voice",
+      "description": "Araghchi slams Trump over ‘total control’ claim on Hormuz    Awaz The Voice",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUxSSEJaRVJZX2xDUUpXMjBXeVZxMmNEMHhGTUhVaXhoSktaalRZTDRMSzdteng0VGYtdkFIS1pzVFJnTzNudWwzVTlwZHlIcWdZQURrS2F2bU45aHlvTzhzcGd0b1NRX2lzLXRnLVh0VmJ1WHNVTzJXM3RMOENYRVFGNWRWTXBzbVotX3VhMGlBRVhxUXo3eVo0SVo2YUxlSEdDVEpuTng?oc=5",
+      "date": "2026-08-13T10:10:33+00:00",
+      "source": "Awaz The Voice",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "def4b2392d86495e",
+      "title": "PM Modi says BJP established a new principle in Indian politics of Nation | Akashvani News - News On AIR",
+      "description": "PM Modi says BJP established a new principle in Indian politics of Nation | Akashvani News    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1B0R1NQem1xSlBzRHo3YktMdEFtZHZXeVJzODlwRVpnc2pQT1VYdXhrdm5USVdJd2l5SWRXLWFUWElkTjZyeFBtMmxsQXJUX0p1cW5fbk9zaFhEaE5iWGYyR0xEVnF1Z0hMdG0zYl9xZ2otOVNBM2c5OGw3RUJkam5QdG5ieU52NEgzYXlGRjFDdDJVTGJQTlIyUUNncjZ4YnJwYnpwNVY?oc=5",
+      "date": "2026-08-13T10:04:52+00:00",
+      "source": "News On AIR",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e82d63f6c1859eb7",
+      "title": "Four in five Indian study-abroad aspirants plan to return home - The PIE News",
+      "description": "Four in five Indian study-abroad aspirants plan to return home    The PIE News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVoxUmZhVEdKVW5YRTF3cjdLSWl0MkJIY3ZJdzlxV0oyQ0tWbkdJalhrNGNIZEItSnlsWnVMSGM4T1RCTmxOS1M0QUNWWFdybXZBcXlVTDNJYlc5UkNuTXBvYkpfNFZyNVlXYVNoUXV6d1BlMTQ3XzdpX3E3czJ0Y2VFYlhjZ3JCdDNVSndEOA?oc=5",
+      "date": "2026-08-13T10:01:31+00:00",
+      "source": "The PIE News",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ff790015380efc5b",
+      "title": "Indian sports wrap, August 13: Neeraj Chopra Foundation, Pullela Gopichand and AISTS INDIA launch coach education program - Sportstar",
+      "description": "Indian sports wrap, August 13: Neeraj Chopra Foundation, Pullela Gopichand and AISTS INDIA launch coach education program    Sportstar",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVFQT1pvRW5reVR3UGlWQkFVSGFxeTBIa0xZc1B3RFc2aFEybWZCWGlodUNaczE3RHRPTGRNdlRNM2FldVBldnVnODQxdGstYXhveXE0dmliaW9qT21pQzl0WldINGpUNVpqS0ZKUmZ5cTV5ZHNYX2Y1QzFHR3hDZXR1R21KenNuLVU0MVVYbWxIRGo2MEdrTEpvYVZsY2txZHNvX1o4YUgzU0ctY3c0QjhrQWxmSXJPeFg5S2R0dUZRSkxyU1E5ODh4ajYxR2I0dGZmTGc5VVBRUdIB4AFBVV95cUxPMGd5U2cwQjZWYndZLU1CNjBPWnRKcW96QWxrUEtOdXdlZ1ZuV1prTkJidnZUQ3lhbjVxY2xSdXRJdE1ocmhBNndLMjdyeVdnVmFWemw2LU9tTjVyMkNmaGZVNXNTeFJSR0pHZm5UbEE1eG5Ka2F0WHMyYnZFbW9vUkJtY0NKUFFlbGRKYVNucEs5RXhfZkVQQ05feEN4MmpVdG5valFFaVlTcWZYNDNla2VuNjJOMzdZdFZQeU5tSW4yd1dycXdYSDczcEE0MEF6Mm82eUNKTTJUQlJqbzBhNg?oc=5",
+      "date": "2026-08-13T09:52:43+00:00",
+      "source": "Sportstar",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "550f1042ef45a469",
+      "title": "#MCExplainer 🚨 | 7,023 minutes. ₹175.6 crore. The 2026 Monsoon Session wasn’t just one of Parliament’s most disrupted sittings in recent years, it also came with a significant financial and institutional cost. Our analysis estimates that 7,023 minutes of parlia - LinkedIn",
+      "description": "#MCExplainer 🚨 | 7,023 minutes. ₹175.6 crore. The 2026 Monsoon Session wasn’t just one of Parliament’s most disrupted sittings in recent years, it also came with a significant financial and institutional cost. Our analysis estimates that 7,023 minutes of parlia    LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazE4ZkR4VnZkaENjdUZLblpYS2JtU1kyTGlnMmViYnFNdGdrR21aSkVoNFd6UWpoQkdSbmVrOGRody15WkNHSUcwcTVoaTFzRTliNUNKNmxqODhnSGlRVVR4RUdLWkFWZXZ4WVhsbDFDN0FFaV9Jby1RWW5mQlZITnEwc1dnV3dRRzhMQTd0cVZrano3UkZDdk4wczNFWEc5MUdtd2JYeGhhaVJXSDhUbjJn?oc=5",
+      "date": "2026-08-13T09:39:23+00:00",
+      "source": "LinkedIn",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e4393650dcd9beef",
+      "title": "Civic expansion, West Bengal's flag plan and city infrastructure: What is trending in Kolkata today - The Times of India",
+      "description": "Civic expansion, West Bengal's flag plan and city infrastructure: What is trending in Kolkata today    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmU5dDVsRDMtbFc2Y3hUS3ZJclZXdVdSUDlzTHVkWWhuSVQxa1hKRXBKOVE5Ukx1LTRkVlFPYTFzZElPRlJXWk9EWUFIS1B2SVZzWFJlU2RUbFZleDlXNUpzeXlMamwxdEVadUFndWFNRzF1eFVtTDZWcnlzTU1wV0gyeE42T0lPNEkzakZkcHpxTjRTUmdha3liY1dTMnIzc3F4c3JhQjIzZTdMZ0ZHZFhCS0p2eW1nSDlyTmFrR1g0UGtGbnFoLUVKcnZwbzM1MkV2SGsteGx0MEJhVkluTF9LcHhuNHZTWHJQQllGX282a2xlQ3Z6QnpEYmhOc0cx0gGGAkFVX3lxTE9rLTNGLUxPWjZIRDNldE5tYWp5dXlGcVpGMGI1eE90MVlabUFJWjZLemREWHpWVEFIZFlTTnVVdi1JMldJTGZzN284RURpUjlVeHEzdzI4cXMzWUstbk0xT3RXaE91eHlGbnFndHlDeU82ZDR3OFg0UmpMc050TGtuRWVjZHNOaEs3VzNmQjVodTlTODJEaUJ5WGx5dDNHZ3FWRzd5OGhsX3JIOV96amZHcGllN005N3J6TnRuOU10RDUtUDRSd0JEQ2Y3Qm5paGJWdDlDUW1WVm4zZkdYMXZVb0NQZGlPejRubFJTWVV4b3JoVUtpdEJRel85SDRRWi1oMnp0THc?oc=5",
+      "date": "2026-08-13T09:19:00+00:00",
+      "source": "The Times of India",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "35a631b21bce665f",
+      "title": "India moves to expand NCDC’s mandate and financing powers - Co-operative News",
+      "description": "India moves to expand NCDC’s mandate and financing powers    Co-operative News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTYwUU1TdHp6SGdMdlV0Y05IQUp6ZUZHc0xidW5sYmM0ZG5RWlBBTDZoeUowM2tWOXVoZlRwdWRCVTMyejE1dVRPQ2xNUGhaTDRZcDVzSzRqZDMzVWktSW9mYkQxNUViY1ItUFRSQ01yb2xIWFNPWFdOdlVoYkJGRW1CMkllSWFOemc?oc=5",
+      "date": "2026-08-13T09:15:50+00:00",
+      "source": "Co-operative News",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "453aa42dffa6dbd9",
+      "title": "Sukhbir Badal Attacked With Kirpan By Nihang Sikh At Gurudwara In Maharashtra - NDTV",
+      "description": "Sukhbir Badal Attacked With Kirpan By Nihang Sikh At Gurudwara In Maharashtra    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzV6cklySTBMRnIzQVJnSVFvRWp2ZEZMaHdMZ2NIdmxVSFRBNWVlRnZFZ3E3QnFILV9UcHgxRjh1MHJ6WFo2cktNbDNyNENlZ1dNMGR3eEJtc1RxZmxjU3lHUHAwenlJdlFsWm9ZRnZkSjJISVJCZzdRLVl0TnlIQXNmeENFYUk4OWplQ01felhVZEpVM1hXMnlUTnpOa2NzMkd6YzEtY0R4b253M3VhbNIBuAFBVV95cUxOaTdVcl9NZGVka3ZaeV9uaURMamtoOGVGeEM2OWF4TW1SY2l1aFFudm5GSVVtWkJYZVIybksxOFpDTFhCazhhZ0pSOHVCU1hFeDgxWFZ5OG5kQmJ5UzFBRURtcUhlUEZUS3ZwdFBIRlZIY3Nyb2VSWWJYWFhJakhjNi16SnR0ZzYxSTVNbkxuY0x1cjc1UDNQSHl2dUIzb0hZbEZBU3o5Y3lzY1J4TmlnZWZSYTJLaVdr?oc=5",
+      "date": "2026-08-13T09:09:00+00:00",
+      "source": "NDTV",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ff1cb9a8a10fd53f",
+      "title": "The Odyssey Box Office Collections: Christopher Nolan starrer maintains steady hold on 4th Wednesday, grosses Rs 206 crore in India - Pinkvilla",
+      "description": "The Odyssey Box Office Collections: Christopher Nolan starrer maintains steady hold on 4th Wednesday, grosses Rs 206 crore in India    Pinkvilla",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdzhyc3BHRXNyUEF6eDRMNnpXcTVZY284QVhOTC1La3ZOdWU1LW9yY2lIX0QxUzZGcmd1SGEtM2JBRzFna3U0UUFZQlZXM1c1Z2VmSVFuX1c0Y19fUV91ZUxJZEVOaVZLTG1RbE5IY0ZnOVVSY3djMkNacEtIM0Z4dXhlSkNLemgybHlLSE41M1plXzFrbDFOcWZyek5qRlJ0cVl6am5Qbk9rUHVjR0NiUDZzYURwZldva1l2LWJDLTZfdEU1NE5pWmRqWnI1OEJxWGpwSE1iMmhWWk9HQ3o2NV91V2wtM2hfamw4UkRUVW9kSW1HSGpaSmdIcE41OVNmOW9xNWN6SzZ3emRON0QyLVdkS2FwdzTSAZwCQVVfeXFMT0hGM3U5THV3S0RpVDV4UWYwU3JMMWNRNnlZSGY4dElRcXZBY2R5S2RZM20tM0FhejZ2RkF5R2pkc1ZxaGtxZlYybUlqUWszeUpucUtUVGtXQmxaLUZwRlRYczhTc0ZZTlJ4TTA2VVJjV005OVo3OU95ZHhTQWp2eXJZc05xbDRneWU0R1dOQU4yenotUFE0eUJSZTFtZlBvVU5Ha3RENFkyYnpmaDQ5V2Z1dWVKQkZzRmIyMmxoanZqc1NELU1ESUFYNDdfdDdrUWQ3RExyY3liQWdwcC1oLVF2SnZjczBjZVI1ZjNUYkdBMlpHUzhqUENYQkVuMGZXTTFkWnlfUUUwS01lMUhNelpSTFNBZjRXSHhhMGQ?oc=5",
+      "date": "2026-08-13T08:55:02+00:00",
+      "source": "Pinkvilla",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ef50c2262ad7c5ff",
+      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - News On AIR",
+      "description": "Top world leaders to attend India-AI Impact Summit in New Delhi next week    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+      "date": "2026-08-13T08:54:24+00:00",
+      "source": "News On AIR",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5d9d74b31587356a",
+      "title": "Women’s Singles: Top Five Players to Watch - BWF World Championships",
+      "description": "Women’s Singles: Top Five Players to Watch    BWF World Championships",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEptNkJ0VVNsZUJmY3U4ZzJTTmVWZUNrVDRlYTdoRV9CaS1wV0xieWFRaFhkbTlYdklGcElTeUFzc2JtbHMtaGI1TFRYVEJ3cWczX1drTFZWLVlXVUlVazY5T0dCNm5wd0hGdC0tVlRPU3lzR2s5TFAybmpxT0E0TlUwX1U2cFc2eFBQUEJVM1JGMnVuRm5NaUhrX0NSbmU4LWNFNnpfNU5pQjhWVnhZ?oc=5",
+      "date": "2026-08-13T08:42:51+00:00",
+      "source": "BWF World Championships",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "96562483efe23a75",
+      "title": "Semiconductor and AI Revolution - PIB",
+      "description": "Semiconductor and AI Revolution    PIB",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53azRoeENkT2xzYnBNRDZGQ2xLc01GaFFGYjJYa3R6TXB2X1hLYlRvbldwNlo5VmJXTldOZlloTjZ5UzJTaUtsOUMtU3QyOVZhN3B5clRYWmctb2tYbzlSRkJtVnhEdjRa?oc=5",
+      "date": "2026-08-13T08:17:00+00:00",
+      "source": "PIB",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "3f262cf5f5240637",
+      "title": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News - News On AIR",
+      "description": "India,France review expanding canvas of bilateral cooperation in science, technology & space | Akashvani News    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExHRzVKTC11ZHhmMUF6RmZrSWFqMVI0dHhYajQ0U1FTWlEzZ05jTjB2MmlvVEgtUDkzeDJiWG5ENERDTHBPR0g2MXdybUwyWEcyRDFadkp2VjBwRFUzV3kzMENmU3AyVGgwLTBrcDBSY0o4WTZjNmx5bVJyeWRidTcyU243UmdYNHc3WTNEZWNVcTdfOVRwRkhKREQ0dlFlRHFlV0tnSGxSUTRtc211MWlneXo?oc=5",
+      "date": "2026-08-13T08:15:54+00:00",
+      "source": "News On AIR",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5d839d39d92c7b82",
+      "title": "McCann India wins integrated creative mandate for 3M Consumer Business in India - ET BrandEquity",
+      "description": "McCann India wins integrated creative mandate for 3M Consumer Business in India    ET BrandEquity",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNeWQwcW96elNESENvQ0JLU0RESWluUHRSZDRweDZudTVkaDlsT05RQlk2RmFKZVlqNVctb0lVZ0E3R0d6MFpndlVuU1pWbXRVaDIybFR5aTFxYUgtVzBwVElITUYySmc2aUZ2YnprU0lBR2d0azVvLWZUX3BNbjgtODBFOHNNc1Q4djV4SDROeDZiTE93LWtaZXotdnlFaFNCT1JCNHZoR0c5VmdFQTl5Vi1DN0xVdU0yMDBOYU1zUG4teVlxR196MTBGUTYyaExlMGozZm5Hb212YmpyeXVvTHdjN2NsVVdGMFNjQUFEUXg0SWNzTVB0TTJLNDI5YktEcTZybHRIUndJWE8zb1psRlBob2ZGcW1BTU1TSmpwVllKaHVZaDBHTlliN2NPdXFoYVpXdUgxdXRqWUx2WHZN0gH8AUFVX3lxTE5pQjBFYk05ZWRUVTlJNGJIVF9fbV9wV3JEd21IQUVvc3pSc0FSb0R2QlNZWkc5b0wxRTJuYVJ5ZXU3SnJualcwbGVyWnhCS3NiSkFVd0dBQ3VpdllONXU3MmFQeFdvakRqcEg0NXNqR3Q4MmR2VVE3N1dqQUpUcDFXaDdKSEgtVURhTXVtTnFzU1FNMTdLWXFOT1paOTN0MnhBREdIcDhuZ0FQMlZjWklwakFrY3JZU0JubkJBQVZsalAtMy0tY0Z4X0pQYlAydllhY2tjc3h4aGRmTU5GOVdBeE5OZ2tVUFhBd2xqM0FhTnJEWmlkTldlZGhJNw?oc=5",
+      "date": "2026-08-13T08:15:18+00:00",
+      "source": "ET BrandEquity",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5690e9eadfefc242",
+      "title": "India student protests disrupt parliament, put Modi on defensive - The Japan Times",
+      "description": "India student protests disrupt parliament, put Modi on defensive    The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWpPTWt1UkdpMVgwdnlFek5UTW56WnJvRFBVOGxLQ3lVUzJWb29OOUJzd2xuSXBMX2Z3ZUpMSjN5bFN0ODZvUEhBZC1Wd0RmaVRpWTJ1ZV8xZlRhQ1pWY0VJUkwxSEYtQVRReEJzT2VPZXl0UHZEYjU0U0RDWHpjcmV4Nk00bkNWOWtLbjBCTjhfSVV5MWRTSDNhRDZ1MU5iODFMcktDU1g?oc=5",
+      "date": "2026-08-13T08:04:00+00:00",
+      "source": "The Japan Times",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "227a0d7f6230ed36",
+      "title": "India still loves 3D: Exhibitors; Not quite: Moviegoers - The Times of India",
+      "description": "India still loves 3D: Exhibitors; Not quite: Moviegoers    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzJTMFdTX19PUUlaMXZmaFdYVTFUR040TGJvNnpFZG13a2toN0xiYjYxZHo1SjRDOTQzVExhX3Z2TVlSNU9jSjI0dHA1bUxjT1ZWS3BFVTJJLWs1cjdiOV8xaTZXdXdJb1J2N2VRTUt2ajhsdGlTZjktdGpPY0JxeHp5V201MnIyb0hjOEpScGhleWFScVQyX200NGhvNElTZ0FOWloyYVNvUEVneFRoRGZJcWg1dFdfbWNaMDVhTEluR2V1YjZxYjFIcUViaHNhd3VnREpDSUVhdE44SDQ5dkNOc9IB6AFBVV95cUxOS0l5Vk9MeXN1cDdndm1GVUR6YzJJYVhmb1VwLWxQWjM1TnFxb3kwbmN2MWYtMkVsSVNrMDNnNXB6NWVCQ2s4aW5MWFFtRzdCU0FoVERIN3FSQ2w1a3pXU1FzcW00WEg0ZGtiaWN4d2pIcF9uSDVFRXB5NVRla0FkUkxjdjN0RXpHTEc3M0ZzZDZKTjJkZGhrZUYtbDFzczJhejhpZ3I5RTJlclVOTVZSd1FfM0g4azJkZkhxRTJ5cng3TmhFYmU1M3B2MHUxaWlKWW13T0x6d19penpPRzJiSTFXd3BReWZN?oc=5",
+      "date": "2026-08-13T08:03:00+00:00",
+      "source": "The Times of India",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b81fdf8c81c5ef37",
+      "title": "India eyes wider bioenergy push with 5,000 CBG plants, indigenous tech, new feedstock - ET EnergyWorld",
+      "description": "India eyes wider bioenergy push with 5,000 CBG plants, indigenous tech, new feedstock    ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcXFvQTdTb25rZFZPRGpvb1RuVFhtME1kSV9OcUctOS15M05uTXlRYWowR2dGRW9kbDJkQm9SS2huOGFEQ1VJd25ZM19HZlZycTk1T1VueEktZGJVU1lJVWRkMUh4bml2aUdaNTQyTThYQnNUSEg2cVlQM0dTUEs3bkQyT2t0djAzUWY5U2J0eFBSdHN3WXk1Zm9QTUFrQ1RrRkpudW41VUpGS1lobVhxcG5MTTZjUFdNaFVyM1AxTVJTRnlSSXFnU0RQeDFBaUxfZkN0eDdpQVRQR2RQdDZRdnpaUkJJMzZ50gHuAUFVX3lxTE9OdEQtaTQ3WjNpSmd4dS1ZREY2QlB0RFY5RnpYUm1lQXpaRGpRSFI2Z3hiTEJQaVJ4azlsejM4MUVpUFd1aVRyZkhfS0tZTUlKVVJSSk91OXpoNkNyQmg4SXd1ZzF0NC03T0JJRnFHck83LU9MUWQtRHM4V01wRG9FMjhQdElxTy04YlZqV3lDZFF1cXRmV2MwNDRiRmpXcDBkNGI5WkZrVFF3YlNMMFMxTFQ5SjM5SjMxaU1tUjh1WjE1bEFUZmpZTDRaUXJWN0E3MWc4eVRxQ1ZRT2ZDZjliaE9OU3Rjb2VwbDdYNEE?oc=5",
+      "date": "2026-08-13T07:45:37+00:00",
+      "source": "ET EnergyWorld",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6a593e7398da29a5",
+      "title": "West Bengal Government To Introduce New MSME Policy Soon: Minister - KNN India",
+      "description": "West Bengal Government To Introduce New MSME Policy Soon: Minister    KNN India",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGRWVmdFNGxYZHFwSVVXT2k4QTJ1UWFtWVQ1ZGNwVnlxZUNnMGtrVEk2WkxXYkg5aVpvN1pqY1JQZ2FuZXJQNkVXeHdjVWFSVDJsbUNWTEQyZHFnZ2NETE5GQVd0V2pBYk9NLVJLSmRkY1Vpc0ZoekRnaDV1NGZPcWppWXZjNF9nV3lzTVJ4bVUxOUtUNDliZHYyQVFQcFNMVWxPLWZoZTMtSkxJU2RF?oc=5",
+      "date": "2026-08-13T07:38:47+00:00",
+      "source": "KNN India",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "83eeea3f90592b2c",
+      "title": "HM Amit Shah says, BJP govt in West Bengal will secure India’s borders & plug biggest hole in national security - News On AIR",
+      "description": "HM Amit Shah says, BJP govt in West Bengal will secure India’s borders & plug biggest hole in national security    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc09qV3p3emF2X0g5UUJ1dzhsaWV4RWpOU3R0SXhYRHRlakxLUnFldTJTNVFDSjdZaUJ2VU9zcjJMTlFmckNtYXU4REdLdnd1dHBjbzJEaERXTkxpa2xIMlJQR0MzX3o0akVFVUp5Z2lRUU5YeXdKM3RvR3FPc1o4ejdFTDlrQU1tdkM5OE04bEdUaXhPR1JfeFhzYWVLcFg2ZGt4OHpWMERrX01FTVc4bTRZRnRmR0lWOHEtU3o3czNlRUZqQlp3bW9oYnFGZw?oc=5",
+      "date": "2026-08-13T07:24:52+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "496b1767db5ad696",
+      "title": "\"Everyone visiting India will experience\": IOA prez PT Usha welcomes badminton world to New Delhi ahead of BWF World C'ships - ANI News",
+      "description": "\"Everyone visiting India will experience\": IOA prez PT Usha welcomes badminton world to New Delhi ahead of BWF World C'ships    ANI News",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON3FQZGJSSUN6WkRYWFQtaUJvVzhpdW5iR0R0NVNTc05VVXNheThTazhNSmF0NFoyX2hTcU81X19HNXVFc0I2ZlViUHdranFsdnpFeW44TDIzclFFMHY4WmluWVhwS1hNVWswekZ4NTU1bFZ5NWkyWmpyNFh2VEs1N1o2ZFY5YXFNSjI1YWRPRnBVd2JMWXc5UDNUczJKb2tEdV9BNjYtekU5V3FiSllGaXktZkxnWXFEbzhaU1ZpemZkOTRZZGdfRF9rUWVVQUpLTDQxZVpKMFhISjQtN1NNakhzWnN4VDJPTTBxMEk1LUJYZGRWc0J3NUQweHo0MzJqb1laQTktSQ?oc=5",
+      "date": "2026-08-13T07:14:00+00:00",
+      "source": "ANI News",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "cf93aa09c6062613",
+      "title": "Vikram's viral video with lar gibbon sparks India wildlife investigation - bbc.com",
+      "description": "Vikram's viral video with lar gibbon sparks India wildlife investigation    bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5",
+      "date": "2026-08-13T07:05:35+00:00",
+      "source": "bbc.com",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8aa5f5d062610196",
+      "title": "Vande Mataram, Lok Sabha's Quietest 3 Minutes And A Total Washout - NDTV",
+      "description": "Vande Mataram, Lok Sabha's Quietest 3 Minutes And A Total Washout    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNk05XzJMamc5VllYS2FDZUFVc3FSRFV2MlFPTGJkQ2JlLXJVU1ByRlJtOWgyUDAtN1R6ckVvQV9wSS1pYnA1MTFSOXk0clF0Q2owN0I4UkUyNE1iU3pfUE41TXRTQzhZS3FBT2c1dUxWU1lscENDS0pCbjNKNnlUMGdPQXJzcjZGOGttRllubktoWHdWUEJrUi1qREhhalVWMjlRdWRqRU5SNHhOSzlubldKUDhCQmlrTGFVck02UmEyVW9ud1HSAc4BQVVfeXFMT19pX0dVX09pLU1hTDJjM2lPSHBUal81Q1VHZ3ZUdGZ6dl9Pb0ExV1NlekFvS01DUzgzQWI3YVRMU2dXSEFxUjBDa3dsVkdCY2RkbTNwd0lvUzl1ajVuRTVheXRheUJiRmVsNklxQVJLbmZpU0I3bHVQeDJ2MGtlT09CNElUdWc3VkFPUTllZ05RdnJsUzFxa0h4eXowckdWMWxSekYyN3Nvd3FwV1didmV4b0NyN0prdmE2cUt0bkdyQmVQQ1QzMTl6X2w2amc?oc=5",
+      "date": "2026-08-13T06:54:06+00:00",
+      "source": "NDTV",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "41f845e4eed6e58a",
+      "title": "Heartnet India Signs MoU with IIT Jodhpur Technology Park to Advance Healthcare and MedTech Innovation - India Technology News",
+      "description": "Heartnet India Signs MoU with IIT Jodhpur Technology Park to Advance Healthcare and MedTech Innovation    India Technology News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcE02bFdoQklGUU5maGVHS3NaaWphVVFDcm53c0g1dGV4Mm5ncHRNSDh4ZFRyR014S1pSRWJTQnJsdUdscWtiOERRenZmallyeXY1VC12dFU2SzM4WGpQS1ZvRVpiRF9TbjBFY2VMYkk3bEZaU1pPaVJkc2tVajBWdlpRNS1wLXE1RU1TcklSTmZlRDVHRHZpOS1yN0FpZ3JlMkdHTkcyeUJBYkZxb3NJYXR0OFhaR2Y0RlBvTW8tRW9HYnFmV29EQ2VFUkY3ems?oc=5",
+      "date": "2026-08-13T06:49:23+00:00",
+      "source": "India Technology News",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b0b938c39a0f1449",
+      "title": "West Bengal has no room for NCPI. TMC rebels may soon have to choose BJP - ThePrint",
+      "description": "West Bengal has no room for NCPI. TMC rebels may soon have to choose BJP    ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMDBydHEzX0xya3NMTlBURWpnYkZzYkhoOVdhQ2oxWl9VUmprXzRRUnl3WVp2OTB1bDFtTFN5QlkyWDkzTHBxdDdTRk4tczJQekNZT3pmSDJJcWhDTnVIenAtMTJqUnlWR3VPWEo4MEZ3a3NhUXBV0gF8QVVfeXFMUHpia1hDYWJhMEJqb2JaTXhJRnR2SUxQd2RFc3BtN01acHNVR3JkalJDQ3VENGg0bzQ4N2prRU4xNlowTTJ4eUFmNG1DcmJUNEo0dFVTTHFUN2lXa0VwZHE0Sk5fN3BZcHEzeFVKVFZhMDk0V1NFQ3E5czFQeA?oc=5",
+      "date": "2026-08-13T06:31:24+00:00",
+      "source": "ThePrint",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "958905008c8eef4c",
+      "title": "Map, photos of Fort William recovered from arrested 'Pakistan national' under West Bengal STF scanner - Deccan Herald",
+      "description": "Map, photos of Fort William recovered from arrested 'Pakistan national' under West Bengal STF scanner    Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQzZ4QjEzcTFLcFp5OEtVUEl0NFM4X3VjLXd1MmZ5UDVLajY0ZEtUWFBnaEdNeHVBSzN5TDh1ak0wSWFUTEdPdHlwNW15eVZ6amgteXY4Z1F0ekptTTY0ZGVCWmJTS25hOVIwdHlIMEl2VTNzXzVOMzN0aFVuazd4NmdCU0lFeDVIOVp3RkxIdkhLN2RhdkVjUWRDMVlfMXE5TUU3MEVOSjFDLWdiWEtZUHVmdDhfcmtzaTBieUVHUFM2TVEyMGQ2bEpZUmphOHBOZmhOcEpYN1JpeVRjdHhlWjVvVjAxSWZf?oc=5",
+      "date": "2026-08-13T06:18:18+00:00",
+      "source": "Deccan Herald",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "fe3444146c8550ef",
+      "title": "Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report - NDTV",
+      "description": "Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndJZG9FdGpjWmZrcC13ZlU5RkdQbUxPYWJnY2RsdUtyVG10a2dYMTVfdVM4Qk1NMV9QRXczOTlrc1hJQ0pCZjBVNF8wUFFXZkZBMUFWZjNwdkFxZzBGeU1XUUhOQmFLOW8zcnRDbmRFNmFSTkFWSmF1N1BuelVsLWxna0VEZVFHbmFWOHBGMm1fQXBHQXVpZUF6ZlJIRldIc0lIU1BqRzZYazhjWU1FU3h30gG6AUFVX3lxTE0wX0l5ZWVjZzV1VVhaaU5QaWxSMjRfSWRMZVdJWGFlNDMtbndjV0NQclNHVnUzc1NaSDRlaW94NmJsUUZ1N1p6Q1k4OHJiT3c2eENKSk1CQnJYY1FNVmJydTc4dFFzMTdud2FzZnl1WFRfellHZ2NSek8xOTNNWkFLRWUyeWpUaUlXT1dzZUtUdC0yMEVGTHdocVV0U1ZnVW9yYjJSV3dpNzNCNUhIQV9tTWZfS2Fua1pHUQ?oc=5",
+      "date": "2026-08-13T05:47:37+00:00",
+      "source": "NDTV",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "9239e8b9d200a6e3",
+      "title": "Daily weather tracker: Bay of Bengal system intensifies; Red alert for West Bengal, Odisha and Chhattisgarh - Down To Earth",
+      "description": "Daily weather tracker: Bay of Bengal system intensifies; Red alert for West Bengal, Odisha and Chhattisgarh    Down To Earth",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0lsVjByd0hNY2VTZWpZdDk3eHVTdHphbDhQSmVxZ1I2alA3UFlHRkJkQmtXWEpiVjh5OUFmdnF1d3I4MzFzNGRTM0FSV2hpc1c3RjhQYno2YlpWNGhnbk9tZ3ZWVnhhcl8yay0zX0FHZnFWamxIaEl1VFFtREVxeTBFd1BvZm14eXY5dE44bUpKZ19vU0VhclV1eGY4ZE9VeW9XY0E5UGQ0RzJpdTJtcmFpYkZlU3dxMDZtZmM5cjNpX3ZIRmRKNF9kckJHMExSMFJoXy1rM3dudTRzaXRQMTFPbDXSAfIBQVVfeXFMT0dhd3NMejhzbHpIUUxMUHdFd3dOWFdRcmF2dmJ2ZTdnb19WcEVLQ1lEeWlLNTdxVXFIblluYllsNVBuc01FTmJmWi1tbjJZTjFKenE5TnViWGZMVXl6cXJzM3ZaMElRTGZjblJ5UTlIb19Kc2FxVFVOUldyTHE0cFFCdjlZZng1SWFtUE9ESFN6dWdEdG40RXR4MW5JbkJra1RxNkhKSUFIVFNqX3prOFc3TVFncnNfNmxkeUhGWGwzWVdyLXg1RW1lZXlPN0s2Z3NEaXdqV2NUVHZ2MzFUU2VLZndrZTZBMUhfU1F4TG1FMVE?oc=5",
+      "date": "2026-08-13T05:47:35+00:00",
+      "source": "Down To Earth",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "057e3cc6e93e2cd0",
+      "title": "Citizens, Suspects, and the Portable Border - The India Forum",
+      "description": "Citizens, Suspects, and the Portable Border    The India Forum",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlpYMTZsblBJTVoxcTI1VEItdVdPekVvT0NBNWZld1l1NlVRNndqWXY1MURpVzVWMF81M1R3OGRJU3R6UU83eXJWa29ON0FJM0c3aDJVWlUxYy1yUTJmOWdiSXVNaFVacTZvQkFfc2E1OW45cnF1QXhZR0VHZTNyTQ?oc=5",
+      "date": "2026-08-13T05:11:58+00:00",
+      "source": "The India Forum",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ffba3ae20f2152b0",
+      "title": "India trade an opportunity for Jersey businesses, ministers say - bbc.com",
+      "description": "India trade an opportunity for Jersey businesses, ministers say    bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84M2FkVlRhZXNKVTgtX0pVbFlLd19fcF9SUVEtVlE2N1FGclFGQ05Xc28wSTBlS2FmV3EyODlnRUZMX3JjeVkxalYzamNPS2ozNTdRWlozT2gzQQ?oc=5",
+      "date": "2026-08-13T05:09:49+00:00",
+      "source": "bbc.com",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "94eb74d4910c4dac",
+      "title": "From Television to Vertical Content, Sanket ‘Don’ Vanzara Reinvents His Entertainment Playbook - The Tribune",
+      "description": "From Television to Vertical Content, Sanket ‘Don’ Vanzara Reinvents His Entertainment Playbook    The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0tqeTR4RWFGdWdrREpCYzRuOUpXSU9EN0FKcEJpY21nRVhvUTRFMkllZXRhck9zYlN0SWZLQlRtaGZFZHlFUTRDY21mWEdPWFJKaUdOU09IU0Q1T1FpbmhPQ2hYeE5WaFlLZTRLTnlRWS1SU0UweGUwVGRCQVZtUTdXdXdyUDF1TGxGUXh3dTFtMVVXSXIwbXJRS3NjakcxQUFnUmRoMjNJeFRBUFFYMmZzRFJKTTBDdVlDY29nbnFaYmtvMWZZYjBmSXNJamdw0gHUAUFVX3lxTE4yNl9LQ0pYSk5JZ0t6NWE0SmRjdExMalJlMUI1bjVqSkprVGFZQjN2S3pxbzNOdGpRbUg5OElDWTJ0ZDJlV0c0WjUzRlZodWo4X3J4NFhKQjR3cnN3ako4MDlxbmNqQXgybnJUTS1QZlZ3WV9NdWl2RVJyRTR1MFhabl9LV2RmZVJOT2sxdWwyd0wyYVFjdGtuZWFjUE84NGpkbi1VQktrRVN3ODM0WU5ERkppSEFMZUMtdC1IU0xqbmRtaGhkaV9CSHhsMXRVbjI0d2dp?oc=5",
+      "date": "2026-08-13T05:02:35+00:00",
+      "source": "The Tribune",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "301cac909bcb7c08",
+      "title": "Independence Day 2026: 9 movies on OTT based on India’s Freedom struggle, Partition and Real Stories - PTC Punjabi",
+      "description": "Independence Day 2026: 9 movies on OTT based on India’s Freedom struggle, Partition and Real Stories    PTC Punjabi",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWTl6alRsTDNtNVVkdl9JbThzQ2hvc1p1eDlaRF9mZGNiQmZyWnJHV05SWWtWeHVzdGEwR0paTmZQTUswMnB6ZnlEcHpSX0ExcFNPY2xCYloxY0tKbm9MaDlvaGhVUklXbVJwb0h6ekZKRHdLWU5WSjNMSHhlUGxUeHJUN05FQU0tMkpVU21oWldJc3FIOURSVUtlSlpYT1BOWEtjQ3p5LTQ5QnVkUlE3Uk9JYjRWdUVXcno3MTNicjRZMWxmNlphdTFUd3VrbmMwZXVRTkFpbHJKU0I2U0FnYVRR?oc=5",
+      "date": "2026-08-13T05:00:00+00:00",
+      "source": "PTC Punjabi",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "00a2e1109b84d7c3",
+      "title": "The battle for control of India’s $280bn Tata Group - Financial Times",
+      "description": "The battle for control of India’s $280bn Tata Group    Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkF3QVo3OENTTi1aLWt4LXNNWk5tZUFGb0d2MDNfbUNiSU5ucmlscUtVTHlDNzNtTmF2UmdRQnlya0tEdTNkb3pNbzFKQkI2REVtTWxLMnByLTA1RkdfME0yMm0xZmttX19WTWRnQUJvT21zLUZLWUdLaHQ2YUxZRjRaS2k?oc=5",
+      "date": "2026-08-13T04:52:40+00:00",
+      "source": "Financial Times",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "2559be60edd6161b",
+      "title": "MESC, IICS Partner with Shankar Mahadevan Academy to Strengthen India’s Music Education & Creative Talent Ecosystem - ThePrint",
+      "description": "MESC, IICS Partner with Shankar Mahadevan Academy to Strengthen India’s Music Education & Creative Talent Ecosystem    ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNemlkLXR0clFlZHFGdy1ucENPOXg2RW04QVZ4dTdfcnhJTEpITDIxOWNjUmZCcmx2NVBNSktDdVEzVGdIVkF5X2JlaWpKVnFQTXp1NGRpUnNTZFJhLWRxWEdXSWI0M2dwOVJrVm9JaHlGWVFFbTVmRjFLQ01qZGpGVktYWE12VVFLNHlqcDhqS3liaHlZNndpMTVJcVpMMy1JOUNpNHhuTEVydTlQVU1ERHN4MlREYTNWbkhOUmlNSE81akptWUdaNnlIUVU1OU11WDBDdkZKSlZ0b0xnbXFfbEtXYzdtSTNiRVBfV2E3czfSAfYBQVVfeXFMTnJaM0dscWxJOU9qT0tmUmVQZ0RvbzBLaHB1MTN2X0dRQWRYMnJJdkxsX2t5VHByUWI3NXBGUnF1aHZlXzlYOEhfYUpWVUh6dXVGTklGR3A0UF8zOVlubnAwT1hxVVJlUzZPNU01LUxJVEpNVmUya1lxRF8yRTc2amltSU96aWUxVC1xeDROOHlaZ1dEblFoZ2RzaW5kcGlpUFRtMzhnUGNMWS1CSF9DemMxcWlJQ1RfRnRBRGtDYW93aURITzR5NkNnU3dvNXU2d0JuMU9WOThWczBBS3dac1dqdGktUl9fbzFHZ3ZXNXNRYUZwX2xR?oc=5",
+      "date": "2026-08-13T04:30:38+00:00",
+      "source": "ThePrint",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "29c4d90236833d9b",
+      "title": "From online sports communities to shaping India’s future: The power of its youth - Exchange4Media",
+      "description": "From online sports communities to shaping India’s future: The power of its youth    Exchange4Media",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUlzb2FkTThkcW4xeHhXV3JoeWROMTJ3LUdnYUxkVWg3TXZ0WWdVX01kbmRUcFFtVkkzMGdvdWtCdHhJNlp3Zms2ZTBxZ2FfRzFzVXJPdHpDdm1MZlpSWFg4QkZzVE5aajNjcDFFeHBGaWFrSHNXaEpfR1c3Vk12Y1hXc1BhMmdzYlpJZDcxcXRmVjIxRXV3enFXYVFOOWdwQnFLSU9wYTctQVozU0JPaWpMMkZNRGFHT043bTg5YkFaTzlXWEszb1dpTzd2UjZwT2c?oc=5",
+      "date": "2026-08-13T04:18:41+00:00",
+      "source": "Exchange4Media",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5905cad0165aea08",
+      "title": "India's Tamil Nadu signs pacts for $1.58 billion in new projects by overseas investors - Reuters",
+      "description": "India's Tamil Nadu signs pacts for $1.58 billion in new projects by overseas investors    Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjdYeEhKeV83aS1XNzRNNVIzREZZcUNKMm1seUtuYmdmWWtaY1VCSUNkdU1LT0dTTXhoMkxWc1R4bkxDVzB6SHN1bkhEdTN6TzZlLXoyR2QyT1ZsbnoyX1JxRWRDd3dPOHFrc1p3dVFTNEd4dVc4ZWtfZElXRExKYng3WXdYUHA1d3dMZDl6QVpKLVlKdG9vN3VaVzd0YkpXYlhVRnhOWW1zckJsVFBXNWVQNVZVcmVSdE5Mek1QR0VDTnU5?oc=5",
+      "date": "2026-08-13T04:14:00+00:00",
+      "source": "Reuters",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "338970a3f84abe69",
+      "title": "India fuels worldwide jump in planned coal production - theguardian.com",
+      "description": "India fuels worldwide jump in planned coal production    theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3BqdzhTT0NrN01xdElmcXluT25VNVJGNG5qS3h6bWo4T1BRb1EybUdDSmpqODdybUp3WC00ZER1bG5ha3pjazZMSGRaOGpIUXJGeFNPSU9PelFwTllDcUQwZFg4WUNPVDBtQ2tZZXVrbzB2Tl83MjRUV2Ntc2lrYjMxLXlpLXJmdXdxQkh2THJrWTdi?oc=5",
+      "date": "2026-08-13T04:00:00+00:00",
+      "source": "theguardian.com",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "78967df90067ba2f",
+      "title": "Pakistan’s current global prestige cannot mask its domestic decay - The Caravan",
+      "description": "Pakistan’s current global prestige cannot mask its domestic decay    The Caravan",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RRUVyY0s4QU9Ed1BQaWFpcm5WSGRKaDNPV2hMMGxmRHk4S29RTFJQZk5KbXhMdE90aFZER2FPTWxlN1Zmb0c3ZE94THNIRUhyQ09mbzV4c3hHSk9KckRER3d3V3pVTi0zaTRVSmR4ZGZqUWNoVWNR?oc=5",
+      "date": "2026-08-13T03:51:27+00:00",
+      "source": "The Caravan",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "9d5fc76a7ff76705",
+      "title": "Table Tennis Federation of India (TTFI) suspended by Sports Ministry - Mid-Day",
+      "description": "Table Tennis Federation of India (TTFI) suspended by Sports Ministry    Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFBEOTU1bXJDOFptWkZTRi16TERwRTJHYXNhSXd4cHFYaERfOXYxUkFEb1NxeGdNSVlva3BXX19OQVd6eDFEQkc2NVFGZE5CQmdKenNaM1ZuNHVkRWM0elFGamRyb0tKQmtZUXZYUGlqS3BCSjliWXhBd3ZNazEzT2xZcmdpdG1yNVpQYWpJZ0wzeXBHbkNob3paQk1kSEI1MzBHODJabmx1Z1RncnMtVy1OUlZyc0pYVnBBNjE5c9IBxAFBVV95cUxNZHVoZjRpV0c4UUVPVXJ6Xy1lYmhvc25XeF84VHl2bnZPZlVVVkF3TjM4LWJQbTVDbzJZSjNBUWtlX0lzallnZWR1T3o3R0hkWTRQZXE4d1ZjSVVLanZwWktQUTFmb2xoYUVKYlBvNi04d3Q4NTYtdzBuNnJvdmNycURUb3lRQ0d0SVdSaDRzWGJZQzBLVm9lV0ZNZXlWWE5obGFsYk9aZ2RScFVXaWlLbm82eFMyNk1BM0EzQ3pMb1g0c2hx?oc=5",
+      "date": "2026-08-13T03:19:00+00:00",
+      "source": "Mid-Day",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "70fe1c2af9d56277",
+      "title": "Indian-origin teen charged with murdering mother, brother in US after ‘kill family’ searches - The Times of India",
+      "description": "Indian-origin teen charged with murdering mother, brother in US after ‘kill family’ searches    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcjBMbEFtb3lVNUw1R2ZXV0hNRDA3a0U1QmtXWnRpeEdMZ01DdWlKLWtXaWJvLURDYUFtZnhDYTJjcmk0ZUJrTFVIV1dhMTVZYWZuazNjclpWeDJVeGZXYW9YQnZUU0pETXdwUXVrTWJuTnRpOFQzNmNnNjZ6YXY4Vmhyd0NRUHh3QzBCaVU0WjhUYW43LVRFS2tkM0hHcy1pM0tqUFptZmQxdnM4UDBtZmR4ODNvNWlPS3NZcnJxZ1JOR2lZRG1FMW5zT2gzOUwyYmtUV0FlMjRsVWV6elhUZDZjSTRLcG5vc2E0aXNmTUx3UdIB9wFBVV95cUxNTEdVSzR6dG5fQnNneXdjMWRLal90V2pteEJZbnpKdHFiNFUzX3ZvZzU5RXFLWTEzYmNCd1FCdXdDT3lmcUFqcU9WbjlHOFhXd3JfVW1yUm9Xd0tSOE1CQkx6S0hndlFfVEkyOEpveU5WeWx3U3pDZ3EydFpKRUF1UGc2Y1I2QWtQZVBObnJueDdvbVlyZF9QcjRUMXg4Zzl4clFESjIzbHBXRjlxejQ3VGhTNjJqR2kzOWF2Z2hmZENmYUFnOExyb25VcXBNNUdGNUFyU3RRbU96RWpVRklsYVkxbXBRNUwxNVNJbHJvM3VJUUMxZ25V?oc=5",
+      "date": "2026-08-13T02:37:00+00:00",
+      "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6caa38f24c794683",
+      "title": "‘Over One-third of grants to autonomous bodies of education ministry unspent’ - The New Indian Express",
+      "description": "‘Over One-third of grants to autonomous bodies of education ministry unspent’    The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXVNNmY1b19xQ1hPSS16ei05VG8tNGR4NmQtRXJFVW42SkJPRUtLZkJfNUN0QU82eFNhdFJCdHdlUzhseGpKVi0xbHNsOVFWQllDVnZTZlFJTWpMZjVPWTlqeWRSdlBzNG53WDc5V1poSWY4b1N1b0E4VVBkWWdkdGRMUS1BZjBUTjQzc0xoSGlRUEIwaF9ISVBQUF9fUGYxYUtmbHdOV3hKbXlneXlWMEh2VlJJWWVzdGszZXF3c0lLQzdP0gHSAUFVX3lxTE1PUi0yYjdUQzgyUkRrWVRJOTJoLU92TEdZWTJIMndPazZpMlk2QVM4cWZybzJ0OTBid1oyTDJGcVRNQnJQdWk3dkhNZjdHd3lxMlp2Q1NibWl4Q2sxSjNybi1nMVR4TzZ2UzZqa09Bdi1lR1pub1dzLXladUhkQlVUQ3k3eWJIZTBPZUxQWURycUdKS0V4S0tlMFVnNkk1RTBEMTVFNW93bDZJSl9VQ1BtempqQWVSckFoalR4ZVJlcnBNUFlQR0RWWXlsSUh5VHVuQQ?oc=5",
+      "date": "2026-08-13T02:14:40+00:00",
+      "source": "The New Indian Express",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "1130affc61fe9727",
+      "title": "Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight | India News - Hindustan Times",
+      "description": "Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight | India News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFpsVnFaQ2QxS0hvMVJIME1WdjkyV2ZlVTNlbUp2RnJJQ2h2Q01KalJfcW1hZkI2WGlOTENNNTlma0lNWUlMdUF5VE9kbWY1ZV9ic1JXc0o0UENvZFRwVjI2c0hPWXNELTRyRHdTR0hYMlJ1MHlXYW02RU44bWptLVlLUFA0N1RFakl2c0ZTazY2MGtXU2JXaUhFc3dDMWJPRDFkeVNpdDRSVUp3UERzcnkyODMxVHNFaDAxcUI4QUQxLVJqMS1ZZ2ZGQ2dBZmVFOTB4X2lBeEZiczlydjVjd3g1amRod1VJeVYwaGgwNGLSAfYBQVVfeXFMUGUzcV9aYnUyTmUySElmYjVPWXlMcExiaFFfUnVMWFBtRmU1dHIwN1M1QW56Qk1CV3gyYWhURGlCa1dEcmRTalZHak50X0JoVEZvX29xWmVwUUEyS0FoZ0hzRkpCQVowdnB6UEhIUElqTVRRWUt3UlFoczQ3MDZKUFpTQ1U4LWZja01mSmNoSjZrSjBxSnZyXzhyYnlRWVJuWWF6cmJVbzhqTWt5elFFMHhreC1yUmQzU3FoQ3ZURzhkSkhlcXF1cllBSG9tWFBrcl9weGpQX3N3RGkyTXI5TXRPZEV3ZVViYWZfenNwWGRPVzhmNThR?oc=5",
+      "date": "2026-08-13T01:58:18+00:00",
+      "source": "Hindustan Times",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "550d5fd3c31f8805",
+      "title": "Government eases Annapurna criteria, widens scheme to include more women - Telegraph India",
+      "description": "Government eases Annapurna criteria, widens scheme to include more women    Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWZEa04zTUlzcHRKLVpmeTgxd2ZoRExyQWtnR2hUQW1kTEZwX0NOSzdScnhkaVdKMDlfY1pKQTR5TWNkQVdEdEVLQllTeWJGb0xGQk40R1JNQ0VCOGVtRWRncE5WSXdGdmJZN1VrSVBjWWdIN1VfYjFZLUJCVG13bzFqSXVmXzN1Z1FvYmZ4SzJwdWJSSzNKWFBsaWdGbjNKODdHamJwN1dxVkQ1b3lEZEE1UVRwcGZtZ2ctT0lBVG9HeWY0Q0I0SHFZNNIB0AFBVV95cUxPaEd1dEI0RnpMd1JqSXlac3FpU1VTdVFhV01zWGJRZTBLMDEzdDBCa1ZGVC1Qek1iZTdScTJhWG1PZmdObUtnaHVzTzgyVWMyVFhBamJ4ODNrenVCd3FNOFluN2owWDdVd2hSdGgzamVDbG5GeUJQUmNKaE11cm9wMkRrdG5fVU1rdmU0OVJXX3lOVDJqYS1qT1RKU1ppMUxnMnBwZ2VfYmxzWEVYcVpXNUFqRWY5V2toNGU4S2dSMzZMRXM5RFBObWlCR2JpbkYt?oc=5",
+      "date": "2026-08-13T01:49:26+00:00",
+      "source": "Telegraph India",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "4bdb53b588a38c41",
+      "title": "Indian higher education’s three challenges - The Indian Express",
+      "description": "Indian higher education’s three challenges    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXY1TWZWZHdiV0NqS3NVOS0tZS10VThoVGZZWXJ4YmVCSk51ZXZYNlhqYnJwOHQ5SU9qSThYUFltWEpYWWpydVVtMEtMS1VYMzNic0xoVG1aVHJZWEd6aF9XQlFRWmlpWFo5TnVNODljbGJPbmY3ak51b0VNVndvYS1jRmJ1M3BTaXlZOGcwZW1zelBRaE5aZzlNX0p0Tm1qcGfSAagBQVVfeXFMUEpkcDBZMEY4d2VneXl5NGg2RDE2UkVnRGd5ZDNNVXNJWGlZVUhFTnJXdlpzZGNlZk5LTm50U0kxZWxtOTFMVEJ3Q2tJaTNTeWwtUTFYeVEyb284QWpOLXVDVXpQcEwwdVhSSms3SjBOdWM1S0VUSGo4ZTE0TmgzODhzVDhhVEtlX1gybGVzWW5sdVVPS1BveGhMdlo5RFJFeFRxUUpqQm1p?oc=5",
+      "date": "2026-08-13T01:02:33+00:00",
+      "source": "The Indian Express",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "82d575a6f0878ac1",
+      "title": "Deterrence Is Domestic Politics—What Europe’s Disillusionment Can Teach Asia’s Capitals - India's World",
+      "description": "Deterrence Is Domestic Politics—What Europe’s Disillusionment Can Teach Asia’s Capitals    India's World",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2JVWmJ6aFlESV9RN1QwTVlPSGpZVkVXX0t0VTZVeWtsSk9nU29YSDdKZWZKbzRsa1A1UlhfNVVaTVQxQ0FHbDVpV1hrRzhLRFJtS0xRdVFiVlJTQVZCVjR1cFRDTEJtTXlYbm5UWWtmc25IVHl3bUR6Y05MeWhYcENOal9laUp4RTdvN00wbnlmcTNQN0VDTE5ERm9vSEs0QmZkRm9zcmh4R09HWEE?oc=5",
+      "date": "2026-08-13T00:58:11+00:00",
+      "source": "India's World",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "8ae794b1c4ca6dc2",
+      "title": "‘India showing interest’: Putin says cooperation growing on Northern Sea Route - Firstpost",
+      "description": "‘India showing interest’: Putin says cooperation growing on Northern Sea Route    Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDdTUW9VTXJYVW1JSTQyQ2Z3VHRVcmdmSzI1VVhTVFNrdVM5SWFEXzhweGtwd2IySzZiZWZvTDNMT0JLbXEyeDVjdXFkYTV1MlFXaDBwaW15UXhHTHZ3YnVxQk1IczZKaXVaN2lQcmdFNl92T0k5UEtFX2REZFFBZjdSRGhsd3NPV1pUVUZESFdpRnVQLVNBVWY2c2xHUldhWnhfT9IBqgFBVV95cUxPUnl5bUpaWGQ3Z21OUDNOUmF1bW5FTnJXckNxWXgtLVBKcTNUNXZSSnVZRHp3bHZUUk9UdEZiZ1JrMnRqUXoxWGJ1UFRRWE5ZQkhnaVZ5S2VLODNLQ3B5aGF2REMxZzB6cG5IZS0yMWJUNTVBODQ5bWJ1WTJtSWoxaEROd1d3ZHJvTE5NamVXcTdES1RKT3RhVjVMc1RBb3pyTm41VXZ0Z2UtQQ?oc=5",
+      "date": "2026-08-13T00:36:32+00:00",
+      "source": "Firstpost",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "13786bd080cb499c",
+      "title": "News On AIR | April 18, 2026 8:36 AM - News On AIR",
+      "description": "News On AIR | April 18, 2026 8:36 AM    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjJwOEdjSWVnMTRHbmlxdWpPbUR5WTE5SXFhejFBX2JPeEttcFRTTHZ5bDJ3djNYTXNLcGpWYUtFeEx5M3pzaXpNVWViWWdGNktNMkNpVS0ybkZ4REdlR1RQNjFpdkhGUXhrcmFNcGZ6T3k3YXdLdHNLdEFCZjVTUUR6YmN4bUg5TkpGbTVrYUg1THVQeUtjSHhjbDB6VjdpOUpsUWxzV3BSZVJubEl5RDhvakU0bmpFbXBfZVcyUm1BUGZOQ0hSR3g2emlYX0s2NGc?oc=5",
+      "date": "2026-08-12T23:45:46+00:00",
+      "source": "News On AIR",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5e1470fea63811df",
+      "title": "Full Text | Tariq Ali: CJP-led Protests One of the Brightest Developments in India in Years - TheWire.in",
+      "description": "Full Text | Tariq Ali: CJP-led Protests One of the Brightest Developments in India in Years    TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2dnNWRIMTVEcFVvS1hBY3p4d3FtZS1SdUNYblJvREhzNm16eHUxS3kwZ2RyUEpvMllKUU9TelkxVUJnODM1eXlGdTZ2MTBHd3luR0lxNFcwWjlvdzQ1Mkw5b2ZWemdQT21BLU1pZzhPNkROb2RGbGNEb1pSd1BlMlF4MDcwTk03YTduRnVPVGRVV1B6Y3h2SE5feFVILWJCZWxoYmZKZ0lUdWhwSkZBZks3eUk1ck3SAcoBQVVfeXFMUDVMRnM1emhaNE9Kb3p0UVIyQU1QWkkxTXNqZVgtbk1KenNuUDZlY0RodkU2bDdfZ3U0T2toYUJBNVB2YjREV2sxNTlWVldpRGI3dGpFLWZOdFUzNlpQUFVIV2dpVVdkTzBaTldnN2RSLUREMG9UeldCOTNmTzZGVzR6QVREMFlrZnZjS3FXTUJlSnM3TE5ROGR3cWY4QUpCNXFwbjBEcDNRWHV3WXFXOTlyWDdmQzdIVVRLNURHM3k3NFVJLWRfam9MQQ?oc=5",
+      "date": "2026-08-12T22:34:16+00:00",
+      "source": "TheWire.in",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "df38bfd5bf75fd36",
+      "title": "India financial technology spending to grow 21% annually - Insurance Asia",
+      "description": "India financial technology spending to grow 21% annually    Insurance Asia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjY1ZEtWU0NvTlJhaDJ6T3o0WWEtNTE5OG85d25yWnJrZnhBT3NmeFRwSk5leWZjcWRvWXZpZHlBeHZISFUxcGl6YnFGT0FfSmVIZzV6Q2hIVnU1VEdjMEFKOEFWQTZBYUZnRHBUMGxRbE50M1ltUktJN1g2YkVWNDRrcG1RTE9yTlN5VjR3aVc4RTRMVWU2OA?oc=5",
+      "date": "2026-08-12T21:45:00+00:00",
+      "source": "Insurance Asia",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     }
   ]
 }
