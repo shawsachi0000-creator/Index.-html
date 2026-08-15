@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-08-15T20:48:08.863202+00:00",
+  "updated_at": "2026-08-15T21:19:46.883035+00:00",
   "items": [
-    {
-      "id": "044dbe4b7a8c3f1d",
-      "title": "Technology, autonomy, ambition: The making of new India - The Sunday Guardian",
-      "description": "Technology, autonomy, ambition: The making of new India    The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDVMaURkSFF0ankxOWpfVWpmR2tnMnRYdVNlZXI0aUpUTEtBdU1VUVJ3WWdRR0VaRS11dnZCRW9Rd3NBSUNqRlJ1R1FveEpFeC16cWFlVnFsWkl3WkpJY1hzamF1RUR3RHlvUnlmaGdWNEV2SW5FU1MwOWFEUUk5TjhtRFU3cHp1Rm4tZS1lNzZoSXdLdW11dXNTM183TTFC0gGmAUFVX3lxTE5abFNMRTh2ZnhWTC1vTGZnOF9hNVI3Yk9aekh2RlIxOTAxX2NMQlB0em9ySEc4c2tTaU5CN3JzYXhWMFU0ZmpEVUc4MEN5NVVqRnZIcGdrRGlvUXVvbzFpR2JUTXJMVnhlTmp2UTlmZTBOSjhXNU41ejNjNHN6WUNtaUxSNHdjX21IUnNLek5oRzQ1cFFoUmZBN2NaeEpOcjRsMGtYc2c?oc=5",
-      "date": "2026-08-15T20:37:34+00:00",
-      "source": "The Sunday Guardian",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
     {
       "id": "ed3e10be644104ea",
       "title": "India’s chemicals sector targets up to USD 81 bn exports by 2030 - The Sunday Guardian",
@@ -22,6 +12,26 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "364b31d6571ff4c4",
+      "title": "Army dog Tsyon that helped forces track 3 terrorists in J&K, shot in leg by ultras during op gets Preside - The Times of India",
+      "description": "Army dog Tsyon that helped forces track 3 terrorists in J&K, shot in leg by ultras during op gets Preside    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOW56TXMzT25xUXdfeWU1UjAtQUpEaEIteGJ4aWNOamVjbEJ5MkFfdW9QOFNfY0lSR3d1N2M2Y2ZWbDBrUGhVZ212MmFuaXZDaFRPYWFjbEZ0VU93YnFNcHE1MzA5M2xLeGczVS00TnExUEF4aTdtWnVQTHhuRExZQk5CSnpMd3R0aG5VWVk4NUEzVERnMjA0UEkwWVJ2TldYTnV4Q0NuN3k2aVQ0T2p4cDhEY0hMUXd5WTBhS1ZqTm9oNzVyU25wMnZJdHRkcWxzVFFQeUxWVG5NOG9wdy0tRlEySFpCSURBRmFjemlaS2lkUlJZM0ZSb0JmUVZ5bW1laHpsQlNMYm1lemczNHkzeER1SE3SAZoCQVVfeXFMTjdQcUJmZmo3UGZwNFhEWWxQTGcyNFFVVHFuWnlCMzRTaGxhcHl4MG5pM3E1X3Z5WTBmd3E5MWZUdk5NQmJjaDdtODhId28wVnFkTnRnMFMyYjNKdGJ1YUFSZndkTFkzY0U3M3FIQnJpMVhCTEdJNW8zZmZZOVZEc2lMeHhqazdTZ3VQRXh5THFZTnRzVGFxcnc4LTB2YWNNMEozUU0zLUVzT25kOEhyMUExbE0tdERHUW42Ykh2UXJodTdBNFJRREU5T0dUc0JYR19JcGlSSGFiTkJDZlkycGF4SEVfREE3d19PQ3QwM0hIc0JxamJ1Zk5PX2s1UkVENU5tLWozZ3o5czgydkVheGhJX09rQ2RPSzZn?oc=5",
+      "date": "2026-08-15T20:19:00+00:00",
+      "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "66ccacd0385a23b0",
+      "title": "Had Article 370 stayed, PoK may have sought to rejoin J&K: Omar Abdullah - The Times of India",
+      "description": "Had Article 370 stayed, PoK may have sought to rejoin J&K: Omar Abdullah    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHZBeVFMc201R3pQNmtWN1UxNVFwelBlc241ZUFWTklsV3Vra29yS2RvNlRCYkNuUTlmYXRXazh6aUJncGFpNUlqTEJ2elAwWi1VZlJWMFZBTHdyOC12Y3FLQmF0alEyQzQybllKQ2xVdzVfQzF3X20xNTFRSmN5RkpjQXdUUDVvcURMeUVIQ2w1WVBpVXVQdTdfUEtXTUtLcW1pN3hNUFZBQjc1ai1tdTgxSWYyQWM5V0dyQ1RYX1pKNk1FUUFtRVkzR3hQZUFpU3Nj0gHYAUFVX3lxTE5ONnpDWmNYb3E0cVRFOV84TjdDUmV1VnFfWGVTM1lzM05uelUyTDhHNm00VGdsU2dKczFTS21hR05ZWXNTSm9VbWExc19OREpPY21xdWh6c1BOazdSaDZiRVNkSHl0UXh1ckNlTlpubXVBalBWR2M4REE0bG5HUzYzcEFZQ29tU09jNzMtYzEycy1BbFdBTXBvaFh4eUgwZTdhcGtmXzFibG5RckU2M2x5ZVh3aEt0TVg0X3VIRnMzRFBjRFJ0OU9SN1NZd2JEV3ZBYkZKOUdKcw?oc=5",
+      "date": "2026-08-15T20:02:00+00:00",
+      "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "4e69debab9765d68",
       "title": "Trump taken to Walter Reed Hospital today? Fact-checking viral claim | Hindustan Times - Hindustan Times",
       "description": "Trump taken to Walter Reed Hospital today? Fact-checking viral claim | Hindustan Times    Hindustan Times",
@@ -29,6 +39,16 @@
       "date": "2026-08-15T19:44:07+00:00",
       "source": "Hindustan Times",
       "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "0f62f86920cedda5",
+      "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat - News On AIR",
+      "description": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5",
+      "date": "2026-08-15T19:11:36+00:00",
+      "source": "News On AIR",
+      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -142,6 +162,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "052770db31fb9ebc",
+      "title": "OECD Report: India Remains World’s Fastest-Growing Major Economy - News On AIR",
+      "description": "OECD Report: India Remains World’s Fastest-Growing Major Economy    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5",
+      "date": "2026-08-15T16:52:15+00:00",
+      "source": "News On AIR",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "6c62e6ca7fe7a0e4",
       "title": "West Bengal STF arrests 3 from Cooch Behar over suspected links with Pakistan's ISI - Moneycontrol.com",
       "description": "West Bengal STF arrests 3 from Cooch Behar over suspected links with Pakistan's ISI    Moneycontrol.com",
@@ -152,23 +182,13 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "fa2974e9f28fc37d",
+      "id": "759a960fe104f084",
       "title": "How Political Symbols Shape Power and Resistance in India - Frontline Magazine",
       "description": "How Political Symbols Shape Power and Resistance in India    Frontline Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdC1CQXduWG04eG9TV19WZnhPVWhuTDlDb2ZueFczS2U3M1lzbHB4bmVhRmdnYVgxcHpmN1hpOWgtOUJmMGtKbjV6S3RLbE81OFRrRGJqUmowd1hCNlBiZ0Q1RHBSZy1ubVBuNGhyVUZJT1lMcFNXQ1F0R3RZaTN6WHhiSVBpbThmU0c5TjBELWtyLU1wSXNBZW44YWVGYnVJTDFiNUNB0gGmAUFVX3lxTE90LUJBd25YbTh4b1NXX1ZmeE9VaG5MOUNvZm54VzNLZTczWXNscHhuZWFGZ2dhWDFwemY3WGk5aC05QmYwa0puNXpLdEtsTzU4VGtEYmpSajB3WEI2UGJnRDVEcFJnLW5tUG40aHJVRklPWUxwU1dDUXRHdFlpM3pYeGJJUGltOGZTRzlOMEQta3ItTXBJc0FlbjhhZUZidUlMMWI1Q0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0FsUU9WYWg2XzBDSU5ZeFBJaHctb0VJbE02MHZwLVB0VFduNE5TdzV2RV83YThzblNzVFB4QXFxZzI1TU8xbFQ3YVd1UC04LVQ4ZGlqNFdJb0ZwaHBUeDFWa3Mwc3RjQkM0Sjl6R2pmS2pZMWx1bDBraEktazFlR2R5SThud2VBSlI1VTI4RExqQkZsNjlWdW54bUpzOUnSAaYBQVVfeXFMT3QtQkF3blhtOHhvU1dfVmZ4T1Vobkw5Q29mbnhXM0tlNzNZc2xweG5lYUZnZ2FYMXB6ZjdYaTloLTlCZjBrSm41ekt0S2xPNThUa0RialJqMHdYQjZQYmdENURwUmctbm1QbjRoclVGSU9ZTHBTV0NRdEd0WWkzelh4YklQaW04ZlNHOU4wRC1rci1NcElzQWVuOGFlRmJ1SUwxYjVDQQ?oc=5",
       "date": "2026-08-15T16:30:16+00:00",
       "source": "Frontline Magazine",
       "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "195dd46bc4139e95",
-      "title": "Trump urges Americans to pay ‘little bit more’ for gas as Hormuz crisis with Iran deepens | World News - Hindustan Times",
-      "description": "Trump urges Americans to pay ‘little bit more’ for gas as Hormuz crisis with Iran deepens | World News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRldyVUpXbU9UUWFVQjBvREdJRkdub2tQaExia0pERVo1bmN1RVVodXJQcWkzemFOSkJ4d0twUEcwYmc1UHBfVDJZNmdnLTJRUEs1UVF2ZU04eU1vc0JBSDdRS1o3RTctU3Jjd1lzeW94cG1sZWlHU211b2hzT2ZKWmYwU0thODdaMlZxeHR6YU94ZGpUQnVKdTUzV1VyZXVJdlVXSjQ0dVZaeWFTd3BvUGlRQzh2NUUzQnU0T293ZG9sYnpNaUh5OERYcTFRMklkVG5rbUlwTlJTOHJVOG52YXVjOUdfWEdoVGd4ajVQT0RoNG9VU19RQTZ3bk1jYzTSAYQCQVVfeXFMTnhMbV9LbnE1YktwN3BjcnZKd292ZG9PYm1NT2VocXZobUduOUk0THpGc0lpN3VwQzJ2SzY1M1NBWnFCTGtVTlZCdk4tTFNVZkVjdTBZLXVsaUdNS19mNVlHQlJYSlljWEMtV1ppY001Vlo1d2t1MlFmYnFUWm1NYTF5U2llRmVYVlBTQ0xCU2JicWxIWGhxa05nWVgzM2hxVF9zUjJrXzVDMUN2RWtTTXNJd1huMm9jY1dwbVkwWmhaNnczNkktLUdNU3N1T0hvNXRtS25nOEM4M19xYWcybkhnYXp4MktCTzl5YUZVRk9mUXBfaDl3T3BoMDFvazFRNE1CVDE?oc=5",
-      "date": "2026-08-15T16:09:59+00:00",
-      "source": "Hindustan Times",
-      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -269,6 +289,26 @@
       "date": "2026-08-15T15:25:45+00:00",
       "source": "LinkedIn",
       "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "666f4aaadf193760",
+      "title": "India opens nuclear sector to proven foreign technology - The Express Tribune",
+      "description": "India opens nuclear sector to proven foreign technology    The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmNMRE1MQ051Z2o5WU15MkNaLVhCdDk2SmFQTHhkTVRsMXZJSHM4WTB1Ml85Ml94RXpSUVRJdERUN0NKWVA4cGdaTXFmaTViVVpkdHRTclVsQldzVUJhOHJBZmhvWmNlWVA2NjlxR0xYeU9Kd1g2ZjZaU1dBVUJZc1laTUs0dWNVaVEtc2x1dHVnYnY1MXc00gGfAUFVX3lxTE9hT2RyR3FXdVNjVlFNVUwtLXNuckdrOWtUQ3BOQW1ERURQdkN1TXBEcEFURHFsUGZ4V3RDeVBabXEwMWVVSTMybVN6OWVGeGFTcDc3Z2NEMTVYV2JNU0xQMmRVamd4MjRlRmZKRWNlRDRQRXRJbXJORnRMWENTaFBxZmNXNmJ3VXFFcXpYdGhhQzNrWVIwYnB1enExNFBNaw?oc=5",
+      "date": "2026-08-15T15:25:26+00:00",
+      "source": "The Express Tribune",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "09b2d501c1c267b7",
+      "title": "‘Harm to bilateral ties’: Russia demands US, Turkey explanation over possible Ukraine arms transfer - What's happening | World News - Hindustan Times",
+      "description": "‘Harm to bilateral ties’: Russia demands US, Turkey explanation over possible Ukraine arms transfer - What's happening | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDJWeGVEQ1JETVJyNzdTN2lGdkpTNUlqRTZZc0xDZ2N4ZkNFVXFMaU1VS1Y4U2R3dTZ1SzhrUFQyVS11Sk1tdE8xWEZjRzI3aVZJejMtMTNMa29CZmp0RlZvOGNZeERsMXZzLWFhd1F5NHpvOGtpZ0tTSXo2am9BMUJJUWltLUIwU0hFbTQ4TWhpdk5kVVhYbEdPLTlHR0pzbWIzZTJlTGg1am12QjN1bFJJaGp5YTVDLTRTcGJYQ3RnRTVGR0NlUWFWRWVVQWRTVkdtZGg1SU1hUjNCbVFBWUZUd2RMMHF3R2FWbGVXLWlKbmhVLWxBVGt3SENtOTBtdDN5ZtIBigJBVV95cUxPU0FkWGt3QUIwbGJvWnFCa2RaZjFaWmtnRkxGZVR3aTNHUTdsaTFtZm1VY1MzSThuem54ZlZJZkxMakRXWVNTZ1hPYVRZUUp5UDYxMEdsWldKdVN0RHEyTmpsbG1Xc3Z2UGxEQUxyeWFONEctWmZGU2VmMTdIRnVfcnBEMUZFVzQzZWRFUHBPb1hiSklfNk85TnUtekhWMnEzNGRIa0RmYzVNYUIwaEJZQUFJa1ZzakYyYjdYNXhMbEpjMkZodjRKZzB1YkU1TUZIam5QRnNVaEJyYVlkSzBOa3BZOWFzZWRjTVFqcm9FdFRrT3dVT2FMZ2lhamlvQmxoUkVfQ1F2dmxZZw?oc=5",
+      "date": "2026-08-15T15:19:53+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -482,16 +522,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ae30e50135277440",
-      "title": "Doom! Board lowers the boom on Indian-American CEO who fired 900 employees over Zoom - The Times of India",
-      "description": "Doom! Board lowers the boom on Indian-American CEO who fired 900 employees over Zoom    The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUjhwU1VXdVNKWmstdUhxaWRhaVQ0dW5raW1PZEZyY1FZTlFmbUlSQ2VWTG9GTlB6aXlkSC1CMzlNU2ZKRS1WYjJ4S3JTQW9VMEIwaU96VEU1bS10ZVljSzQ3cXpPYndHNUFhV1ZuN1VFdl9ZeFZJc1h0RVFoVzlIeGh5TEl2RElKNWIyamtFWXppYnJ0M0dXTGd1ODhNY3dNR3VYRTlwYk82WXMxeENMN1Y2X3VPeFBaQUFXcG5vbEpIcGwtakFZUjl6NDY4NDZ6NXVLR1ZNVm5naFBRdzR1dlUzS2FsT3FxMXfSAe8BQVVfeXFMTWxqaV95OEt2QWNhckdNV05GalZ6SlQwV0w0djhSZEJObWxDY2JEakV0UndMaXBJVHNTb3l4cVpGRHRlMXVDbEp1RUxXRWhtZDZsTE03RWUwaDZfTnYzR2Nua0hBMlVXc3RWNGZtN1U4ZGNQSV8waEw5U3FLSzNUN1NzN3lUWEllNkkxVk40MTExaFlqTE9mT25DWGI1a19wLUphQ1R5YWhYcHl5RU10MEJoa0k1Mkd5bXVEamlvUWdHX2gwT09nZHNJLUp1ejd6elBNZnlxdk9rREJ3RHVoa2FVN2pGU1B5NDlpUFRFMkE?oc=5",
-      "date": "2026-08-15T13:08:00+00:00",
-      "source": "The Times of India",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "ab3062f2f2e17ff7",
       "title": "‘Ask the mother who the father is’: Tamil Nadu BJP chief’s remark on CM Vijay sparks row | India News - Hindustan Times",
       "description": "‘Ask the mother who the father is’: Tamil Nadu BJP chief’s remark on CM Vijay sparks row | India News    Hindustan Times",
@@ -549,16 +579,6 @@
       "date": "2026-08-15T12:37:42+00:00",
       "source": "The News Mill",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "2fd64630f0ad57c9",
-      "title": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi - News On AIR",
-      "description": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHFKWFVyblpMWGJDSkxDRHhMbWMwZmpaMzJZeHhBVHFKRFFVd2x5TzZRZ09Hc19IVUxTXzFmd2tnVm5ZSzNuNzVTNmJRQklzZ0w5ZTdCQUt5VEt6Y0lJSTlndnNJN19PNFg3bWJLZGJWNFJjRW95VFJyZWRqXzd5a2E0alhVWWtudVRqdlN0TmRUUQ?oc=5",
-      "date": "2026-08-15T12:33:44+00:00",
-      "source": "News On AIR",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -772,6 +792,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "4e27d13674fb9414",
+      "title": "PM Modi sets ambitious technology goals for India at Red Fort | Tap to know more | Inshorts - Inshorts",
+      "description": "PM Modi sets ambitious technology goals for India at Red Fort | Tap to know more | Inshorts    Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3pCWngxWk14S3FJOHpIVVJYaFpLNm5zSWlGdUZRSU11aHRkRjluOXZTOWdnQkdMX2dNSXRmYTA3OHVkdUUwRFJzNV9aeHYxdFM5TmhHMnpJNk5COHhPNlFCdTU5QkFYOF9EYmlVa2hGVU5LaHk2dkZMYno5SzZrcWVEUGk5X3ZnbG1VaVotLXNVdFcyQmtkZGRyVHUxLW9XX3lJMFpQb9IBrAFBVV95cUxPMy02a0xGRzJ5Q1U4ZE80TFJ1LTB5dmdLcE13UkprTEhHWWNhaTJSSkVrcVQ5NHU1MzJ2RFlzUUpjMDgyN3BxaGFENlZfb1d2ek00SnU1RDVoYllqMFZUaTFSS2k1eDJFaDB4U3o4aHk5bFFiRm1zVUlkV01lQVNFU1VyalphdTNNcURCUHpWLVo3RTlfQUhyZ19LSldYNjh3a05pdzlTbWNTRmZF?oc=5",
+      "date": "2026-08-15T09:59:47+00:00",
+      "source": "Inshorts",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "41a1b113c31393e6",
       "title": "Sony Pictures Networks India unveils Tamil entertainment channel Sony VIZHA - The Hindu",
       "description": "Sony Pictures Networks India unveils Tamil entertainment channel Sony VIZHA    The Hindu",
@@ -872,16 +902,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "51e6d995c79835c9",
-      "title": "India: Modi promises exam coaching, AI training for youth - DW.com",
-      "description": "India: Modi promises exam coaching, AI training for youth    DW.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2FMTElLbDFjOWN0dmJieEtWX1hGQzg4aEltRmt6SUV3d2x5ZGg2d0hQUGx0OVdMaHRwQzhDSHRTeHF0UzFkRXdFYnhUaEJUS3ZQbEtWQ2xBNTEyUWJQdVNvbnY3NktZdWltZkI0bEFiOVl0NU9HN05ZTXdwOHd0M21uMFluYk84VGplSDhGYWFCZXpzalBaNjVBVkZXZ3dmaGFyWE5mZ2t0U0d60gGsAUFVX3lxTFBQZkpuZi1LTnVUZDZCS0Z3a2hpVDFqMHVhcmUtSXpYbjNFbjlORm93X3MzZ1NaYUw0cGctS0dWOHlpd1FmSjhrcXJlSnFBZ2VVRjFfR1BvT0J2RFQ0UXdpdzk1cFZ2WlIwdVl0X2MwV3dlWkNlbURTQmZZRG05bHF5VlYyZ09tMkNPYW9uTmdpUUZybmhkdV9OOUVrV2tjSFZjTUFjV1UyU1RjWi0?oc=5",
-      "date": "2026-08-15T08:53:36+00:00",
-      "source": "DW.com",
-      "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "3a41b25a2594defe",
       "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order - News On AIR",
       "description": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order    News On AIR",
@@ -892,23 +912,23 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "e2f0643a862e0054",
-      "title": "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over... - india.com",
-      "description": "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over...    india.com",
+      "id": "db47303efb6ceb2a",
+      "title": "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over... - India.com",
+      "description": "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over...    India.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaGhXZkJDV3lwQldIQ2xoZXVnYlVwTlRESk04dlk2QjBVRng5YmFQMk1wYUMwMDRCVG5pa3AyVU15anNBb0pVVXROMENIYUJfMUdxT3ktUVB2TlFyaE1jb0xQTGZKTzRFdEdZa2JrenJFbWxOY19hcEhQcmhPeW45ZGRpNEhROVZ4ZUNQT0VHYWFFVlhqNzJ1bm00amFwNWQ3eXBvcWhkakFmeWk0cDlpWmpHck5KWlFXM29BZEFoYkYtakVkdUtZWWFzZ0piOHlxQzFkVEtUVzNuMHpIZTkxU2EtWk9KRnZFOHR5TlFyV09FZ3ZFUlJXUm1MRWVSYWpqTmctcHk0cEdTWW9oWWgzRnotcEhnd1hVSG9VSVlEVE1kUknSAagCQVVfeXFMT2xxT043Z3IxelEwb3ZQaS05T2JkSjFJYzVSSGZ4TVdRQzYtS3RlMWIwNms2STBNbUVVM1pQOEFfLTV3OFV4c0EzSHhTdG15c3BiZnNEcGd1bXV0MEFSZ3kxMmN4UTRacmlMNm1UeFNVeVBSa3lEV3JscFd0clJIOGxOSjI2UEpEWFNXV0JPV0p4WVo0MDJMZjJxUHZNVG1JWjJXdC1HVDZjQ3BhUUNiekNndGlQTHdabUIwX2xPZlM1a3ZWdF9QTjdJMklOb0NsNkZXcHNTZ2xwUXNiSU5PVVFaZ1ZaMmVSbnJKMzZmMEJUSzZPWi14VlFUTjZmeWhUSDBtTEtsbzhac3VTajJIMy1nNUxpY3Q5Y01aaDBiUXBLcW1wZzllbjQ?oc=5",
       "date": "2026-08-15T08:34:48+00:00",
-      "source": "india.com",
+      "source": "India.com",
       "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "d9ad9760f75d4664",
-      "title": "Introducing India’s first Court Downtime Tracker - Bar and Bench",
-      "description": "Introducing India’s first Court Downtime Tracker    Bar and Bench",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2RYcFRSalhGSW1TVzNhODMtenhFbTZWZmpQSFFJcy1uMnJhQS1yWE1DM3F4OUtGQ3NUVU5hU1JyM0FEMWEzNXlzNC1iVE9XU3BsTWNIOVZiaFJmZVlpUTVnS1VsbFpMYW9wSGE4eDBfN3NHQVQ5Y08wY2Nsd0hjQk42MkNpNms?oc=5",
-      "date": "2026-08-15T08:17:40+00:00",
-      "source": "Bar and Bench",
-      "category": "India",
+      "id": "51e6d995c79835c9",
+      "title": "India: Modi promises exam coaching, AI training for youth - DW.com",
+      "description": "India: Modi promises exam coaching, AI training for youth    DW.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2FMTElLbDFjOWN0dmJieEtWX1hGQzg4aEltRmt6SUV3d2x5ZGg2d0hQUGx0OVdMaHRwQzhDSHRTeHF0UzFkRXdFYnhUaEJUS3ZQbEtWQ2xBNTEyUWJQdVNvbnY3NktZdWltZkI0bEFiOVl0NU9HN05ZTXdwOHd0M21uMFluYk84VGplSDhGYWFCZXpzalBaNjVBVkZXZ3dmaGFyWE5mZ2t0U0d60gGsAUFVX3lxTFBQZkpuZi1LTnVUZDZCS0Z3a2hpVDFqMHVhcmUtSXpYbjNFbjlORm93X3MzZ1NaYUw0cGctS0dWOHlpd1FmSjhrcXJlSnFBZ2VVRjFfR1BvT0J2RFQ0UXdpdzk1cFZ2WlIwdVl0X2MwV3dlWkNlbURTQmZZRG05bHF5VlYyZ09tMkNPYW9uTmdpUUZybmhkdV9OOUVrV2tjSFZjTUFjV1UyU1RjWi0?oc=5",
+      "date": "2026-08-15T08:27:20+00:00",
+      "source": "DW.com",
+      "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -982,12 +1002,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "bf2d0526b67281a9",
-      "title": "The Golden Mindset: How India traded 'happy to qualify' for global sporting dominance - WION",
-      "description": "The Golden Mindset: How India traded 'happy to qualify' for global sporting dominance    WION",
+      "id": "9bf1150cce942374",
+      "title": "The Golden Mindset: How India traded 'happy to qualify' for global sporting dominance - wionews.com",
+      "description": "The Golden Mindset: How India traded 'happy to qualify' for global sporting dominance    wionews.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2VnOVhZWVJ5QW8ybkRMM2lkZk01TkFkVTBXdzg3cGd4RTdFbVgxTG0zSm1LQzd6eDZ1WU9IcnotaHZzU094WnM4U0xoREktLWRGLThrWEcwakgtMm9oQzluU1ZDUTFKRHdxeUFpRmZZaVBrMS1ES29UTHJLeDJHNlotbVQtMVNVRUZQdGRYYWZpZ1ozLTFNSmJRa9IBoAFBVV95cUxQZjdCZ0MtdEdEQ19WWE40aVVCOGxYQWxzSGFsNTRuamtodnZZSE1OUzIzeVZwbGZBX25OQ2lOcHZabjFCUDNtNndMc0VaeFBpWmFyanVOMlZvUXR0Rl9VaU1sMjc2aDBLWDBqNTZNX2M3TmRnaHlPQkpldjFZV05RYlRST1phbTc2Ny12QUptaTdDNzQyQkk0ZzluaUdiam5m?oc=5",
       "date": "2026-08-15T06:55:00+00:00",
-      "source": "WION",
+      "source": "wionews.com",
       "category": "Sports",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -1019,6 +1039,16 @@
       "date": "2026-08-15T06:46:55+00:00",
       "source": "Newslaundry",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "764261a9d13800cf",
+      "title": "Sony Pictures Networks India launches Tamil GEC Sony Vizha - manifest-media.in",
+      "description": "Sony Pictures Networks India launches Tamil GEC Sony Vizha    manifest-media.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkVwOGJqeHozalB0ZWZ3eW9PQ1J4UTNSU25BSDdwcXhtcWVKTU1GNFlXNzRYN2plQlVTb2YybjB0V0ZJalhYNlA0VGhZbXBxQTBvR0oxVmlnb1N4RF84VlJOams4R0kzN09KOWV6VUZ1M1plQ3ZoemlpbWNqRXlxemVLQVpmdGtrazFnNGw5NlRGTVlkME1tNHdIV25IRjAyY05pNWJVNE5UaVE?oc=5",
+      "date": "2026-08-15T06:27:00+00:00",
+      "source": "manifest-media.in",
+      "category": "Entertainment",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1072,16 +1102,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "96d5c10bec967fc7",
-      "title": "India has 1,700 GCCs employing 1.9 mn professionals: Can they move services up the value chain? - Business Today",
-      "description": "India has 1,700 GCCs employing 1.9 mn professionals: Can they move services up the value chain?    Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXQ5aS1yYklQVnhNVEtNeTB5SWdqZC1yNGgyN2hjZER3eFNPNExmc0VaTno1cVFscUtTeXZWYjcyVTF5REZkMDVDWV84SnR3eFE2a0tEUVdiSE5TajZHR2o4SndGQ0RZLVNCcDY4ZkN2U0hpTndmNG1sMGdNR2pKMjRDYUp3TnJ5dktkZlRlVnBnNHpHRTlueXpGUlg3YzlCQWxkVjdadUd3am5LTnNWRl9fN2cyR1FnZ3RVX2k5cmVYSFo0WjhDUVZLT3pUUmpia05PZzNhVmFrR0QzSTk0NnpGZVo4bXVVcy0yQy1CNF9BNm8?oc=5",
-      "date": "2026-08-15T05:29:27+00:00",
-      "source": "Business Today",
-      "category": "Business",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "6505bb7854b23080",
       "title": "From 'Chak De! India' to 'Sam Bahadur': How Bollywood Taught Generations of Indians Language of Patriotism - Republic World",
       "description": "From 'Chak De! India' to 'Sam Bahadur': How Bollywood Taught Generations of Indians Language of Patriotism    Republic World",
@@ -1132,16 +1152,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "2d60a0061707b990",
-      "title": "Will Maharashtra Bureaucrat Tukaram Mundhe Enter Politics? What He Told NDTV - NDTV",
-      "description": "Will Maharashtra Bureaucrat Tukaram Mundhe Enter Politics? What He Told NDTV    NDTV",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM19QY0UzX3I1RktGdVhyOFBjbndjTkJ4Q1lBZzItNFBqanJHR0l1ZXoydV9jOF9SeHBWSEJkam9lRUd3aHZIcURJTlhtb2dKcnJZaUhyZEdnU2Y2ekMzU25iQ1NBR2hOMEhOUFNZX2o3dVNCM0ZDRVQ1c1Q1TFF5SmRhaThENkEzaUg1Y3Y4aV9lVDN3aU5memdLV1Rtb0VfNkJ0a0hDbXgyZDlRcml5R002RXktNVh0N3BDNlcwZmlnYzZIY2J0QS1lRWvSAdQBQVVfeXFMTkd4eWpiRnpuWHhIamtfMVpiZzktQnJqVUwyNjBZQWZ5VWVraDdocFl2TkJGc1c2aGJBR0d5ZjY2X0RrMEk1dU00SXNBd3VjS29BMk9nSzlmcTZHTzJJeE1wOGNVQUJsTUZyc05fVGFVWDNrTlAyNEIydFJOeGgwWUwwNkhMNno2NmhOdHZoY0dYTmktamh0cnVYNXYwcVF2TjhsSXlsOWRiSGhzblVVQkV2R2NpSnNxQ3RId1RITzBvamRVNzRDSkNqNlhzdUxUMU1JZUQ?oc=5",
-      "date": "2026-08-15T04:42:14+00:00",
-      "source": "NDTV",
-      "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "19e4b19ecff3fe51",
       "title": "Sony Pictures Networks India unveils Sony VIZHA, marks entry into Tamil general entertainment - MediaNews4U",
       "description": "Sony Pictures Networks India unveils Sony VIZHA, marks entry into Tamil general entertainment    MediaNews4U",
@@ -1179,16 +1189,6 @@
       "date": "2026-08-15T03:44:37+00:00",
       "source": "The New Indian Express",
       "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "f783d65763998dc0",
-      "title": "Energy security, Make In India, AI push: PM's big talking points in I-Day speech - India Today",
-      "description": "Energy security, Make In India, AI push: PM's big talking points in I-Day speech    India Today",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeUtCSnJIV291WExvR1FIZ25GLWlmcFZGSndxX19sODI1Qmx1UkM5Yk4teDZpdXMyTUZUVTJoLUlsV2g1MGVVX0Z0M2RBZkNfS2dvZTllb3Bra3cxd05Ia3gxbEs3NzVCZXhVbWdYM0JiZFFSU3NnTU05M2FQazF1TmtPWWRFS3hISGpuUXl6VDhBQThxRkI0LXoxN0NsMmJEWVpIRXRpMXVWZGJ6OTh3TmhwZ2xFVTJRQ0JET2EwR05GdzExMzBaU1NRQkZOZE9aSDduZUd0RzVGMU80X0pN0gHkAUFVX3lxTE9Edi1rOWtZalpuczVlQS1JTmM5UHNVY0p0N3dNQXpEQ3F4T0VTbkNSYTZWYThSLXNFejlKOFRleWdRdWZ0Q3JLS1BSYk9sOFowXzZLZUI5S3RSMk9NZ2tlUjVOcThXZmVFaWRYUlNxVktBdHMyY0pfM1VOc2cwSG90LUZta3pZZUllUXVBQkQ3UkI0Um05NGkzZFdaSGlvUVZCUzczYTY0cDdvTmRTSW9kMTJOLXp5WWRWQ0hZUzdKU29ycFJyUkdocDBvMm9XWkxnSXdyUU9wWEhkR1pTN3lUb2Z2Uw?oc=5",
-      "date": "2026-08-15T03:38:08+00:00",
-      "source": "India Today",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
