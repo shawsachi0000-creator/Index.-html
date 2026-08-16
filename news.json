@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T20:20:23.707213+00:00",
+  "updated_at": "2026-08-16T20:47:52.296069+00:00",
   "items": [
     {
       "id": "1a34bb2c4d6ff860",
@@ -52,13 +52,23 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "e902e4c5ef552fa1",
-      "title": "Youth play crucial role in shaping humanity, says T. Ramasami - The Hindu",
-      "description": "Youth play crucial role in shaping humanity, says T. Ramasami    The Hindu",
+      "id": "6f219f52d5994867",
+      "title": "Youth play crucial role in shaping humanity, says T. Ramasami - thehindu.com",
+      "description": "Youth play crucial role in shaping humanity, says T. Ramasami    thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUlPUWRVZEJQWGJzbGRCV2N4NTc0QVpIY3BpdFlxRy1HOVc5ZFQ2MEJpU0NkSkQzRnRlOFBVSTZjNklOMVZWcDNGcnlQb0Z0bDhIYUpWQUt3dHR0WjFBZEJUaUQyQk1qM0JqcjlkWE9QNEdnWHRZXzVOVmxBWlFyd0hUV215ejBmWmNFUm5tWVNzeGFUV2tpNWlKU1NtRHBLVVlGVGZoYmRMaWRxdjVkUmdEN0Y3c1F4UkY0SzdUdFEtZ9IByAFBVV95cUxPM0E2R0x5RmFiNG8xNFZ1NS00eFVHV0haZENNeTZ6MUNnWjNYY3Jpdmt6X0pJdFJLdUg3MFRHcTF3Q3UwRndyVGpjZGZfb1piREhaVVJUa2piWnJDMWNmWHY2dkNtRGlTbl9FeHJ4TmVUTE5USjExNWtNUGpQanJZNzg2bTlWa3N0UnZwZnlScTJOYjNCQWMzQWJfQXEzQUZVei1MS3Z6TmxzcFBLRkJTbzFmeDRJS3JpXzhPQ1RLaFJ4SS1mZTVkMA?oc=5",
       "date": "2026-08-16T19:13:40+00:00",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "9f341952e54db1c7",
+      "title": "India’s AI push creates market for localised evaluation - financialexpress.com",
+      "description": "India’s AI push creates market for localised evaluation    financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjVJSHZmWHJZdTlTejZOVktqZC1rcXZiRzk0bVN6SFpDT3plWjlmM202U2kwNVJEY0h5am1LNTdFS3RtTklxN05LeGV6dEp3ZzQtT2Rka3o3OG9NRkNLSzNuZVVNRUZJekRMdWs3LWxjdEJFZWh6TDQtNlN5VjJBM1FTMEJXc0IxeWdkTEZmcTdXc3UzakFuRWNIRTVWQk5qTG8tQXZuMTNzY2dWMzQtanVn0gG4AUFVX3lxTFBUejZxelZWS0VCX3BMQTBaQXFXSFpaRDcyU3NEc1JHb0toeHNaTlNFZG1ON3IzSXhQRXc4bWM4UkFrVGVwZk9iVHpmcXFuT1JLSkZXUHJPSk1WN1RoMWhFN2l4TVd6LW4xd1E3ZjBIbTZyeDZTNm4zQmpQanNVWHQtUzVfc1ZwNXVXbVJLTlVVWV9WZm50ZTcyRlVDRzJIWTk3TWJpdGdycTZtMFJWUjBEN09aaGlBR0g?oc=5",
+      "date": "2026-08-16T19:06:04+00:00",
+      "source": "financialexpress.com",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -69,16 +79,6 @@
       "date": "2026-08-16T19:06:04+00:00",
       "source": "financialexpress.com",
       "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "773d0a1287d9d8d7",
-      "title": "Parliament News | Indian Politicians And Gen Z: Are They Speaking The Language But Missing The Message? - NDTV",
-      "description": "Parliament News | Indian Politicians And Gen Z: Are They Speaking The Language But Missing The Message?    NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkFfTnlLZjRidlRncHRNT2M2VFVBMUE5RU5xR0dHODNQWDQwamFmUXo3MkFjZ08wbXpZSm1lQ09pTkVjbDU0WFpFNUQ1SnFWZFRnMWJkRkhxcVhOMm51LWM4djJ0U2RtNlNYbm9faUlTZzVoa1BVc3RJanlrVTRKU1VueXdhUUU4RmFfNWVLSjQ2Umg5em1tbjc0WWNNZERMd0Y4Q2ZiYVZxcmRwOFRXT1NWWnJjYzhDbzdzZlJUN3ZMdGRYUGF2SE9GSXlYQnUy?oc=5",
-      "date": "2026-08-16T18:40:33+00:00",
-      "source": "NDTV",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -312,12 +312,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "832c7a6f5321058b",
-      "title": "The Growing Gap Between Education and Employability in Young India - TechGraph",
-      "description": "The Growing Gap Between Education and Employability in Young India    TechGraph",
+      "id": "b28dd28b489f37b1",
+      "title": "The Growing Gap Between Education and Employability in Young India - techgraph.co",
+      "description": "The Growing Gap Between Education and Employability in Young India    techgraph.co",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFZSV2txRzc3LUI1bXVmd0lsbFVHcVNYenRuekptXzVyT2tvVFVlelR2dHZSSzM3QjB3cFpmalBSQTBmSzBaekc1WHctdkczWWlYZEEzbmpQODRtd3FPYU41NlAzUXdxNXFUaWtDYXhzOHVycVRtSzI0RUFzTkMwdE1NNk5ZdUdOTnRRZWE1by1qSnlpZkMwTw?oc=5",
       "date": "2026-08-16T15:15:37+00:00",
-      "source": "TechGraph",
+      "source": "techgraph.co",
       "category": "Education",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -362,22 +362,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "b11b185a706e7d56",
-      "title": "India Draw 2-2 With China in FIH Women’s Hockey World Cup Opener - News On AIR",
-      "description": "India Draw 2-2 With China in FIH Women’s Hockey World Cup Opener    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONThnREtRZXhlMFZTZ1RlRlJIc3VybjN2Q0FrVHg3RTJPZDNHcXFaQ2J0RndldXdiaTduUWt6eFd0LU5vWm4wSHBzX195R212TWV5RGZqUWZtX05DcU9tbUFTUnFlMkYzS29Eb0pRTFAxRElCWDlsNDgxOU0wR0xWX2FxX0RsT3I5MEhCd0NpQ2tkZFE?oc=5",
-      "date": "2026-08-16T14:45:13+00:00",
-      "source": "News On AIR",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "99e4afc13f5bd4aa",
-      "title": "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News - hindustantimes.com",
-      "description": "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News    hindustantimes.com",
+      "id": "b99d523439feff80",
+      "title": "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News - Hindustan Times",
+      "description": "Iran offers $30,000 for killing or capturing US soldiers, double if done by women | World News    Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPc3lBbzh5Y2VGbjVBSnhXbS1tb3o4Wm5mTjJYTVZQVk9WazgyRmhqeW1xb3U3X2x1dEl4UVZQdUMzVktDNExjeTVEVjlCUXhpcUhhdlhjdEcwOWh1emZ5dk0waUtUWDZ1WTJLTVRVcVd2SW45NU1sWWRwdTFFTkZqSVhCRTZMMjlPYXVOdGUwWXdkSGhBWXBKY1o1UW8xd1BtV00zQmxqekhzbzVmNjllYzR4YllQY21OcmxlRzc5T09OSU9RUUd1MGw5SVlTaVFPS3hBNloxRkx3TlEzNkZDWmo0N0xPZ250NnRPY1N5cDd0VGMwLVNyTGhlSW8teWtBdFNF0gGIAkFVX3lxTE04NldVRFZKVE10UWJSajFnZFBMYWM3N0hxcmZhQW9KSTlwb0ROdVB6VmJxclNPQU9ibTNRMVlQdU9uOTZKMUJKOVlfZS05bG9YRmNac21pc1VIRi1LNlI1M3UyaExablZXZ2RFUk1JcVJXS0hBS0NHQ2dRdXJPdks2VDdKVVY0QkVTSzl2S21LUGU4aENpZ2xQT1BFVHZSQzVkTVRnQnpvaDVjeVVOc19JNXhDaG95OWVpQVpyempSLUNsUS1GVzA0cXMtaks2dFZNYkE5UHJJUGs3NVJKejRtZ3FUNG5VdEhSQUNQMUhZaUF4ZUZyODFOZmh3VU1aVF92LUlqYlp4SQ?oc=5",
       "date": "2026-08-16T14:18:54+00:00",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -429,6 +419,16 @@
       "date": "2026-08-16T13:53:05+00:00",
       "source": "The Indian Express",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e44043eb875f84f2",
+      "title": "Access to Education Program for Urban Marginalized Children in India - fundsforNGOs",
+      "description": "Access to Education Program for Urban Marginalized Children in India    fundsforNGOs",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmg5ZjJpamJLSkNESEo4M29OZUdkYUJiSzZFUC0yeHpIXzJUTk5hckR0Y0dDa1JRd05JT3hISXlXYXRYdzJuRG5KRTJPTkdIVjY3YWVBM3hGcVZQWDZWMThLWEI2U3RQdzR2OXMzWjdod09UVmp0TWNMMGxzZ0pNVHZzLVk0b0VDYk91TU1OUkJrQ2NIcXN0UjZnNmRQNjZJVWxnWEpZS3QwN091R3lqUmNKTk95VWNnZkNqSWg0WDPSAcYBQVVfeXFMUFk0WU9mdUhsUmQxRl9udVZPSFFCLWY4dUZNR0gySUlYaWxrajhuUEhqRjU0NVhEWTVYNm9vQmo1ZUZlLVZKWllQaXYwTWtxTGw1MzhtLVdQTDFRWUN1eE9iMzg0bHZmY0RUTXVDQU12aFJ1a0NzdVFJWmRDQ2xuX0lHWWR1M0NBejFTYU1QMzREUEhDeENraDNLLUxaNXU0Ty1DQUpaakJPLWtkWE9zb3NEeDZjV3F1bUt6SUxGQUpYMllvbnlR?oc=5",
+      "date": "2026-08-16T13:25:49+00:00",
+      "source": "fundsforNGOs",
+      "category": "Education",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -502,13 +502,23 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "00b635de0fef4430",
-      "title": "CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari | India News - hindustantimes.com",
-      "description": "CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari | India News    hindustantimes.com",
+      "id": "450b1219e31a0b02",
+      "title": "CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari | India News - Hindustan Times",
+      "description": "CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari | India News    Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWNLblBOSDRZcWd3UmdfblJxdWtXT1VmaXdTWWJRVGk4bVdQODh0UnRjTFYtS1Y3UDBPMmlVeGJfVUFEWDRDWWs3Y25NRVhmUUxVMnRFdzNpanhLeEtka2ttSU5MamFxOFNwZUozRmJVcDN5UmJvZjRaaU9WRnc3aFI1V2sxQzlUVnFuRXdfYURlNFRtWEFIQWxJOHpxMFpnWHA2c0JJTlhKaXZYOWtFVGxZb1N4ZjBfanRGNHdNdEw5N0VWQy1ZUmlSZGlZMkRBQ3plMW1n0gHbAUFVX3lxTE5EYzM4eV9YV3Q3ZlRfX2F1bFNSeno5VzVSSzFGWUdoNWh5ak1uU1NpS2VrMkVkUzFCTlMtVUs0MVdkZGVhNG1mcml6S2daUnRJbjlnOFk0YTZSR3dGZUxaZC03WWhJbUt6QURNTXpOUEotVUs2bktKSDMwaTczRHNkMkxWNGNBbmVHRXFPRm1GMlJYRWVnMVNtT0thMjRKMjFIbk5ldV9ISDI1YURaX3ZNYVdyVnZBOEFFWHBILTh0Q285REpDVVJlTkxGOW9QSDR6UDhuRTZTMlgxRQ?oc=5",
       "date": "2026-08-16T12:42:24+00:00",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "3c45955717f4db77",
+      "title": "India women begin Hockey World Cup campaign with hard-fought 2-2 draw vs China - India Today",
+      "description": "India women begin Hockey World Cup campaign with hard-fought 2-2 draw vs China    India Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUQ2emZDYjZiS2lCTE41aTA0MnA1bFFJMTdjdkdIRWltcFU1RUVGbnZZMUtQX2pPZWRMdEt3S2ZuS0NYMEtBSXhsQUtjSkRFSUhzWXhZRFhPUWZCT0RPd3JTQXE1N2lYbjkySWF3bGNtZk9TRnNweGkzX29JX1RySnRNRUtRbDRFR3BhVWY2X25KZmlBUHlJUmZhYmhnZzl2WXRzcHUtY2xDc3p3Nk9rVVRvYUhzeHlocVQ3bk1wTG9MUkV5dmhMWjczMkHSAdIBQVVfeXFMTmVsbGFReWdpTUhPR1RIV200U3YxbG55Z2I5TWlkXzk3TFgxZ2d1X0gyS1RZS2xUUTZTamtnWno1XzN4RGJVYW9zdUh2c0w3Vm40MmJXZnNqcE93SlRrTFNuVmlzbW1WcndyZmpMN3hIV2lQZmhJejdvNHZsQy0xa1dhV29TVVdWZnRZYktwUUdpQmpqT29ERnNldG9kOXlzTVpLOFZLUnFsSVNmOVpHbDN2NDJ2VUUzYVRfZHNISVpiaHR1WmVDRnRPWTY5NWNOX2Zn?oc=5",
+      "date": "2026-08-16T12:39:02+00:00",
+      "source": "India Today",
+      "category": "Sports",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -522,12 +532,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "0589c62e7661d527",
-      "title": "Top news of the day: August 16, 2026 - The Hindu",
-      "description": "Top news of the day: August 16, 2026    The Hindu",
+      "id": "9e4ef95ce1f87b94",
+      "title": "Top news of the day: August 16, 2026 - thehindu.com",
+      "description": "Top news of the day: August 16, 2026    thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdVdkYUFkM1luRjIyQTZ5cnpXSXV4aE54WkdQYWZ6czVwQ1ZQS3hocjdRYUF1aTJVdU82aElOQkFMaGgzUHRiSzlVSEc1UG56TFlvSS16bUQyVHkwUG9yVl9sUDBnakV3S2VCVTVwbGVrZDV0ZnRka1hDaHozQWlRVDFfa2xvZWgtUGdxNlQtRExRaXFYYTZmOWJSS3R2RlkwZVV3TVFGU1hjZFNNanZKeWRZMzJsVHFEY0xWRjBuM3hNc3J5ZDhkNG5FNW93SXNhS1hLVjF2U0x2amZ6R2pHQWg2MHI5LXk5OW84S2xmOVRCbXdjRlpnbUZNT3FmWFJ3Yi1qNTU1UVI2TXBMZm56RlJtQVk2b1Q1QXNlTTd5cGxEa0hG0gGrAkFVX3lxTE1TZXM3RTNTMl9lY1RZUWd0UGR5bUk3bDZiSFl2NjlQbF9xTWZnV0w5LUxaNWRFckxSWm11Q0ZmQktFcWY2cFJ5VWozeHFheGU5TUxWdFFHWGs5aDkyWDRZaHBZQTNtdGZMSXJtWlBoekI1UkRfOWI1MW1xcnc0MnQzU19UODRDY0pWc2Z3aHJsemYyVDlHa1h3SEVwRXhfQTJyVzl3V3JqWHMwNi1oeHRNOGg0US0zUzJmbDlfbHhPMERabS1DRm5RUDltckM2cm5TSWs3YThERzNMWE5wVFI3dUE2OVpvQS15ZTlKTDdKbzhlSTNhU2VtQ0lFUzBDZkRVTWc5bVF2LXZGNjBlWm1RNjNJRXVUc1JkWmYtdlNwTUZVemM1b3FicWpz?oc=5",
       "date": "2026-08-16T12:35:37+00:00",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -539,16 +549,6 @@
       "date": "2026-08-16T12:31:01+00:00",
       "source": "Storyboard18",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "765bd1a8033a2e7b",
-      "title": "Lakshya Sen Leads India's Charge At BWF World Championships - Rediff",
-      "description": "Lakshya Sen Leads India's Charge At BWF World Championships    Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEp6di1Bd2p0UHo2QmhXcVFncUE5NGtiT3laZ3dHWnc3eUtuOVhQZzRhalFySi0xV05tRTdBT2ZjTkdyaXpqbUp2bkc4R01kVzlmYW51cEJORXF1cFJUSFk2UjlveFJJZTMtNHVXdnUtZlp1akk2Y210NEhlV3ZZWHJXel9reHdFT0NVRHNmV0JmMWNISkVPYTBtaldBUGdSRV9xNG5mRGpGZ9IBrAFBVV95cUxNYlNudXJFM0JpZXhzNWctbXlwMjFBMVJVMHd6OTByUHRCQWNRdHhtYjJkT2NUOXN0RERwY3EzWV80ei1Eb3FiRmlmS3JVeVk0RkdTaGZuUEZXa0pxNXYzTGZIQmwwMlRndTVZcFpJR0lOTnVYYjVaMzY2ZWREMzFwM21JT0RMSDJaN1E2ZVJsWWRzaGNnanBESmh1MXVRNE5lZ2NVWExpMEJ3aU4x?oc=5",
-      "date": "2026-08-16T12:20:37+00:00",
-      "source": "Rediff",
-      "category": "Sports",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -592,32 +592,32 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ee73e12e9cdeeda0",
-      "title": "London bus drivers protest against sweltering working conditions | World News - hindustantimes.com",
-      "description": "London bus drivers protest against sweltering working conditions | World News    hindustantimes.com",
+      "id": "da780f63caa61e36",
+      "title": "London bus drivers protest against sweltering working conditions | World News - Hindustan Times",
+      "description": "London bus drivers protest against sweltering working conditions | World News    Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3RhN1pLelU0VmtVQjY1NHFwdTFOdXVTWEloZ080dmJzUjZXUXNZRWNxalk2aEVacnppTWJ0NjI0UUMwU3ZwT1hsVkVheHV6QnV2WVRWZ28yYXZyYmtvOXpkakFpalpZdkc2WE10RThTRXhDRll0eVFZOXdWaHBQejFFTVdHQkdIcDBkYk1pS05lQURqSDBQRFRGdk9HNFBNX2ZEWFBCcm5Ra09qODF2TGhFUlk3WlJMcHhscHUzdnVTck8wTHfSAcsBQVVfeXFMTlhWMXBaN19aUm4tZEstZEhMMFBIRUo4MXhVWDRfZE9Xb0xHWmxZYkFSelpORXlBSHlUWW5JTFJaanFNdVI0eEVCeV9JNXJmM2pNc1g0cVpaT1MySnc3eGUyNVQyb1R6R2JMMVBWUDdqODBTdUFyT09sd2h5bDItVEtPbVYwUk1JaUE4VnU0aFB5VjZRUUVSU1ZlRXZjM0ZFTmxnNjhzM184LVdEbXhpaE1xTmRqN3RiSjlrMVlZMW1RcHpGQi10cGJUc0U?oc=5",
       "date": "2026-08-16T11:30:54+00:00",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "21a1698db04e258c",
-      "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026 - hockeyindia.org",
-      "description": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026    hockeyindia.org",
+      "id": "833dd4b7824e8ef1",
+      "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026 - Hockey India",
+      "description": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026    Hockey India",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVY0WW94ZFNSbDVMQzBfb3lld1BydmdnYU9MN3ZzaXY5TmdDTkgyTmdCb3lVQ3ppSDJHb2ZIVEhyVkU0WEdDWm8wVElhTFNKaVNlYWlKcTRsU0RDelpnU1VZQ2hXZmJ4eHdEaVNVcDBCT3RwRmE1ZnEwX0sySTBpUmNELTEtbzJrTkNGQkEwaUtwMEtUczRpN256SHdnMXM5eHllNzNLQzktMGVta2dxenFNMzc2b3RtMnpHRi1UczdtYmFTaFdlNTdLcnR4d3B5?oc=5",
       "date": "2026-08-16T11:27:21+00:00",
-      "source": "hockeyindia.org",
+      "source": "Hockey India",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "d4b5b59e792764b1",
-      "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026 - hockeyindia.org",
-      "description": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026    hockeyindia.org",
+      "id": "e4762f95ea99f8c1",
+      "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026 - Hockey India",
+      "description": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026    Hockey India",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVY0WW94ZFNSbDVMQzBfb3lld1BydmdnYU9MN3ZzaXY5TmdDTkgyTmdCb3lVQ3ppSDJHb2ZIVEhyVkU0WEdDWm8wVElhTFNKaVNlYWlKcTRsU0RDelpnU1VZQ2hXZmJ4eHdEaVNVcDBCT3RwRmE1ZnEwX0sySTBpUmNELTEtbzJrTkNGQkEwaUtwMEtUczRpN256SHdnMXM5eHllNzNLQzktMGVta2dxenFNMzc2b3RtMnpHRi1UczdtYmFTaFdlNTdLcnR4d3B5?oc=5",
       "date": "2026-08-16T11:27:21+00:00",
-      "source": "hockeyindia.org",
+      "source": "Hockey India",
       "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -702,12 +702,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "f03b3675c199f3c5",
-      "title": "Watch: ‘Sports is my religion’: Aadhav Arjuna after inaugurating All India Services cricket meet in Chennai - The Hindu",
-      "description": "Watch: ‘Sports is my religion’: Aadhav Arjuna after inaugurating All India Services cricket meet in Chennai    The Hindu",
+      "id": "32074be2d1b400dd",
+      "title": "Watch: ‘Sports is my religion’: Aadhav Arjuna after inaugurating All India Services cricket meet in Chennai - thehindu.com",
+      "description": "Watch: ‘Sports is my religion’: Aadhav Arjuna after inaugurating All India Services cricket meet in Chennai    thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQX3pubUFmdVZTRTlKWmRueVJHTDJ2Q3VlVGdSWFhha1RTSEMzYU1PRDdWUTZaZ1A5Z3NLV1BTdmk5bWRpT20wTHYyRzhMcFFWUFVSbG1WQklHbHViWm1BMWd2WDdrcVpiTGRkU0c3YWVOLVNjUFN2UTR1Y28xaVZDNGR0VmRlZWU2Y3N1Z1M4ZTJqWHhFVktUY19oN2Juc3ZFYXBDd08wZVIwaGhzMGEzeXBCZUQycEEwYXB0SThqb3ZYMkE1MU16VlNHTnFXYm41QlRMbGk1c3hJOXZHQmh1Q0tSTjJzdEdPUlZ3VTdFb3NTNG1W?oc=5",
       "date": "2026-08-16T10:09:56+00:00",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "category": "Sports",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -832,12 +832,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ced2a40552aa059e",
-      "title": "Javed Akhtar takes '10%' jibe after Pak President Zardari's 'tolerate Hindus' remark | India News - hindustantimes.com",
-      "description": "Javed Akhtar takes '10%' jibe after Pak President Zardari's 'tolerate Hindus' remark | India News    hindustantimes.com",
+      "id": "e2b0b880d3453127",
+      "title": "Javed Akhtar takes '10%' jibe after Pak President Zardari's 'tolerate Hindus' remark | India News - Hindustan Times",
+      "description": "Javed Akhtar takes '10%' jibe after Pak President Zardari's 'tolerate Hindus' remark | India News    Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORXhLSzUybW95MmFQOU10WXY2ZmhyODVQMURaUVBEa2hjWG84azVPQnRVbUVvWkg0ZjRxUEc0T2E5NGNHcGcwNERQMS1reGZyc3BaUFRrMzVCeHVoTWo3QzhFdENoSW56Z3UxOHN2bEJoMmFURXJtbGVIVXFMU20wQ3FzV2VVdzdjMmlwMGlTRkZXUm43clNLWnpwQVVkakVLN0VVNVhWQmo4TzN5YkdNWEdQTFZaMms0dkpnbVBnYUhDRTZpdG9kNG9uRdIB0AFBVV95cUxNWmdGeXA1VzZfckdYREUzQjZKOW9ZYjUyZnlHNVNOckpMM2FkVFh6aER0Vm05ZEMzUXJ2T3ZiODhqTkFDRUpMNlE0bmQ5NDdZdkJjYTNabDRIUHVPanNYc0FDN1lXMGMwdlhOekFnRGd0ZnY4ZTRULXh1VkowTG1TSkRRVHUxSlBzbEJzWXVxS01IUE1YdjdyczRtX1BCSkVkcEpfTm1hM1JOZG5vVmp1MU5BUnFFMEYwb1pCd2tFNkNlZnA2UDg0enc3amhDNlR1?oc=5",
       "date": "2026-08-16T07:41:39+00:00",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -912,12 +912,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "07197e9b9eecb506",
-      "title": "Air India Express passenger's gun goes off at Varanasi airport, two injured; FIR lodged | India News - hindustantimes.com",
-      "description": "Air India Express passenger's gun goes off at Varanasi airport, two injured; FIR lodged | India News    hindustantimes.com",
+      "id": "2cd76833f3a0cf5b",
+      "title": "Air India Express passenger's gun goes off at Varanasi airport, two injured; FIR lodged | India News - Hindustan Times",
+      "description": "Air India Express passenger's gun goes off at Varanasi airport, two injured; FIR lodged | India News    Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2I1djM2NzdScjRheGRVXzlTd3JUb3RndldoX1liUmRQcElCNmtWRDhDV1g3VXQ1V1pxeTBwcTFmZUlEcWowdWc0c3o4MjB6UGVCaHM1QUhfWUtjamtmb2FucVVScEUxTktBN0d1cmdlV0dPTVQzVFR4cTJYdkFvUEZYZ210RmtLeG1CRjFnbl9OVkZwMHFDTHlNMF8yMXIxM1R6SGhKcmZHUnM0MGktWDJPNkxDTE9GYkxoUmxKZzhqNVd6R0gxelp5VFRadDBqZ2lV0gHYAUFVX3lxTE1fUFV3WlhDNGVpOFNQWERTdEEwcWdlYmE1TEdOZk14TlQwMlJIbHdDbUItdDNKMV85SThqMHFzRHI1ckVfUmJrSkJRdTg3VTlBbkRoTEsyZlBUUVRMV2ZNT3ExWUN6Z1FMREZvUy1NNjM4dEkzX2RnS3FkMlE0WTVhNGdBMEpaUW96M2Jsd24tQl9CMFNqVWdFdEUyLVpMRVJUSEZkUWtlTU8zUGtPRHZiZUhlNWl2MmV5SUcyMU1udUp0bFAzWWN4QUZNLWEtV2E1dF9TdnJuQw?oc=5",
       "date": "2026-08-16T06:20:21+00:00",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -962,6 +962,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "69c46f701f9338d0",
+      "title": "Torrential rain and flood kill nine in Japan amid wettest month in decades - The Guardian",
+      "description": "Torrential rain and flood kill nine in Japan amid wettest month in decades    The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOU4zM3JodGtkTXJQNFRrU09LZXJMdXZqVlJVaXBoU05XcW02YTlBOVBHcnNoeXZob0JUM29MeGZkTm9XaHFyRmROMGhoUWhteWY4M0R1Mmp3S2ZXUnNNYk1FQ1BQWHlFYkhJMGt1cmdpcy1HdlJFd1BhODNPT0d1WWI4Q1BWeXRTSmRqcDl6U3FxcGt5QUxLanlUeFh0RllyUjFxNW1qUnVhdW5kWFV3LUlLWU1PaFdHb1R6Yg?oc=5",
+      "date": "2026-08-16T05:08:00+00:00",
+      "source": "The Guardian",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "2890bfad74f53ffa",
       "title": "\"Education visas are for education\": Australia envoy Philip Green says Indian students should not treat study as migration route - connectedtoindia.com",
       "description": "\"Education visas are for education\": Australia envoy Philip Green says Indian students should not treat study as migration route    connectedtoindia.com",
@@ -972,12 +982,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "dca350ec735b8295",
-      "title": "Why Indian Astronomy education needs a makeover - The Hindu",
-      "description": "Why Indian Astronomy education needs a makeover    The Hindu",
+      "id": "70554899b62282ac",
+      "title": "Why Indian Astronomy education needs a makeover - thehindu.com",
+      "description": "Why Indian Astronomy education needs a makeover    thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1Q4VWstdExpWmFwLVl4cVY5S1VYWmpDODRoaFR2YzVKcmVzWndhYUw4dnZNYmJ2ODBuVmJ6NERXaEY4aUxCSUVaWnhQb01naFNtaUItVERDYWY0TWw4bHVnQi1pa2YyTk5vV0FXa0ZzQ3VwdmZaMzJ3aWkwNGVjaVNETFJlVzNfX0ZuMG5CZHVMdk9yX0dGTktpUG9qd21BQl9vONIBqwFBVV95cUxNXzdCY0dfY2tQUEhuWnFZckVVNzJiX0w1ckVENTZoUmV4NWhtYU5iNjg4RDhsZ05WUFcwdTl5RkRQM0J5cVNaMWp4QzNMWnpXWG9nYkxVTENxam9BLUcwTmtXbnNGN0VqbGt0U3pqMjUzLXk5T19zVG5tbDU2TjJvRkpqZ1hHMmdVVmtxVkFNM1Myb0pQNFBPb1pBZVozMlFiY21OcDdCSXlySVk?oc=5",
       "date": "2026-08-16T04:30:00+00:00",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "category": "Education",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -1032,16 +1042,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "7da0373013790138",
-      "title": "I'm not corrupt: TMC's Asish Banerjee found hanging at party office, note found - India Today",
-      "description": "I'm not corrupt: TMC's Asish Banerjee found hanging at party office, note found    India Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0ozM1hVUmtNTjN3VWF6YmdLamJKOUtoQ21wcEtKMTRBNjJMLTdKVzZOWTNXYTZMSUxSRm9JazdfOW9VUlB6LVR1OHZMZHN2d3B0SHhUcG93Yll6VXF6c0NVRzd0aC0wbHpUeGZXZ1RkTEpJUjV6UXhMNHNodFA4OEphSFpRWFdpWEZNNWFCR3BLaXJfY0RRY2xtT215RXBQMzBXN3FVc3VVaGU5Q3RHenNLVmZCWDNxdUt3bU9pSEJDMUo4SmpZTExaX29zZkN3cUNV?oc=5",
-      "date": "2026-08-16T03:10:19+00:00",
-      "source": "India Today",
-      "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "d4b38fea0a25545b",
       "title": "Asish Banerjee, former Bengal deputy speaker, found hanging at TMC party office - The Times of India",
       "description": "Asish Banerjee, former Bengal deputy speaker, found hanging at TMC party office    The Times of India",
@@ -1079,16 +1079,6 @@
       "date": "2026-08-16T02:30:00+00:00",
       "source": "Scroll.in",
       "category": "Education",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "0f8b2f88e51fbd7d",
-      "title": "Hisense enters India washing machine market: CEO Pankaj Rana on the big expansion - t2ONLINE",
-      "description": "Hisense enters India washing machine market: CEO Pankaj Rana on the big expansion    t2ONLINE",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGl1el9aR1VLSl9ITnJDZV9hZm9oQ3RLeHctVnpVUFd3bThySHFtNkh0SWw2LTgtM29zcFZfMjRSVlhETEtrTkE2aDVQMGV4R1VjX0NHSjJiQ2wzanZxVUpsYUNEcnBVVlotT1F1UEhPYXBlaXMtaTBaRFNtZjlwc1RhT2cza0xYcUJjUlRVU1czektmajN1dExpRkFraFV6UGVaQ3pWWmpRbTJ4VFF6cEIzYWJLY2tsYjJaVlBOaGc4Tk0?oc=5",
-      "date": "2026-08-16T02:30:00+00:00",
-      "source": "t2ONLINE",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1182,12 +1172,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "962926b453b7dd5b",
-      "title": "Watch: The Tejpal verdict and the politics of power | Insight India - The Hindu",
-      "description": "Watch: The Tejpal verdict and the politics of power | Insight India    The Hindu",
+      "id": "ccfd4d3aa07d0469",
+      "title": "Watch: The Tejpal verdict and the politics of power | Insight India - thehindu.com",
+      "description": "Watch: The Tejpal verdict and the politics of power | Insight India    thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUZ1RzVBV0VWYXYycHJfU1htenFjLUhMZ0NucmQteHNsZTJvOUJGVkZGSTd6cnlxcDNRTTdqN0RjZzJIX3JsSW9NZFIzWkZ0SFpfY3A3VXBudkdIVmVkTHpjQ3RHckdVS3JWbXRHek9CQ0hWQlpwZ09veUpzRGZWaFVFc0xkZlB3bDZWLUVpNV9oQWNNb3E0V0dqVEQ3NmlGeV9SX1RUY0FaVmNybWtB0gG2AUFVX3lxTE4yR0tGQjVTNnZMUXFGazdYdlRQcFJYeWhjVngtTFdEVFFMZ0pZRWRoRF9PRk51RHBLV0VjeUtHRXRyZmxYNWlOdkpaWEtxb0c4aTFpQ0R5MjJ5c3AwS1FEaVBLQ0NuaDFMNm5jZmE1V2dvQ0pMckZSTVdkWndkUGhlaHc0VDdaSWJZRUd4UGtZdHM0MXZIVHBoclQ0dU9YcjZiQkJKdUhYTFhRNWlNMEpkNEc2QnJ3?oc=5",
       "date": "2026-08-15T15:30:00+00:00",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -1199,6 +1189,16 @@
       "date": "2026-08-15T15:28:12+00:00",
       "source": "Al Jazeera",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "933d5e9706ad5930",
+      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera",
+      "description": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests    Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5",
+      "date": "2026-08-15T15:28:12+00:00",
+      "source": "Al Jazeera",
+      "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     }
   ]
