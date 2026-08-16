@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:38:18.007950+00:00",
+  "updated_at": "2026-08-16T08:00:05.707813+00:00",
   "items": [
     {
       "id": "2e359d73fcc37f08",
@@ -29,6 +29,16 @@
       "date": "2026-08-16T07:04:00+00:00",
       "source": "The Times of India",
       "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "6c65ab7f59ab5b8c",
+      "title": "UK inflation set to rise as AI chip crunch, energy costs add pressure - Business Standard",
+      "description": "UK inflation set to rise as AI chip crunch, energy costs add pressure    Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWhvTEN3ZGxFTU01MUpGQTQ1akt4VW1MVDM5a1JaMEN5ZUNvOWpvVmRrN2Q4RDVqeTkzRjI0WGtoYU9TdnBMNW5TSk9tY0hRQzNPcjllbHhFUHY3Zldmc0lqelgwbmdjdmkwM2U4NzdkQjlDNm5TS24yM1lnNGRES2NDZG13bXRvbUhBUDgxSVJHNWRVNVpQR0t6RzBtSU1VZFhCc0w0b1E4UWZfQmFIelFNYVUxLVQ5aFRxS3owNnVBX0ZYT3BoUEdPQkhtQdIB0wFBVV95cUxNSVM2UTlYSGNfZEtabWJSdHhrSUF4OVQzOENhZEcyYm5EUldIUk8tY08tUDdXejFBbUFHa2FEV1NCTGJTTzVyR3VobGVGTEJSdW1SVEZfd1U4b1B6Vy1heXlCdXNlRGJLR2VHcnFjUE42UnBzbnpTSHgtVm1lTjNnMEJXbFo1b0lRdURzUFdhd2gxWGliWUJLc042ckoyWkRyZXhzRzVYZG1sYXRMbGNma29nVHRYQ0JVUF84Q2VOb21nQmZfMDE4dEV3QktuRkQ4OEk4?oc=5",
+      "date": "2026-08-16T07:03:57+00:00",
+      "source": "Business Standard",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -162,10 +172,10 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "e32eafb221a2e97a",
-      "title": "Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip | India News - Hindustan Times",
-      "description": "Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip | India News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWjllZWx1MWszcVdaQlZJQ3l0eFlOZmY1QU5ld1ZHZzZydmpDOVh6ODREYTI0X2dyRkFpNEN2OVhEM2VUQUZHRU5lVjFMZXpkZFZwNU5ySUVZQURST0ZfNmE3MllYa2ZWckFVQ2gwUHdvN0NkZTlhTTQtTXgtTHJaUG91RVZsbXdhdlRwSno2M3pXOUxnNmFFb3JYRjh5ck9jbm5UbjJDVW0xYU15eWNFcHp1bVNGSTlxWEZLelczMV9wbXFHcUt3OUU2aVpEUk1kTzVWbk5iX3gwenhfVDcwZzJOdkZaU2RaVHlIVXUza3JTUXNucl8xdmJR0gH_AUFVX3lxTFBtRGNKYU5nMWd3MmVXazBRbGFaaFUyZGktSG1UM3REUHkzSjJ2ZDJwUEUyR0kweEFNdHpfRFVIMWQ0b0RrTl9rUjYtMDFKTTdnNkxxRXB6cDcycDVWcG92VUFENGRyRWhrck1TYnRzblc3dThrcVRiQUlWb2tJU29uR1ZrMng1czlNM3VSRURNODNhdXIwTktaaHRGSXhoWW5VVnQ3TEVZd0VXTmhKbG91ZmNNMGNDTGdXQktkZ0M3TGYybk1hNC01S0pvTGhsaVdpWEF4ZTJYeGxuVkNvbmcyZzcyV3VpZE56OTVSVC16c1IwS1Q1RDh6VzBrbm5tSQ?oc=5",
+      "id": "e9e5f49c009a5714",
+      "title": "Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip - Hindustan Times",
+      "description": "Rat in Blinkit freezer, spoiled KFC chicken: Food safety norms flouted across India, regulators crack whip    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWjllZWx1MWszcVdaQlZJQ3l0eFlOZmY1QU5ld1ZHZzZydmpDOVh6ODREYTI0X2dyRkFpNEN2OVhEM2VUQUZHRU5lVjFMZXpkZFZwNU5ySUVZQURST0ZfNmE3MllYa2ZWckFVQ2gwUHdvN0NkZTlhTTQtTXgtTHJaUG91RVZsbXdhdlRwSno2M3pXOUxnNmFFb3JYRjh5ck9jbm5UbjJDVW0xYU15eWNFcHp1bVNGSTlxWEZLelczMV9wbXFHcUt3OUU2aVpEUk1kTzVWbk5iX3gwenhfVDcwZzJOdkZaU2RaVHlIVXUza3JTUXNucl8xdmJR?oc=5",
       "date": "2026-08-16T06:09:44+00:00",
       "source": "Hindustan Times",
       "category": "India",
@@ -189,16 +199,6 @@
       "date": "2026-08-16T05:59:07+00:00",
       "source": "livemint.com",
       "category": "Sports",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "924bea67817799a0",
-      "title": "Oman negotiations, reopening of Hormuz are two separate issues: Iranian FM Abbas Araghchi - The Economic Times",
-      "description": "Oman negotiations, reopening of Hormuz are two separate issues: Iranian FM Abbas Araghchi    The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSUlkN3ZRZ1FNVUhfdFVqa0loU3FHcWJkTXZFWVM5Y2prdF9xUXhJaGxISEIxRmNBNER3cWpBT0p3elVxeHZUa05mVFlkUDFXbVNkNXBOR0JadTVSMUYyZnVQLXFyV0Q5UWJQb285LWp4eDlyVjhmUk9yZGJpMEFPRnI5SkVramdaUmxaSlFPNWNoR0x3UFRfSzdNVkdoWVJOSnBZLVRZUk9OX01xRHozTXluYzdmRFdvR3lPWFktSlJJSmxNb1FZVkllUEh0THVMWHhUQWpvOHNVOW1tYzI3VEw5aVN0TEI3bkRBV19sbGRQZzEtVnJJQzAwQ3NFdzlPcTNha1ZzcDE3VUExb05md1ZWMnlrRjFEU2dVRVNaVnpaS2VNQmgtLUc4ZjlHLTM4REdyX1pYdG9lYUlxY0lGeF9LcmNTOHZoLWhIaDI3MDNlZ0d0TGQ2bWt2eVFoM3pudXRWWHlOb1dFUdIBhgJBVV95cUxQenp1RnFTQ1ZTQl9xM2EzMEJSZ2FLdDFBSl9zcDhadnowaTl1eDVLc2RFOHgyNWRSdEdBNUVXRUQtSFk0MnZRWVNUSUg0ajc0ODVGLTdjN2VyR0w4dk1ZRFg5ZjNyYnNwTHh6LWNCTGtlUGJVc2dKNWFmZnNFRlhoX3ZSQ0pjMkdCNDRMNkpvd2xEVzJfT0ZId0N1QWltS3N5NjQyVzl6MXF0SHpWb3NUcFZKTjVSX01jRERRMVZwWklPOU1BZHRfQ2hzT0xCYjJ5czNydHdxb1czdjM0bWpkcktWYjFoM2lIMU1VSk5yVW5YYi1ZZ0NyTzFmUGdsa01xNnZmVjBn?oc=5",
-      "date": "2026-08-16T05:58:51+00:00",
-      "source": "The Economic Times",
-      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -422,10 +422,20 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "d962596be7c987ab",
+      "id": "f83b25699983b245",
+      "title": "India ‘AI Impact Summit 2026’ to focus on democratisation of AI - ddnews.gov.in",
+      "description": "India ‘AI Impact Summit 2026’ to focus on democratisation of AI    ddnews.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3k0eHNDVmpVUC0zTHE2OUQ5RVJRYmgtUk1wZWdlc2hpV2ZmaTVWY2lRTkM4d200Q3BWenpKSkZEZFFhYnJOUWVOcjJ1M1FpMWNBcWg1ZXBqOVRJVkh1Q2ZiODBNQzJFWUhnUXQ0alZGQWFkVjJrTXdMdkx5R2tLb2pILVc2UmdobUtyNjF2ejFnb09QUFFTVQ?oc=5",
+      "date": "2026-08-16T03:34:43+00:00",
+      "source": "ddnews.gov.in",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "4ade43bbdd6ec9b4",
       "title": "Former Deputy Speaker of West Bengal Assembly Ashis Banerjee found dead in TMC office - Deccan Herald",
       "description": "Former Deputy Speaker of West Bengal Assembly Ashis Banerjee found dead in TMC office    Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY3lTQUF3RkVsUE5RYjM4Z3N4dkhUVUxkVHVEeVM5dEVjSXVWREVCbEtMdTgxX01acUVGSEdvZWh2WUMwX0dvc08taDlWNlBtaUNvLWFVVnBwcUJaSEJ3M2NsVUNHUE0wVkpUTHNvT1gzaEZuQTlYREZabll5ZWR4TGMwOU5nYnJkR1EtVWhzMS1YaGFFRTlhMVRRc1BFa1p4OVJnY0dIUGxjanVCRFA1R3p4Mzk0cm16U2VPYWdpdHFZUzVIbnBkOWlHUkVtTFo2SnYwMDRDNTFvWkdKai1JdldIV1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTWVjb3EzOVdYZUx5SGhvd0JvNk8yMDlJM21USjQ2T05ZMmRNR0FFOUVxMnYwNl91dTdJSUE1V2I2bm5iWHJzWVh6MHBrZGcycUppd2ppanBCdVRfZGRiT2wtUzA1YUQtV0xXMG1PNVA2b1NLUjktTFNhYS1Jd3BfWEl5MDZ0ekRMNEdXLWMtUS14WXlxaVU2R0hPM2pPMUNRR0lQUUx3Z0c4QlpTemJoWkJ0TmYySHBZa2J2QzNGckI1VFpDc0paaVFIWUpzUm1Pa182blZuZVpFSGNKd2JHOUJocldEU0FfTFFyVEZId1EzWlp3NFlienhjT1Z0Umt4OXNVdVh6RHMwMHJEZExnanNhWHVmLUE?oc=5",
       "date": "2026-08-16T03:30:00+00:00",
       "source": "Deccan Herald",
       "category": "Bengal",
@@ -442,11 +452,21 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "0f0f2c78a9b1c3dd",
+      "title": "'Automobile Hub of India': Why has Chakan emerged as Maharashtra’s big political issue? - Deccan Herald",
+      "description": "'Automobile Hub of India': Why has Chakan emerged as Maharashtra’s big political issue?    Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGNZaTluTEZrNlF5SzNsYmphSTQxOE5tekpELWR3eDZ2X0ZjMTJER2tqVW1GeUJYcGU3cS1tTmladkNsZnQ2QjRWWjBKU2hlRjhDWDJ0VUttRFpwYTJFZ1pzOGVYNVA4YmJlREFLRmZRSWloUjFaSVpKUURYMFMxV1dSMTN4cVp6MFRoZ3p0WW1lWnljUlJxVm1tdldlLU1INlBQaml6Sk9TV2tkMnU2NV9kaHItdkktNVJjdkE2U2c1U2liRTFtYm42ZEIxWVdFSi1j?oc=5",
+      "date": "2026-08-16T03:25:09+00:00",
+      "source": "Deccan Herald",
+      "category": "Politics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "451d407aecb4e9b0",
       "title": "Jerusalem’s Friendship Bridge illuminated in Indian tricolour to mark 80th Independence Day - Newsonair",
       "description": "Jerusalem’s Friendship Bridge illuminated in Indian tricolour to mark 80th Independence Day    Newsonair",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3JTS2VKRVpiT0V4cHdNLXVSdHV0NzlRR1JpcndHc0VkRkVMaUJZVTJneTBfUEhEZWJiNXJLVnAwakZrdE1kTlVUOC1mN2s1NEtLbllubERGTWRMS2pxczZzY09hbVBGWGRpdUpOTjFSNkswYlRSZ2o3X29RdXU4ZG5vVmFoOU1wVWdUOTI0ejFMVUV4UkNFUGZqMnZLT0hycGxPNi1yU1NEbW9SZ2xuN1VtakYxZmM?oc=5",
-      "date": "2026-08-16T03:15:00+00:00",
+      "date": "2026-08-16T03:18:20+00:00",
       "source": "Newsonair",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
@@ -652,6 +672,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "6df4cf51cad4615d",
+      "title": "Goa’s Ethan Vaz becomes India’s 96th Grandmaster - Newsonair",
+      "description": "Goa’s Ethan Vaz becomes India’s 96th Grandmaster    Newsonair",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVMGdKZDJ3V1BOckdtaHkwcGQzNTdaMkxybnFGa2Z1ZkFBODJFR0kwYXBDbVJENFFhdnBCVmVlVHRZM1FyM2s1SkgyUG50VFFUUXo0RENqSlBta1ZtUDFDSXpJMU5ldXBvLV9kd3FwY0VQV2lRQnppQmRJeXM?oc=5",
+      "date": "2026-08-15T22:21:26+00:00",
+      "source": "Newsonair",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "c4fc9dde5c464beb",
       "title": "Odesa : UNESCO condemns renewed attack on World Heritage property - UNESCO",
       "description": "Odesa : UNESCO condemns renewed attack on World Heritage property    UNESCO",
@@ -702,16 +732,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "6d254f16cf81820a",
-      "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat - Newsonair",
-      "description": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat    Newsonair",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5",
-      "date": "2026-08-15T19:11:36+00:00",
-      "source": "Newsonair",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "2545893e625c5f74",
       "title": "India’s Education Report Card in Light of the Latest UNESCO SDG 4 Scorecard - Rising Kashmir",
       "description": "India’s Education Report Card in Light of the Latest UNESCO SDG 4 Scorecard    Rising Kashmir",
@@ -719,6 +739,16 @@
       "date": "2026-08-15T18:57:28+00:00",
       "source": "Rising Kashmir",
       "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "9fd589352f1acd60",
+      "title": "India Riding on “Reform Express” Focused on Delivery Excellence and Technology-Led Governance: PM Modi - Newsonair",
+      "description": "India Riding on “Reform Express” Focused on Delivery Excellence and Technology-Led Governance: PM Modi    Newsonair",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaDNGeUxDV1dyQlFOc3Y0Ymlqc2NJX2JpOEdLaXhfRmVZYTNGZ0Z4b2U4M0U5V29sVFJXOGpjOXY5emNYUW1yR09KZkJQUVhCc2dVTld4UUJjdTVBT1lUWnBoSmY5dUxjRXlmR1pucFZyZUxpTVJoT2xiSUpTVS1oalRQb3l3Rm5vVlhodUpKT1l2eUUwdnR4X1JfdFZGMkFkNFNnVkE4S3FHd21MYm1lRUZIVmRWeHBldkVaQmhBSmRuTnM?oc=5",
+      "date": "2026-08-15T18:33:52+00:00",
+      "source": "Newsonair",
+      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -752,12 +782,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "1f252a1184304f2d",
-      "title": "\"Proud to be here after 50 years\": Bengal CM Suvendu Adhikari visits Sri Aurobindo Bhavan on Independence Day - aninews.in",
-      "description": "\"Proud to be here after 50 years\": Bengal CM Suvendu Adhikari visits Sri Aurobindo Bhavan on Independence Day    aninews.in",
+      "id": "05e54575485c209e",
+      "title": "\"Proud to be here after 50 years\": Bengal CM Suvendu Adhikari visits Sri Aurobindo Bhavan on Independence Day - ANI News",
+      "description": "\"Proud to be here after 50 years\": Bengal CM Suvendu Adhikari visits Sri Aurobindo Bhavan on Independence Day    ANI News",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORC1UWVBpLTNYU2x3dFVRZWpXb04wME9WU0RoNjNZUmFnSEdNamVLdk55M1d1ampYQnYzdXRSLVlTMW5WVFZWbmRPZGRNQjFWaU5sMlBLdVRObDdXYW1QV09Wa0JPMFl3M3dueDRkU0hqQUFGeGhfTF9NY0xvM3Rra1dlYVp3bC1qWkdwOGtNSXlqZlYydFIycERzdE5pTmZiR1BtMUVOSkYyUTVxaHdhZGJTOF8xOW5xbDNxZFlOUVM1akd3RUxpTmJKZmYxck5Vd05UaDlMQ1dLTHd5M3JZVUoxaGxpNXltVm1lRVdBR2ozNWpGNzB0cThla3BMMHM?oc=5",
       "date": "2026-08-15T16:57:00+00:00",
-      "source": "aninews.in",
+      "source": "ANI News",
       "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -922,16 +952,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "84d069f7d94558b5",
-      "title": "Indian Men’s Team opens FIH Hockey World Cup 2026 campaign with 3-1 win over Wales - Hockey India",
-      "description": "Indian Men’s Team opens FIH Hockey World Cup 2026 campaign with 3-1 win over Wales    Hockey India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXcyeTFoSVJOZlkxUFAyenc4STZ1WFFwRXB2SThqUE1QcF95N1VuYmxrdWRyQUZ0ZjM0S29LVUhKbGd0MUxjSTZVLVNzNDBEaC1hZVZsOUQzVnNEY1o4cmFWVVJhVjg3ZHN5MmFZNU83QjZtRVFTV0wzMjBzdWt4cnlFMEtxM3FfNDB5anVLRUZyMExjNkk4cDZ3OGZHenFreWdkY2dSNkIyQ0JqeUlTUVdVRTU?oc=5",
-      "date": "2026-08-15T13:52:10+00:00",
-      "source": "Hockey India",
-      "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "b5e7e4cc3022c85f",
       "title": "Cambridge June 2026 results show 11% growth in India as exam entries rise - The Indian Express",
       "description": "Cambridge June 2026 results show 11% growth in India as exam entries rise    The Indian Express",
@@ -949,6 +969,16 @@
       "date": "2026-08-15T13:32:00+00:00",
       "source": "The Times of India",
       "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "cb0157cf918c4f45",
+      "title": "Rohingya refugees from Myanmar are living in fear in Malaysia | World News - Hindustan Times",
+      "description": "Rohingya refugees from Myanmar are living in fear in Malaysia | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYW9tRUdjNl8waHhrOXBJQjZIak1zc0lLbWhVVGlfbWZpb29LZmt4eVFhNnpDLWtTaFNoaUNsbFBGYkF5VEpUV3hhS3pCR2UwVFpzUGlCTHpzbEdHMHktckxXS1lPQXhmQnNMM18tOHR1UmRiOXgxUTdNbzZpcjFEeWRFUTlHUm4xWWljcnFTdThlc2cwanR2Rld6V25DeUU0cXVLRF9TdGpVMVMzOGpYOTh6TmhCQks0VVREaXZnRFIwQdIBxwFBVV95cUxOQklIeGNhYkg3OHRTSGZycUtTNUZlY2VQMTZrb3pqcDlTNUdzU1BNZ0hEQXFFM3NFQ1ZSb2w2bFJjQmUzNzY2N0VaMkNRT3ZmWGVQTkFoRFJra2QtUzgwNzlIbXdWVmh6blUzNk1sOW4ycWtpVFRkcmpZT3pYMmh4MGZfaUZzb0dhdW01UU1HbE5Sa3ctMHhWQWJqSU56Y1JnMlJpaTV0cEtpdTFmVmM2NnNyTGVMMWdxbTg1M2VnM0I2aTNiNXk4?oc=5",
+      "date": "2026-08-15T13:30:55+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1032,16 +1062,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "9b2e69799bff8431",
-      "title": "FIH Hockey World Cup 2026 – Indian Women’s Team Preview: Focus on writing the best World Cup chapter - Hockey India",
-      "description": "FIH Hockey World Cup 2026 – Indian Women’s Team Preview: Focus on writing the best World Cup chapter    Hockey India",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanM2R2IwSnJSajN1VWdhXzBmYjExQlN5aFFBX1N3WnJGS1hOUGE5c0hKby1EMlpwWGNYMWxzWUZHRDR2OHhjTUE1Wmhvb2Vfa0lfRk10V0lqYWtsaldPWVk5OFVZRXZiaEdubWJXUnhwWUQ5eEs4ZUlVYS1GdnE3RFZPVENTQ1h3SXZTSkFhMWd0WW9XSXhBWU1JQTBkMk1VQTFOa3daNVJRZkxCOTB2WnJsUDVQUkUzbkpKSldhaUZCTmpxWVQwVQ?oc=5",
-      "date": "2026-08-15T10:32:35+00:00",
-      "source": "Hockey India",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "a60a7d5ced71b00e",
       "title": "FIH Hockey World Cup 2026 – Indian Women’s Team Preview: Focus on writing the best World Cup chapter - Hockey India",
       "description": "FIH Hockey World Cup 2026 – Indian Women’s Team Preview: Focus on writing the best World Cup chapter    Hockey India",
@@ -1122,23 +1142,13 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "5ea6db1af93e0c2b",
-      "title": "Sony Pictures Networks India enters Tamil entertainment with Sony Vizha - brandequity.economictimes.indiatimes.com",
-      "description": "Sony Pictures Networks India enters Tamil entertainment with Sony Vizha    brandequity.economictimes.indiatimes.com",
+      "id": "87836c73eb6c45bf",
+      "title": "Sony Pictures Networks India enters Tamil entertainment with Sony Vizha - ET BrandEquity",
+      "description": "Sony Pictures Networks India enters Tamil entertainment with Sony Vizha    ET BrandEquity",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeDZodkt2Z1Q1Zkc3ZEtvVGxLNmVsS2ZDYU1kTF92OVoxdEVRbUdwUDU2MHBhSUV5eGx5cnhYb0R3dkZ1endGN2c3cFkzWmhSVkU3bnQ1dkVBeHM2WUtYS3VFcUxlR0JvLWxLWVR2YnItTDZCQkJqa1lqTDFXalhGS0I1M0hON3dQRmFacFFEcGhMUm43anFXMEt2dWtjd01oamdsXy1kTi02V2dqQS1PQm9Odk5POWhyMUJQclhqRDBUOGJZT2xoNy1naGZtLVJEVHRTaVVfLTg?oc=5",
       "date": "2026-08-15T09:35:58+00:00",
-      "source": "brandequity.economictimes.indiatimes.com",
+      "source": "ET BrandEquity",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "3d34a7763093a9fd",
-      "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order - Newsonair",
-      "description": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order    Newsonair",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2puT0hjRGRhZUowYlpjN3NwY0RVamFCbWNONURvckFQT2Q2VlZheWcteHFwTzU4Ulh3c0Y1cWtuVTZuaE5CR1J2LTNPNnNoaExVZFQzbkw0VWt2aElSZWtiS2VjS1hEclhqcHFmWm4yckFENVhBUDM2S3AtcG15T1hYVQ?oc=5",
-      "date": "2026-08-15T08:37:03+00:00",
-      "source": "Newsonair",
-      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1169,16 +1179,6 @@
       "date": "2026-08-15T07:58:46+00:00",
       "source": "Telegraph India",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "7cf99e3527f20b13",
-      "title": "India stack at 80: Fusing digital scale with human-centric governance - ET Government",
-      "description": "India stack at 80: Fusing digital scale with human-centric governance    ET Government",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFR2a3Z3eURvS1hfNE0xLUYzX3ZLOUI2d2w0RThjbHF6ekJyQmdJcGdBRmc0SGRvenQ1bkROZm96MnhjQzZUMUFrXzBRb0dNZU5zM0pWcmVnU2ZpcWRBNUNMLXp3eTFUSDExYWpISGtHOFEwbXFvdXFzMTg5UVJLYk1HSk1SRnNWcUdrbDZOYTZlME1XOUlpakZicDlQZk9VcTJOd2VBNTZkMHpmUjFZd1BvQ1lLZWxhSlJqbWgyRXhIVmdaQ3JSTjJDZ9IB0AFBVV95cUxOdGpCZGpweDV2eXZjUDY2XzdrLXgyRjVPQ3ptZGVXeEFJYUhZVXU1YW16OG9LMkd4am9Xa3NwelMtOVd3bDlXSUZ3NGpOekd0X1RqcWtTRFRhbU42N3NHQkpVenNidmNRTFdHdWZaU2xnM2t5c182THZsZHNMZFRoY3pxVzVFU1paVmlPRE9vUl92VWRJVjBER3VQMnVVWUkzcTBnMDRPN1g2S0hPdzBpdXN1UFloWGtFMnBoZmhVLUtsMGpCTmNaQUJzNVBPQWJK?oc=5",
-      "date": "2026-08-15T07:57:39+00:00",
-      "source": "ET Government",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
