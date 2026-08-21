@@ -2,406 +2,934 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>A Little Something For You 💗</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>StreamVerse News</title>
 
 <style>
 *{
-  box-sizing:border-box;
-  margin:0;
-  padding:0;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
 
 body{
-  min-height:100vh;
-  background:#050505;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  overflow:hidden;
-  font-family:Georgia,serif;
+    background:#080808;
+    color:#fff;
+    font-family:Arial,sans-serif;
 }
 
-.card{
-  width:min(94vw,700px);
-  height:min(88vh,760px);
-  border-radius:28px;
-  background:linear-gradient(145deg,#fff8f4,#fbe9e4);
-  position:relative;
-  overflow:hidden;
-  box-shadow:0 0 60px rgba(255,120,160,.28);
-  text-align:center;
+header{
+    position:sticky;
+    top:0;
+    z-index:1000;
+    background:rgba(8,8,8,.96);
+    border-bottom:1px solid #252525;
+    padding:15px 5%;
 }
 
-.small-text{
-  margin-top:48px;
-  color:#8d6870;
-  font-size:18px;
-  font-style:italic;
-  letter-spacing:1px;
+.nav{
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:20px;
 }
 
-.title{
-  margin-top:20px;
-  color:#6d3c49;
-  font-size:34px;
-  opacity:0;
-  transform:translateY(15px);
-  transition:1s;
-}
-
-.title.show{
-  opacity:1;
-  transform:translateY(0);
-}
-
-.heart-area{
-  height:390px;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  position:relative;
-}
-
-.glow{
-  position:absolute;
-  width:180px;
-  height:180px;
-  border-radius:50%;
-  background:rgba(255,125,170,.30);
-  filter:blur(30px);
-  animation:pulse 1.8s infinite;
-}
-
-.heart{
-  width:125px;
-  height:125px;
-  background:#ff5c96;
-  transform:rotate(-45deg);
-  position:relative;
-  box-shadow:0 12px 35px rgba(255,60,130,.45);
-  animation:heartBeat 1.5s infinite;
-  cursor:pointer;
-  z-index:2;
-}
-
-.heart:before,
-.heart:after{
-  content:"";
-  position:absolute;
-  width:125px;
-  height:125px;
-  border-radius:50%;
-  background:#ff5c96;
-}
-
-.heart:before{
-  top:-62px;
-  left:0;
-}
-
-.heart:after{
-  top:0;
-  left:62px;
-}
-
-@keyframes heartBeat{
-  0%,100%{transform:rotate(-45deg) scale(1)}
-  50%{transform:rotate(-45deg) scale(1.08)}
-}
-
-@keyframes pulse{
-  0%,100%{transform:scale(.8);opacity:.5}
-  50%{transform:scale(1.15);opacity:.8}
-}
-
-.pull{
-  position:absolute;
-  bottom:35px;
-  color:#94747c;
-  font-size:14px;
-  letter-spacing:4px;
-}
-
-.rope{
-  position:absolute;
-  width:3px;
-  height:105px;
-  background:#555;
-  bottom:-8px;
-  left:50%;
-  transform:translateX(-50%);
-  cursor:grab;
-  z-index:5;
-}
-
-.handle{
-  position:absolute;
-  width:22px;
-  height:35px;
-  border:3px solid #555;
-  border-radius:50%;
-  left:50%;
-  bottom:-40px;
-  transform:translateX(-50%);
-  background:#fbe9e4;
-}
-
-.message{
-  position:absolute;
-  inset:0;
-  background:rgba(255,247,244,.96);
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  opacity:0;
-  pointer-events:none;
-  transform:scale(.9);
-  transition:1s;
-  z-index:10;
-}
-
-.message.show{
-  opacity:1;
-  pointer-events:auto;
-  transform:scale(1);
-}
-
-.message h1{
-  font-size:52px;
-  color:#e8477d;
-  margin-bottom:18px;
-}
-
-.message p{
-  color:#704651;
-  font-size:22px;
-  max-width:80%;
-  line-height:1.6;
-}
-
-.btn{
-  margin-top:30px;
-  padding:13px 28px;
-  border:0;
-  border-radius:30px;
-  background:#ff5c96;
-  color:white;
-  font-size:16px;
-  cursor:pointer;
-  box-shadow:0 8px 25px rgba(255,70,130,.3);
-}
-
-.confetti{
-  position:absolute;
-  width:9px;
-  height:14px;
-  top:-20px;
-  animation:fall 3s linear forwards;
-  z-index:20;
-}
-
-@keyframes fall{
-  to{
-    transform:translateY(850px) rotate(720deg);
-    opacity:0;
-  }
-}
-
-@media(max-width:500px){
-  .card{
-    width:94vw;
-    height:88vh;
-  }
-
-  .small-text{
-    margin-top:35px;
-    font-size:15px;
-  }
-
-  .title{
+.logo{
     font-size:27px;
-  }
+    font-weight:bold;
+    color:#d4af37;
+    white-space:nowrap;
+}
 
-  .heart-area{
-    height:360px;
-  }
+.nav-links{
+    display:flex;
+    gap:20px;
+}
 
-  .heart{
-    width:100px;
-    height:100px;
-  }
+.nav-links a{
+    color:#fff;
+    text-decoration:none;
+    font-size:14px;
+}
 
-  .heart:before,
-  .heart:after{
-    width:100px;
-    height:100px;
-  }
+.nav-links a:hover{
+    color:#d4af37;
+}
 
-  .heart:before{
-    top:-50px;
-  }
+.search{
+    width:190px;
+    padding:10px 14px;
+    border-radius:25px;
+    border:1px solid #444;
+    background:#151515;
+    color:white;
+    outline:none;
+}
 
-  .heart:after{
-    left:50px;
-  }
+/* BREAKING BAR */
 
-  .message h1{
-    font-size:40px;
-  }
+.breaking{
+    background:#c90000;
+    padding:10px 5%;
+    overflow:hidden;
+}
 
-  .message p{
-    font-size:18px;
-  }
+.breaking-inner{
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.breaking-label{
+    font-weight:bold;
+    white-space:nowrap;
+}
+
+#breakingText{
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+/* HERO */
+
+.hero{
+    max-width:1200px;
+    margin:25px auto;
+    padding:0 15px;
+}
+
+.banner{
+    min-height:440px;
+    border-radius:22px;
+    overflow:hidden;
+    position:relative;
+    background:
+        linear-gradient(
+            90deg,
+            rgba(0,0,0,.95),
+            rgba(0,0,0,.45),
+            rgba(0,0,0,.15)
+        ),
+        linear-gradient(135deg,#222,#111);
+    display:flex;
+    align-items:flex-end;
+    padding:45px;
+    transition:.5s;
+}
+
+.banner-content{
+    max-width:680px;
+}
+
+.badge{
+    display:inline-block;
+    background:#d4af37;
+    color:#000;
+    padding:7px 13px;
+    border-radius:20px;
+    font-size:12px;
+    font-weight:bold;
+    margin-bottom:15px;
+}
+
+.banner h1{
+    font-size:clamp(30px,5vw,58px);
+    line-height:1.08;
+    margin-bottom:15px;
+}
+
+.banner p{
+    color:#ddd;
+    font-size:16px;
+    line-height:1.6;
+}
+
+.read-btn{
+    display:inline-block;
+    margin-top:22px;
+    background:#d4af37;
+    color:#000;
+    text-decoration:none;
+    padding:13px 25px;
+    border-radius:30px;
+    font-weight:bold;
+}
+
+/* SECTIONS */
+
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:20px 15px;
+}
+
+.section-title{
+    color:#d4af37;
+    font-size:27px;
+    margin:30px 0 18px;
+}
+
+.news-grid{
+    display:grid;
+    grid-template-columns:
+        repeat(auto-fit,minmax(260px,1fr));
+    gap:20px;
+}
+
+.news-card{
+    background:#121212;
+    border:1px solid #252525;
+    border-radius:16px;
+    padding:20px;
+    transition:.3s;
+}
+
+.news-card:hover{
+    transform:translateY(-5px);
+    border-color:#d4af37;
+    box-shadow:0 10px 30px rgba(212,175,55,.12);
+}
+
+.news-card .category{
+    color:#d4af37;
+    font-size:12px;
+    font-weight:bold;
+    margin-bottom:10px;
+    text-transform:uppercase;
+}
+
+.news-card h3{
+    font-size:19px;
+    line-height:1.4;
+    margin-bottom:12px;
+}
+
+.news-card p{
+    color:#aaa;
+    font-size:13px;
+    line-height:1.5;
+}
+
+.news-card a{
+    display:inline-block;
+    margin-top:15px;
+    color:#d4af37;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+/* CATEGORY */
+
+.categories{
+    display:flex;
+    gap:10px;
+    overflow-x:auto;
+    padding-bottom:10px;
+}
+
+.category{
+    min-width:max-content;
+    padding:11px 20px;
+    border:1px solid #333;
+    border-radius:30px;
+    color:#ddd;
+    background:#111;
+}
+
+.category:hover{
+    background:#d4af37;
+    color:#000;
+}
+
+/* STATUS */
+
+.status{
+    text-align:center;
+    padding:25px;
+    color:#999;
+}
+
+.loader{
+    width:35px;
+    height:35px;
+    border:3px solid #333;
+    border-top-color:#d4af37;
+    border-radius:50%;
+    animation:spin 1s linear infinite;
+    margin:10px auto;
+}
+
+@keyframes spin{
+    to{
+        transform:rotate(360deg);
+    }
+}
+
+/* FOOTER */
+
+footer{
+    margin-top:60px;
+    padding:40px 20px;
+    text-align:center;
+    background:#111;
+    border-top:1px solid #252525;
+}
+
+footer .logo{
+    margin-bottom:10px;
+}
+
+footer p{
+    color:#777;
+    font-size:13px;
+}
+
+/* MOBILE */
+
+@media(max-width:700px){
+
+    .nav{
+        flex-wrap:wrap;
+    }
+
+    .nav-links{
+        order:3;
+        width:100%;
+        overflow-x:auto;
+        padding-top:8px;
+    }
+
+    .search{
+        width:140px;
+    }
+
+    .banner{
+        min-height:420px;
+        padding:25px;
+        border-radius:15px;
+    }
+
+    .banner h1{
+        font-size:34px;
+    }
+
+    .news-grid{
+        grid-template-columns:1fr;
+    }
 }
 </style>
 </head>
 
 <body>
 
-<div class="card">
+<header>
 
-  <div class="small-text">a little something, for you</div>
+<div class="nav">
 
-  <h2 class="title" id="title">
-    Pull the little heart 💗
-  </h2>
+<div class="logo">
+SV NEWS
+</div>
 
-  <div class="heart-area">
+<input
+class="search"
+id="searchInput"
+type="search"
+placeholder="Search news..."
+>
 
-    <div class="glow"></div>
+<div class="nav-links">
 
-    <div class="heart" id="heart"></div>
-
-    <div class="rope" id="rope">
-      <div class="handle"></div>
-    </div>
-
-    <div class="pull">PULL & RELEASE</div>
-
-  </div>
-
-  <div class="message" id="message">
-
-    <h1>Happy Birthday! 🎂💗</h1>
-
-    <p>
-      You are someone really special.
-      May your day be filled with happiness,
-      beautiful memories and lots of love. ✨
-    </p>
-
-    <button class="btn" onclick="closeMessage()">
-      ❤️ Thank You
-    </button>
-
-  </div>
+<a href="#">Home</a>
+<a href="#latest">Latest</a>
+<a href="#india">India</a>
+<a href="#world">World</a>
+<a href="#sports">Sports</a>
+<a href="#tech">Tech</a>
 
 </div>
 
+</div>
+
+</header>
+
+
+<div class="breaking">
+
+<div class="breaking-inner">
+
+<div class="breaking-label">
+🔴 BREAKING
+</div>
+
+<div id="breakingText">
+Loading latest news...
+</div>
+
+</div>
+
+</div>
+
+
+<main>
+
+<section class="hero">
+
+<div class="banner" id="heroBanner">
+
+<div class="banner-content">
+
+<div class="badge">
+LATEST NEWS
+</div>
+
+<h1 id="heroTitle">
+Loading latest story...
+</h1>
+
+<p id="heroDescription">
+Please wait while the latest news is loaded.
+</p>
+
+<a
+id="heroLink"
+class="read-btn"
+href="#"
+target="_blank"
+rel="noopener"
+>
+READ FULL STORY
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="container">
+
+<h2 class="section-title">
+Explore Categories
+</h2>
+
+<div class="categories">
+
+<div class="category">🇮🇳 India</div>
+<div class="category">🌎 World</div>
+<div class="category">🏏 Sports</div>
+<div class="category">🎬 Entertainment</div>
+<div class="category">💻 Technology</div>
+<div class="category">💼 Business</div>
+<div class="category">📰 Politics</div>
+<div class="category">🚗 Auto</div>
+
+</div>
+
+</section>
+
+
+<section
+class="container"
+id="latest"
+>
+
+<h2 class="section-title">
+📰 Latest News
+</h2>
+
+<div
+id="newsStatus"
+class="status"
+>
+<div class="loader"></div>
+Loading latest news...
+</div>
+
+<div
+id="newsGrid"
+class="news-grid"
+>
+</div>
+
+</section>
+
+
+<section
+class="container"
+id="india"
+>
+
+<h2 class="section-title">
+🇮🇳 India News
+</h2>
+
+<div
+id="indiaGrid"
+class="news-grid"
+>
+</div>
+
+</section>
+
+
+<section
+class="container"
+id="world"
+>
+
+<h2 class="section-title">
+🌎 World News
+</h2>
+
+<div
+id="worldGrid"
+class="news-grid"
+>
+</div>
+
+</section>
+
+
+<section
+class="container"
+id="sports"
+>
+
+<h2 class="section-title">
+🏏 Sports
+</h2>
+
+<div
+id="sportsGrid"
+class="news-grid"
+>
+</div>
+
+</section>
+
+
+<section
+class="container"
+id="tech"
+>
+
+<h2 class="section-title">
+💻 Technology
+</h2>
+
+<div
+id="techGrid"
+class="news-grid"
+>
+</div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+<div class="logo">
+SV NEWS
+</div>
+
+<p>
+Independent news portal • Headlines link to original publishers
+</p>
+
+<br>
+
+<p>
+© 2026 SV News
+</p>
+
+</footer>
+
+
 <script>
-const rope = document.getElementById("rope");
-const message = document.getElementById("message");
-const title = document.getElementById("title");
 
-let startY = 0;
-let pulling = false;
+/*
+==================================================
+NEWS CONFIGURATION
+==================================================
 
-title.classList.add("show");
+For a production website, use a licensed news API
+or a news source whose terms allow your intended use.
 
-function reveal(){
-  message.classList.add("show");
-  createConfetti();
+The demo below uses public RSS through rss2json.
+You can replace RSS_URL with your permitted feed.
+*/
+
+const RSS_URL =
+"https://www.indiatoday.in/rss";
+
+const API_URL =
+"https://api.rss2json.com/v1/api.json?rss_url="
++ encodeURIComponent(RSS_URL);
+
+
+/* DATA */
+
+let allNews = [];
+let bannerIndex = 0;
+
+
+/* LOAD NEWS */
+
+async function loadNews(){
+
+    try{
+
+        document.getElementById("newsStatus")
+        .innerHTML =
+        '<div class="loader"></div>Updating news...';
+
+        const response =
+        await fetch(API_URL);
+
+        if(!response.ok){
+            throw new Error("News request failed");
+        }
+
+        const data =
+        await response.json();
+
+        if(!data.items || !data.items.length){
+            throw new Error("No news available");
+        }
+
+        allNews = data.items.map(item => {
+
+            return {
+
+                title:
+                item.title || "Latest News",
+
+                description:
+                cleanText(item.description),
+
+                link:
+                item.link || "#",
+
+                date:
+                item.pubDate || "",
+
+                category:
+                detectCategory(item.title)
+
+            };
+
+        });
+
+        showNews(allNews);
+
+        updateHero();
+
+        updateBreaking();
+
+        document.getElementById("newsStatus")
+        .innerHTML = "";
+
+    }
+    catch(error){
+
+        console.error(error);
+
+        document.getElementById("newsStatus")
+        .innerHTML =
+
+        "News could not be loaded right now. " +
+        "Please try again later.";
+
+    }
+
 }
 
-rope.addEventListener("touchstart",function(e){
-  pulling=true;
-  startY=e.touches[0].clientY;
-});
 
-rope.addEventListener("touchmove",function(e){
+/* CLEAN HTML */
 
-  if(!pulling) return;
+function cleanText(text){
 
-  const currentY=e.touches[0].clientY;
-  const distance=currentY-startY;
+    if(!text) return "";
 
-  if(distance>0){
-    rope.style.transform=
-      "translateX(-50%) translateY("+Math.min(distance,130)+"px)";
-  }
+    const temp =
+    document.createElement("div");
 
-  if(distance>90){
-    pulling=false;
-    rope.style.transform="translateX(-50%)";
-    reveal();
-  }
-});
+    temp.innerHTML = text;
 
-rope.addEventListener("touchend",function(){
-  pulling=false;
-  rope.style.transform="translateX(-50%)";
-});
+    return temp.textContent
+    .replace(/\s+/g," ")
+    .trim()
+    .slice(0,180);
 
-rope.addEventListener("mousedown",function(e){
-  pulling=true;
-  startY=e.clientY;
-});
-
-document.addEventListener("mousemove",function(e){
-
-  if(!pulling) return;
-
-  const distance=e.clientY-startY;
-
-  if(distance>0){
-    rope.style.transform=
-      "translateX(-50%) translateY("+Math.min(distance,130)+"px)";
-  }
-
-  if(distance>90){
-    pulling=false;
-    rope.style.transform="translateX(-50%)";
-    reveal();
-  }
-});
-
-document.addEventListener("mouseup",function(){
-  pulling=false;
-  rope.style.transform="translateX(-50%)";
-});
-
-document.getElementById("heart").addEventListener("click",reveal);
-
-function createConfetti(){
-
-  for(let i=0;i<80;i++){
-
-    const c=document.createElement("div");
-
-    c.className="confetti";
-
-    c.style.left=Math.random()*100+"%";
-    c.style.background=
-      ["#ff5c96","#ffcc70","#8fd3ff","#b995ff","#7ee0b5"]
-      [Math.floor(Math.random()*5)];
-
-    c.style.animationDelay=
-      Math.random()*1.5+"s";
-
-    document.querySelector(".card").appendChild(c);
-
-    setTimeout(()=>{
-      c.remove();
-    },4500);
-  }
 }
 
-function closeMessage(){
-  message.classList.remove("show");
+
+/* CATEGORY */
+
+function detectCategory(title){
+
+    const t =
+    title.toLowerCase();
+
+    if(
+        t.includes("cricket") ||
+        t.includes("football") ||
+        t.includes("sport") ||
+        t.includes("match")
+    ){
+        return "Sports";
+    }
+
+    if(
+        t.includes("tech") ||
+        t.includes("ai") ||
+        t.includes("iphone") ||
+        t.includes("google") ||
+        t.includes("apple")
+    ){
+        return "Technology";
+    }
+
+    if(
+        t.includes("world") ||
+        t.includes("iran") ||
+        t.includes("usa") ||
+        t.includes("america")
+    ){
+        return "World";
+    }
+
+    return "India";
+
 }
+
+
+/* SHOW NEWS */
+
+function showNews(news){
+
+    renderGrid(
+        "newsGrid",
+        news.slice(0,12)
+    );
+
+    renderGrid(
+        "indiaGrid",
+        news.filter(
+            n => n.category === "India"
+        ).slice(0,6)
+    );
+
+    renderGrid(
+        "worldGrid",
+        news.filter(
+            n => n.category === "World"
+        ).slice(0,6)
+    );
+
+    renderGrid(
+        "sportsGrid",
+        news.filter(
+            n => n.category === "Sports"
+        ).slice(0,6)
+    );
+
+    renderGrid(
+        "techGrid",
+        news.filter(
+            n => n.category === "Technology"
+        ).slice(0,6)
+    );
+
+}
+
+
+/* NEWS CARD */
+
+function renderGrid(id,items){
+
+    const grid =
+    document.getElementById(id);
+
+    if(!grid) return;
+
+    if(!items.length){
+
+        grid.innerHTML =
+        '<p style="color:#777;">No stories available.</p>';
+
+        return;
+    }
+
+    grid.innerHTML =
+    items.map(item => `
+
+        <article class="news-card">
+
+            <div class="category">
+                ${escapeHtml(item.category)}
+            </div>
+
+            <h3>
+                ${escapeHtml(item.title)}
+            </h3>
+
+            <p>
+                ${escapeHtml(item.description)}
+            </p>
+
+            <a
+                href="${safeUrl(item.link)}"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Read Full Story →
+            </a>
+
+        </article>
+
+    `).join("");
+
+}
+
+
+/* HERO BANNER */
+
+function updateHero(){
+
+    if(!allNews.length) return;
+
+    const item =
+    allNews[bannerIndex % allNews.length];
+
+    document.getElementById("heroTitle")
+    .textContent =
+    item.title;
+
+    document.getElementById("heroDescription")
+    .textContent =
+    item.description ||
+    "Read the latest story from the original publisher.";
+
+    document.getElementById("heroLink")
+    .href =
+    safeUrl(item.link);
+
+    bannerIndex++;
+
+}
+
+
+/* AUTO BANNER */
+
+setInterval(
+    updateHero,
+    7000
+);
+
+
+/* BREAKING NEWS */
+
+function updateBreaking(){
+
+    if(!allNews.length) return;
+
+    document.getElementById("breakingText")
+    .textContent =
+    allNews[0].title;
+
+}
+
+
+/* SEARCH */
+
+document.getElementById("searchInput")
+.addEventListener("input",function(){
+
+    const query =
+    this.value.toLowerCase().trim();
+
+    if(!query){
+
+        showNews(allNews);
+
+        return;
+    }
+
+    const results =
+    allNews.filter(item =>
+        item.title.toLowerCase()
+        .includes(query)
+    );
+
+    renderGrid(
+        "newsGrid",
+        results
+    );
+
+});
+
+
+/* SAFETY */
+
+function escapeHtml(value){
+
+    return String(value || "")
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;")
+    .replace(/'/g,"&#039;");
+
+}
+
+
+function safeUrl(url){
+
+    try{
+
+        const u =
+        new URL(url);
+
+        if(
+            u.protocol === "http:" ||
+            u.protocol === "https:"
+        ){
+            return u.href;
+        }
+
+    }catch(e){}
+
+    return "#";
+
+}
+
+
+/* START */
+
+loadNews();
+
+
+/*
+Automatic refresh:
+Every 10 minutes the site checks
+for newer stories.
+*/
+
+setInterval(
+    loadNews,
+    10 * 60 * 1000
+);
+
 </script>
 
 </body>
