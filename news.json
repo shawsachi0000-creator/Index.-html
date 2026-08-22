@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:20:38.132407+00:00",
+  "updated_at": "2026-08-22T22:48:35.875232+00:00",
   "items": [
     {
       "id": "cd16c3aae2abdb43",
@@ -9,6 +9,16 @@
       "date": "2026-08-22T21:51:00+00:00",
       "source": "The Times of India",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ef50c2262ad7c5ff",
+      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - News On AIR",
+      "description": "Top world leaders to attend India-AI Impact Summit in New Delhi next week    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+      "date": "2026-08-22T21:21:32+00:00",
+      "source": "News On AIR",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -92,6 +102,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "ecf6029f48e898a9",
+      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance - News On AIR",
+      "description": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+      "date": "2026-08-22T20:09:18+00:00",
+      "source": "News On AIR",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "258ec5e8221468a8",
       "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR",
       "description": "PM Modi Attends India-Norway Business and Research Summit in Oslo    News On AIR",
@@ -112,6 +132,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "c725ca7369d0e986",
+      "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "description": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "date": "2026-08-22T19:14:38+00:00",
+      "source": "News On AIR",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "d1f757417bfc7378",
       "title": "Bangladesh open to joining Saudi-Pak-Turkiye defence pact: ministers | World News - Hindustan Times",
       "description": "Bangladesh open to joining Saudi-Pak-Turkiye defence pact: ministers | World News    Hindustan Times",
@@ -119,16 +149,6 @@
       "date": "2026-08-22T19:04:54+00:00",
       "source": "Hindustan Times",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "8966ca93d8e7ba51",
-      "title": "India secures 70% of crude oil imports Outside Strait of Hormuz: Petroleum Ministry - News On AIR",
-      "description": "India secures 70% of crude oil imports Outside Strait of Hormuz: Petroleum Ministry    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTC0xTTV4aEJ1RFlJekJreVA2YkVDZmVOWVAxSkI4VDd0VjBGZmM2QTdJZjZUMjRVRXpzZGZCb21UaFE5YnRoVjVPN0FOQmpDYl9nV2d5WE5pUF9qekxWUm1Xd2Q0U0NWSDNNRmNVXzhndGRTcVBYcEdZdWRnUkRmZlREWjNaNExWZHFucnNVREFaTlQ0eEtxNC1RY0dIMEhpN0RuU25NSXB5djQ?oc=5",
-      "date": "2026-08-22T18:54:03+00:00",
-      "source": "News On AIR",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -169,16 +189,6 @@
       "date": "2026-08-22T18:07:00+00:00",
       "source": "The Statesman",
       "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "987edd34caaae666",
-      "title": "Panama‑flagged cargo ship sinks off eastern India, coast guard says - Reuters",
-      "description": "Panama‑flagged cargo ship sinks off eastern India, coast guard says    Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
-      "date": "2026-08-22T17:56:53+00:00",
-      "source": "Reuters",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -352,6 +362,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "a553419d271c3198",
+      "title": "New book topstitches a Savile Row master tailor’s Indian heritage - The Indian Express",
+      "description": "New book topstitches a Savile Row master tailor’s Indian heritage    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalB6QlAzZ2loX1J0UWdyZmZhdWhSN0tmaDhkdWs0TnI2T3RNS0pDanAzdlNCZVZ0eEFDNmw4Nmt6UmJTZFR6WXRpOS10aFZ3ZkVhU05YbHEwUGw5TUxmWGI0b2R4bnVMd20zNlExSVRic2ctcnN4Q2pkYlBaMWxTSklHaHdxRWY5Z0hob0E0TlJrdlJ2YWtxNjl2cTJPSzNxQ1BrMHZhUkRXTnF0UTdxb0tkU2VhWlVuN2RhQ1lHa9IBxgFBVV95cUxPaXZUVHloaGN3bWI0cUFtekdGR3d5QTRuTGdfZVdncmU2cjdHeklBQ09GZjZpWkQ3WGNUdHZRalA3SXNYN2k1UWlxRi12U3pVdlpSNFNtemlaOVIxT3FGcER4RGJhUVdQeXd4Q213RlB2TUxIaE1VU0JOeF9yMWh4MzdDeF9NM1RoTV8ycVIzWmtNTEZSRHRsNU1KdlN4a0hHR1B5dFBIYnZFdThPbXF3TVhnNm12RjFpYzYtVVJaRzdnWlRCeXc?oc=5",
+      "date": "2026-08-22T16:18:46+00:00",
+      "source": "The Indian Express",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "2eba33f7fbe23c8b",
       "title": "India Has to Do Business With China, Says Jaishankar - TheWire.in",
       "description": "India Has to Do Business With China, Says Jaishankar    TheWire.in",
@@ -372,16 +392,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "a6ea9db919eb84cc",
-      "title": "Charanjit Singh Channi’s academic pursuit: A new model in indian politics - Whispers in the Corridors",
-      "description": "Charanjit Singh Channi’s academic pursuit: A new model in indian politics    Whispers in the Corridors",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeW54YlIyUktYSDFOZGktSmJySUtuSzN4QnU3MzFua3FOZ3puMmVYTkFDeEg5TkVWb1gyaDJldWdkWHltZERaRFNlN3hCZFVHSy1XWk9TNE1uV0Vac2lVNFY3RWFzakhQcUxCTS1VUTlLcHRNeEY2clJtM20xX3I3bWhPTjRSaE5DWDNOdXF2QnpaeGFwalNYa291NXVNUl95dFBMWGNTWmRYb0ZsY1JjZg?oc=5",
-      "date": "2026-08-22T16:11:00+00:00",
-      "source": "Whispers in the Corridors",
-      "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "95701bc27b1fd9c4",
       "title": "India stare at World Cup exit after 3-1 loss to Netherlands - ESPN",
       "description": "India stare at World Cup exit after 3-1 loss to Netherlands    ESPN",
@@ -389,6 +399,16 @@
       "date": "2026-08-22T16:11:00+00:00",
       "source": "ESPN",
       "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "84dee323b3b0c8ee",
+      "title": "China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port | India News - Hindustan Times",
+      "description": "China-bound vessel with 24 crew members sinks 200 nautical miles off Odisha’s Paradip port | India News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ3hoTUs3bnphZmp6ZElRRllEendHWEtnUE56SElhanRBaGplRlRyWXNTakpCT0FDbkd2c0tVMGNzMkNzYVZDTkN3aHEzMThKVkxlTk1nY2NoVzRab080SUVCN3paVExGUENzRl92RDk0SkllZ2dqaFI2SGdybUpIMXhuR1hnQ3dPU2xHTlBuT1NoaUJqeG05RG9JekFSVTE1T21UNWlKTDZEY19faHA2ck44a0hOSVZhRUJKaDNNLV80a0FKckFHOFRoYXhoRlViVnExWWR3bk85dVo5LVRYOV9ySdIB6AFBVV95cUxPcl91U1dFRU93endrMGxpT0JvcGZVR2NWNGFrTzViSHJvVTB5ZzVjN2pVLTZRVndoRWJFbmtlUWw2TVNHaGdaN2tDWnUxVk1nTkxOdThRdVNnNEdhYmRMRXNBTXZUZmQ4STN6OFBkdlVkTlNLeFFyZVpBRDFfdlVMY2FycE5wOXNFMjZxSmxBaTMwdkhLYVJmRjhBbllPX3d5clVYYmJuTjVoWnVzclF4elVVYzJWYlNXbU02OFgyN0ZhYks3amFfUlZUSHczcGxFUW5BLXBZUFN5ajQ1YkwtYU1yNUxMMWhL?oc=5",
+      "date": "2026-08-22T16:06:17+00:00",
+      "source": "Hindustan Times",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -532,16 +552,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "8a4726168efc35d8",
-      "title": "Good news for family-based Green Card applicants from India in Visa Bulletin September 2026, no relief fo - The Times of India",
-      "description": "Good news for family-based Green Card applicants from India in Visa Bulletin September 2026, no relief fo    The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ3RXcVdGVEtYNjFyXzRfcXl6OUNqRmhybkFWWkpWNTFBNEMxQVpHcVc2aGlhYTRBWFFVVE1OdV9sVjlSajNPeVBUaTBzSHI4b2xiS3AzaXBuRm9kM0RXbG5wa0U0dDdjMVJTTENTdUM4b193UGx4ampOUjJvWFhkTTNtZ184WDN3NTdUWG9hT0U5QURWR1B1c1o4Z05KUEt0akwtZTJ6Rkk3dEF1TTRVdlZKaTRXYkFyMEttVFlDdGhoVXpmX2p0OWRUejVsdkVPWFREWjktbXJuTmtqeFI5OFVIMDhERXJ5TkFoM1lMcVdPa3VsQjd0TlZIOHpuRC1kelhXdjVuYmFOYkJBdjJ4NXgydXNIY0psNWtnVHhZZjAxQ2NtWmhF0gGsAkFVX3lxTE8tU2xiSmEzMnlNSVhsbzRfSnpiVVp2X19kVVA2VlBNYmRBcHZmY0R2Wk0wWFI0cVRCbEVIZDZrZnhTS0UxS3k0czNxbHNFTFZfXzN6aE1DdmRfcjBpQ1RyUHBsWDA0WFhxT2tublFyU0c5NktlQVNpcmRwRVpDYjBlcUNKNnJuR0FVamRpS2NMSGZpMHlpRUJCSVN5dmdrVkJaT2l4dV8yZWs0YzhqUk9aYkxKeGEzSHVuenhJZlg4LWJyelBxOXRmajNnQkJVbDVOWnlxQXZ0djFEa0EzTFN3QTFyVU9ubGRBQVR4eDItaFl3TG1yZ1NrUjZBV0xPd1NSV1BSUVRuNURSQll3S0Z1UXJoY2NqVXNnb2g5N2V0SHc4WTRnVVZsMGp5bw?oc=5",
-      "date": "2026-08-22T13:28:00+00:00",
-      "source": "The Times of India",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "f8a9bba6635e70de",
       "title": "Good news for family-based Green Card applicants from India in Visa Bulletin September 2026, no relief fo - The Times of India",
       "description": "Good news for family-based Green Card applicants from India in Visa Bulletin September 2026, no relief fo    The Times of India",
@@ -649,16 +659,6 @@
       "date": "2026-08-22T11:42:46+00:00",
       "source": "News On AIR",
       "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "128145917b566f3a",
-      "title": "‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is 'not over yet' | India News - Hindustan Times",
-      "description": "‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is 'not over yet' | India News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ1p2emVlSXlnWi02YXh2VVVLMXp6bW1kc2R3UXVoMndBTFF3YlFIanBjVndVSV9LZm14cVZFTnVVUURveXFmazRQNXhBalFPc2t3a1ZCbnltN2gyZEhSSzBuSVJpT2xUd2dHbVpIaEdONDNQSUdxY1RoMnprOF82QWE3RTVra1dFbEtOc1lCdmUydW1ONEhaZXlodWNGQlNIVGpQR0FlM2JRN3JBYmt6eFotaThBT3hvQXE5N05YOWtzb1d0VjNtLUpnTndzeFJkNzVBbTF2NDdEOXkwNkRBTGJYUzNBUGxuQnVYaDhVSm1ROUI3NktJUXdUQdIBgAJBVV95cUxNelZXdWNYTDd5RXU5MHJVVnIyb1hNWjVCa2RzMzBlaUIzR0dsNVoxelZ4eDE3eWp2ZF9CLTlsR3dTeEV6bkYxb1cxSVZ1ZnJ2aG5tdFgxS3oxR1lzTDBSSUlNX1NpOFBOWFZyN0J4Yk1PZzhVc1RRQzJpQ0k5RWZTckFNSkFYZkd1dHQ3OURxWHBLcWplSmpnb1poRTFVUXgxNkdGNm1HR2dEY1ZFSXczTi1TOHYzWjliV3JwVHZYbW5ucHdxNjlFT21iVHExNFA2X2VCT01ydWl1ZWl5S0lQUkhYVFE2eXpVU2QxVUFlU2lVNWtCcGJwUjVDMUhpRUdY?oc=5",
-      "date": "2026-08-22T11:30:54+00:00",
-      "source": "Hindustan Times",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -882,16 +882,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ecf6029f48e898a9",
-      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance - News On AIR",
-      "description": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
-      "date": "2026-08-22T09:22:32+00:00",
-      "source": "News On AIR",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "f125df0e7f149b5a",
       "title": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence - News On AIR",
       "description": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence    News On AIR",
@@ -919,16 +909,6 @@
       "date": "2026-08-22T09:06:31+00:00",
       "source": "BioSpectrum India",
       "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "06a229fd1ff127a0",
-      "title": "Several dead in police car collision in northeast England | World News - Hindustan Times",
-      "description": "Several dead in police car collision in northeast England | World News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVUtsODlvWmlTMVM3MFlXaVRtZ2lTRHJRNE5HSGQteTJjZ2xCZGxpTjRuY1JhYTdPWmwyMVNUcU53X01pRFdzTGZMOEQ3ZXhNOFRKb1lEeW9SOTNKaGdPdHJqd0tETXFXNUV0ZUxKS0E2ZDRjeldmeEI2YklCUkVlRjNrYVdUVzN5MGdra2ZTYjlfMHR3RUZ5VU5DQlpsS1YwTUVxbGNfMGNyazdqNGgwaWpuaXVRNWkzOE50a0hzUHlmU3ZNQ2J4azNZZG5IYUx6bHJhdC0zZ1ZjZmJvRFVKWmtjWGFPN2lrVDV6MkFYWVU3dVpJWlRBQUtLWllfdW1BRFgwWjZn0gGLAkFVX3lxTE15VU93V2ZPZW9FZGtWMjZPeUUzTGZKSVNEYTY5Wmc4dnhZUUowTWN0WEU4b2ZqSkJiWDM2TC1oNVRNZktnR3NubDJSbXQxNnFoVV94cDBnU0ZMeGs1R0VsNndnci1ENTl6WHVoZXYzRG9IamxzNjZoMUE0NmcxckJUbkxiX3JVZTdrX3FoVnlNclhvSlVTYjUtLWtZUzRNNC15bFVaX0t4NXY2azE4WGF3RjBhQmVoNFMzNVlHbXRSYk1ueGFseWxnOGRQWElfQzhVZE9nOE1YTEQ1c0FkdHpHWDN6aVpNUG94TlpuZUcxd1A1TG9FbXRya0VjX2hBRTh3dGxYaEtNRDNYbw?oc=5",
-      "date": "2026-08-22T09:04:24+00:00",
-      "source": "Hindustan Times",
-      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1199,6 +1179,26 @@
       "date": "2026-08-22T02:43:28+00:00",
       "source": "The Indian Express",
       "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "0b35b65484bfa153",
+      "title": "India to host BRICS Youth and Sports Ministers’ Meetings in Visakhapatnam - News On AIR",
+      "description": "India to host BRICS Youth and Sports Ministers’ Meetings in Visakhapatnam    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWS1UamZxdXZXckg4OVI0eG42QVE3WTR0S3R0LXB3ZnNNWGRwMjlTSFJfb0c5MThrdkNWakpoenNYSGpJTlc3V3BXMlFiQ2VfU0NhTkRUaHNWN0todkVhSnJyUTNoUmt5QVVsLWh4LXZKSVFteGNCZG4waHoxR3pac3l1Zm9VR194T1VDZlBmMVhPUTdvc3dZOXNwb0FuV1RiM2c?oc=5",
+      "date": "2026-08-22T02:23:35+00:00",
+      "source": "News On AIR",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "c642f304484b47b4",
+      "title": "HM Amit Shah lauds West Bengal govt. for handing over 1,129 acres for India-Bangladesh border fencing - News On AIR",
+      "description": "HM Amit Shah lauds West Bengal govt. for handing over 1,129 acres for India-Bangladesh border fencing    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFVjZlBMWlRIRlM4d0lJVmJsbjA4TThvOXdlMDJjQ1BCMDFfbktjbTBMZEc0OUNEc2xxWkVmQ0FHQUhKako4VHg3eGNvd1NobkV4YmNjU0ZKb3JXWFZZUjFKU1BDOEpBb0tMSXVCS0kxZzk3bVFkYkoxTDQ5M0JLeFpXV1dtanhVRjdmQkF6NEpEem1rNmJ1bGxVNzVCM2k3MUp1WUI1Uml3R3J4aTRfMVpzS0w1dEZSSVptMVc1c2hZT2s?oc=5",
+      "date": "2026-08-22T01:53:28+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     }
   ]
