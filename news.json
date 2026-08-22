@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:21:23.305590+00:00",
+  "updated_at": "2026-08-22T20:49:18.325138+00:00",
   "items": [
     {
       "id": "828ba4c948e08c61",
@@ -8,6 +8,16 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUVvMzA0MzRMeVFTb3k0RWVSenRMakY4VGhGMlpzbWQzNmNydjZKOW9pTVFubTk2clNoMGxTajVKc0s0d0JCSy16cUxSNWlrSzd2YUVmaG5Qa0dNdkpqNlM0MVVZNDZmY3U5dnE2WV9xbkZwUHVGa0ExZEZDODVzc1lxTmc3S0ljWWduZ19qUlg5RlF5UHpMVkFOZTY4bDNFSUI0UzltTVRBOGhCLUlvSm5XMHFoNjBKVGcwTmNRQ3ZvNVFwYmZv0gHMAUFVX3lxTE1WS0xBdk81OS1hZW1tNkhIRDhBV0lYQUFwRTh0Z010eFd6aTN0cmtCMzdFcGZ5UW5vWEdaUEtnMmd3TEtKU0tqODVmT1lTVi1FbFZyRmNRbHlMRHVSblBWZUJoNlBpMU9QQnY5S0Q5SkhCb0F5WV9oWkRuUVZfb3BHM255TVdXeEczMVRVRjJUZVRuUU9jN1BzUW5Kc3pyMEZYbWZ3cWJqdWxLRXA0N0ZLdy1qb19aS0hFVGMwdnpkY3pCdXdlQ3JpQUthSg?oc=5",
       "date": "2026-08-22T19:39:00+00:00",
       "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "2abae6b9e74dd6f0",
+      "title": "India's trade deficit widens despite 19.6% export rise - Fibre2Fashion",
+      "description": "India's trade deficit widens despite 19.6% export rise    Fibre2Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkxEcUZ6N0RwNGp2RzZnYzh2TERTZVR3eTVBVGE3b0Z4c3pMNEs4aU5IOEpiT1FPWTRvdlp3anJnb2t0SmlrN2lXSzVOeGxsWkEzNDZudWNxOWxMaHZXcXhaY2VOdTZJTFh1SHhvcEVJQWFWUkNNRlA4aklRajQ5dTFoamRPN1RJOWR0aEpqb3RQamdFdENfVDdncUhMbVlSTlZjcnJMRUxRS1E0WHdzcE1GYW5fTEdJaHYyUjBSUzBuaTBTYndzYzBjUzY1U0RRbkNR?oc=5",
+      "date": "2026-08-22T19:34:42+00:00",
+      "source": "Fibre2Fashion",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -122,6 +132,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "8966ca93d8e7ba51",
+      "title": "India secures 70% of crude oil imports Outside Strait of Hormuz: Petroleum Ministry - News On AIR",
+      "description": "India secures 70% of crude oil imports Outside Strait of Hormuz: Petroleum Ministry    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTC0xTTV4aEJ1RFlJekJreVA2YkVDZmVOWVAxSkI4VDd0VjBGZmM2QTdJZjZUMjRVRXpzZGZCb21UaFE5YnRoVjVPN0FOQmpDYl9nV2d5WE5pUF9qekxWUm1Xd2Q0U0NWSDNNRmNVXzhndGRTcVBYcEdZdWRnUkRmZlREWjNaNExWZHFucnNVREFaTlQ0eEtxNC1RY0dIMEhpN0RuU25NSXB5djQ?oc=5",
+      "date": "2026-08-22T17:29:50+00:00",
+      "source": "News On AIR",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "0b4a2c3038321598",
       "title": "Egypt speaks with Iran after Tehran claims victory, and other Middle East developments - AP News",
       "description": "Egypt speaks with Iran after Tehran claims victory, and other Middle East developments    AP News",
@@ -216,7 +236,7 @@
       "title": "Victor Lai Diary: The Campaign Ends - BWF World Championships",
       "description": "Victor Lai Diary: The Campaign Ends    BWF World Championships",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdU5FaEdsTGFkMUlUWk0yOWRJVXg1R3RjaG5RY2xXd2h2SkhTbDdHSGVyTjVPM1NlMjZTOWk4Umg3TkxLUTYwQVQxQUJpVHBXUl9RdDV0VFZyRUFlUDZCTFJFNnlkTG40RTBDaFREY2xwS0ZtMmpJd0ZOcWVLbXBjUE5fcjdKY0R0NFZSR3dCNGIyQ2VfRGpIUUJMdkdvNmhHdFRCQ2JWQW0?oc=5",
-      "date": "2026-08-22T16:55:35+00:00",
+      "date": "2026-08-22T16:55:40+00:00",
       "source": "BWF World Championships",
       "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
@@ -242,16 +262,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "bd9414ad735893cb",
-      "title": "India-Bangladesh ties have to be based on mutual interests: EAM Jaishankar - News On AIR",
-      "description": "India-Bangladesh ties have to be based on mutual interests: EAM Jaishankar    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnY1Zkl2RkpqVS15VzRWdWVPa1ZhTVJXREYyb0U3WXFOeEdhS1RSdEpHMGp3Sl9jU0xXM3FNXzU0SzZQemdqM3oyUHpwT3NmdXl1SHIzTWxOSS1GRVp0VGY5eTF3eG8tVmtZRHozVkE1S2hoRnd4TDA5T21MWVA3YjVzbUNOanpsaml2eV9VaWV1c1lpVjhsbk4xbHRncDZu?oc=5",
-      "date": "2026-08-22T16:29:45+00:00",
-      "source": "News On AIR",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "638e70e9b5ce880e",
       "title": "Panama-Flagged Ship Sinks Off Odisha's Paradip Coast; Indian Navy, Coast Guard Launch Rescue Op - News18",
       "description": "Panama-Flagged Ship Sinks Off Odisha's Paradip Coast; Indian Navy, Coast Guard Launch Rescue Op    News18",
@@ -269,16 +279,6 @@
       "date": "2026-08-22T16:20:02+00:00",
       "source": "BusinessLine",
       "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "a553419d271c3198",
-      "title": "New book topstitches a Savile Row master tailor’s Indian heritage - The Indian Express",
-      "description": "New book topstitches a Savile Row master tailor’s Indian heritage    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalB6QlAzZ2loX1J0UWdyZmZhdWhSN0tmaDhkdWs0TnI2T3RNS0pDanAzdlNCZVZ0eEFDNmw4Nmt6UmJTZFR6WXRpOS10aFZ3ZkVhU05YbHEwUGw5TUxmWGI0b2R4bnVMd20zNlExSVRic2ctcnN4Q2pkYlBaMWxTSklHaHdxRWY5Z0hob0E0TlJrdlJ2YWtxNjl2cTJPSzNxQ1BrMHZhUkRXTnF0UTdxb0tkU2VhWlVuN2RhQ1lHa9IBxgFBVV95cUxPaXZUVHloaGN3bWI0cUFtekdGR3d5QTRuTGdfZVdncmU2cjdHeklBQ09GZjZpWkQ3WGNUdHZRalA3SXNYN2k1UWlxRi12U3pVdlpSNFNtemlaOVIxT3FGcER4RGJhUVdQeXd4Q213RlB2TUxIaE1VU0JOeF9yMWh4MzdDeF9NM1RoTV8ycVIzWmtNTEZSRHRsNU1KdlN4a0hHR1B5dFBIYnZFdThPbXF3TVhnNm12RjFpYzYtVVJaRzdnWlRCeXc?oc=5",
-      "date": "2026-08-22T16:18:46+00:00",
-      "source": "The Indian Express",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -302,6 +302,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "e0c7a17cb6c48490",
+      "title": "Luxid Tech Enters India’s Hospital Technology Market With VueAR Glass - BW Healthcare",
+      "description": "Luxid Tech Enters India’s Hospital Technology Market With VueAR Glass    BW Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenJUNWFzaC1MN2pqbERCZmdpVDljLXhxUnlVcVJyOEoxRjZHVUY1M3BzS3kyaHZQeUE1WmNTN3JxeTcxU05sZ180V2tSQjZDcHNwRGRWSHZTdkcxeEk5a3MzSWdUY0Q0aERFOTFsZ2pQYVQxRUlaSHNjWFl1cExCeng4NWxsMXJWMHRQV2diSUtWeUgwRzNEVVFmR2Y2TXFZRzIydzlwQ1B2aWtENnpNYjhXQUhuVFpnTkE?oc=5",
+      "date": "2026-08-22T16:13:19+00:00",
+      "source": "BW Healthcare",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "a6ea9db919eb84cc",
       "title": "Charanjit Singh Channi’s academic pursuit: A new model in indian politics - Whispers in the Corridors",
       "description": "Charanjit Singh Channi’s academic pursuit: A new model in indian politics    Whispers in the Corridors",
@@ -319,26 +329,6 @@
       "date": "2026-08-22T16:11:00+00:00",
       "source": "ESPN",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "2461662b1f9f9e5a",
-      "title": "Did India secure a positive response from Japan on tech transfer restrictions to Pakistan? - Whispers in the Corridors",
-      "description": "Did India secure a positive response from Japan on tech transfer restrictions to Pakistan?    Whispers in the Corridors",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2pnbEZKaG05MGo4QU1yMGtXb3hMdE5lakVUSFE4SEtyX2Z1Ylk0Q1FtUjNLdWpwcFlnQ1lzVDBpb1NULVgyc2V2QjVyYlp4UW5IOVhVQ1czdkF3N1pZQ1BoWE1LSldfUktFMHdweUhMZVNsSzZHempQZno3UlpBZ3dsTnRRVFhsLUNucXVSWng3dFpYNUdheTJjYjNEQVdhVG82WGdJRjRvUGFYMC1uN0w5YkpIY24xMVBLVXFjaEJydjgxSkNF?oc=5",
-      "date": "2026-08-22T16:06:34+00:00",
-      "source": "Whispers in the Corridors",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "e0c7a17cb6c48490",
-      "title": "Luxid Tech Enters India’s Hospital Technology Market With VueAR Glass - BW Healthcare",
-      "description": "Luxid Tech Enters India’s Hospital Technology Market With VueAR Glass    BW Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenJUNWFzaC1MN2pqbERCZmdpVDljLXhxUnlVcVJyOEoxRjZHVUY1M3BzS3kyaHZQeUE1WmNTN3JxeTcxU05sZ180V2tSQjZDcHNwRGRWSHZTdkcxeEk5a3MzSWdUY0Q0aERFOTFsZ2pQYVQxRUlaSHNjWFl1cExCeng4NWxsMXJWMHRQV2diSUtWeUgwRzNEVVFmR2Y2TXFZRzIydzlwQ1B2aWtENnpNYjhXQUhuVFpnTkE?oc=5",
-      "date": "2026-08-22T16:04:01+00:00",
-      "source": "BW Healthcare",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -542,6 +532,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "512b309801c7d101",
+      "title": "Campaigning in full swing for second phase of assembly elections in West Bengal - News On AIR",
+      "description": "Campaigning in full swing for second phase of assembly elections in West Bengal    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVR4R0VHcmtzejBvRkdmazNhLXNYeVRybEFQRHVhOWs5QmdEaVN5WnMwY1BmUHdlRTE5SzRzUC1vYzVuQWYyc2ZQRmthVmFqaVBaRzhXRE1ZakVtRTBxMjZnZnhUS3RMRmg0MlpSZk9YcXFXTWtYdW1WRTZsMTBSU0JUaTBhajUwczR1RWpVRXR6ekxCTXhVSmRQdjI3WlpCR21Vdzd0dU5QU28?oc=5",
+      "date": "2026-08-22T12:53:53+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "944cf3bf12507252",
       "title": "India to end boarding pass stamping at airports for international travellers from September 1 - The Hindu",
       "description": "India to end boarding pass stamping at airports for international travellers from September 1    The Hindu",
@@ -639,6 +639,16 @@
       "date": "2026-08-22T11:19:22+00:00",
       "source": "India Today",
       "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "420709fd44500e4d",
+      "title": "Fintech Growth Potential, AI Integration in Business, and Overcoming Startup Bias in India – India Today - India Today - India Today",
+      "description": "Fintech Growth Potential, AI Integration in Business, and Overcoming Startup Bias in India – India Today - India Today    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMFJjZlVhS29WN3FHMTAydThyQXhzWUVSQW5YVGxqMlBfdk1RNHQyTDRaU29QUmVyM25GcTFueWRUODFETnFUVDgxWnZjNDVEU1lzN3NTaVdsdWN5ZEdCRTlEVEROdDd0OUNEVDhNVGI4NFc4dXVQWnpzMFl3YldiUmw4WkplUWNlbnh3V095WEgzNmFQR0U4WkJGeTJUcWNibVBvbzN3V3VCWXVyTU9nd2RsQnpNUVRrblNkQzJIM2JvQ1MxOElHb2VISUgwMnNZbHF2bk5MSkcyUGVSWnJNWjJDSG15N1dwblRZ0gHwAUFVX3lxTE82SERZd1VocHRwNUg5NFFwSmt1bE8tS1dCdmZ2VnE0Mnd0WHdYNmU2SklJa3ZxZjJ5QlhFMGhmNEowNkRfUElVMkJFNzNxSWE2QkJLT0hVZldLRW82WmNlQjVtdTU4eFZUZHZyN0ZVNndXWTA0cm1LOC1wb2o5bVI4cmRiVGx3anlDYXJtVFFSTGhOZ3Y3SzhkLWJuc01JUjBMZjRPSk9IclprNlpoc294MkM3QnRBME55RTZxRXY3bHlhbXFIWDlRcHRUaWxSMnNJWmxQSlgtcmhXTUp0ZWdfbk5KR0RfT1M5czJBaGdtaQ?oc=5",
+      "date": "2026-08-22T11:19:22+00:00",
+      "source": "India Today",
+      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -802,12 +812,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "0b3505d5e305c2e8",
-      "title": "India news: Gandhi's notes sold for $1.7 million at auction - dw.com",
-      "description": "India news: Gandhi's notes sold for $1.7 million at auction    dw.com",
+      "id": "78437e5a35f43f78",
+      "title": "India news: Gandhi's notes sold for $1.7 million at auction - DW.com",
+      "description": "India news: Gandhi's notes sold for $1.7 million at auction    DW.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVmSFlhZzBNUV9Pby12eVZxMmhKc1c2c3AyV2RjUXh2REdhUktYQ0h6T2F3YWJTN3RSdUZURHVUbXJuYUtfMlZPTTFoUk1mYjBxRFNDMXBYSGdRc0IwY0RWTGtHcEw4QWZiM3VjUFRweGtvZXlnZVlqdHUyY1cxdmwyV1BYTHlpT1E2eU96bWMxaTQ3VDd0ZHNpMXZkdGt6bTA4WmtVWG1fUk9mS3VZ?oc=5",
       "date": "2026-08-22T09:53:05+00:00",
-      "source": "dw.com",
+      "source": "DW.com",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -829,6 +839,16 @@
       "date": "2026-08-22T09:22:32+00:00",
       "source": "News On AIR",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "f125df0e7f149b5a",
+      "title": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence - News On AIR",
+      "description": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2gycW84QVpOVDFiSlJVUGtyUnJ3cUo2dmxadmtEMTNyM2VnWXpqOFl5dkFfZ0E0Wk9TRUFrdDFPa0NwTi1OS1RZLTFDYjdFMkRaTWVGSTE3UzJkY3Z0R0Vra3gwQmROUWR5MVVjYWluLXk0Vnh5VTczbk91Q2pVZ3pzMUM0UDZGTWlkemkydy1yLTZZTU43SUtqbGpFa010cnlvbkVQV3k1MGFPUnVsOXgtNjUtOTltUkpaaGFzN0k3aUlNZ2c?oc=5",
+      "date": "2026-08-22T09:11:03+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -932,6 +952,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "b52d7c1e1444eac0",
+      "title": "Two phase polling in West Bengal to be held on 23rd and 29th of next month - News On AIR",
+      "description": "Two phase polling in West Bengal to be held on 23rd and 29th of next month    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcWpiZlM4SzNNXzNicmNVbEdxZG85VXE4Ukx4Y0VzS2lJRXFhU21XQjhXV1g0S1Y4MmdPNHRzdGx0MmdwVjVWYkFiZi1YQndBb1hPbHdPcFJBanhic2JzS0o2cndFS0lENno1eGpJRTVHc25aZi1uYVhkTDVHUUFiWHFmdG9ra1FpbTVwRm5MdENSbDVTTHVUQ1gxOWRHLWd5TVlPeWJDVUd3MG1HR0ZuMkgwMVlWdjFjZFh5RGZIWDFxbURoZVRheGRXZ3lFZWx0V3hCLU5RNjVjbDJHTlRUWkh3SmhHT21Va3VKVHRYOW56dXpF?oc=5",
+      "date": "2026-08-22T08:21:23+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "b720e33bd9d2fa83",
       "title": "China Outspends India In Space, But New Delhi Holds The Trust Card - NDTV",
       "description": "China Outspends India In Space, But New Delhi Holds The Trust Card    NDTV",
@@ -952,16 +982,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "85ddf3aa1bc7a62d",
-      "title": "Trinamool leader’s brother arrested in West Bengal over alleged ISI link - The Indian Express",
-      "description": "Trinamool leader’s brother arrested in West Bengal over alleged ISI link    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlEzNFBJM1AzNS11RUtsMnJpZU5kc0c3MkQ0YnFGS1VMOG5Ldk14R2Y1eE5GbnUtOWtsSG12U05fRXBMUFMzSlh6ekZSM0dIWFA2bjN4azhURWd5UFE5bDRaN2w3YjY5Um1NOWpsdmZrMi1JdlI0Y3hacDhPWmhZWkxRT2ZOb0hDbmxHLW5McUg4NUN0SVdWa1lIN0E1UnkzN25aVGdQZTRCc3FPZUQ3alQ3R3FIQTVx0gG_AUFVX3lxTFBjMkZFekR2eDJMY2s5LWxmUFdVWVl0NTY3SWhsYWFMaERDelZURy1XTlNkdzFINnVhU3RyMjRpNHlUR3JFZHhnZ3pobV9Lci1oakExbzNWZXN2NG41QVE5ZEtFd1habUIyalZLVXZOWDl4RVZTT0x4U2lWenZpamlaMEJ6WkFpdzZBdHdmenhFWlAyZXdVZGVrYlpTNnhCamo4VTFfWENPc1VzSG5CUXl5UUN5RjVEUE5RaGpMRUFZ?oc=5",
-      "date": "2026-08-22T07:40:14+00:00",
-      "source": "The Indian Express",
-      "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "37e7467be4a40bab",
       "title": "Beyond Gym Software: Indias Fitness Businesses Are Building Their Own White-Label Apps - The Tribune",
       "description": "Beyond Gym Software: Indias Fitness Businesses Are Building Their Own White-Label Apps    The Tribune",
@@ -979,6 +999,16 @@
       "date": "2026-08-22T06:47:17+00:00",
       "source": "Awaz The Voice",
       "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5baef89507aa83fb",
+      "title": "BJP’s Bengal Honeymoon Losing Shine - Frontline Magazine",
+      "description": "BJP’s Bengal Honeymoon Losing Shine    Frontline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVRWbm1qM1pPd3dIUzBhcjVyVGdQUzByYnpDbVJ0SUhoRmQ1NWREMUo5ekFia0x6Rmk2OVZnVUwzVDIwUVdvVUdfbW1WaUwwWGpad2pvdHQxajNWTEl3RnNsdWhDNEtXX01idldEQ1ExZnFWVG96X2tacnU0YTFKYVlNTjhfN1BfSmFSZzFvZ1RpZ2VZMFRiY3RISDFzY3RRN0xfUnB4NmwyZHVZTmN3LVNIcWNZcnBs0gG_AUFVX3lxTE8wQzQ0cmRLMEtHUGZzZUlMNDFSMDg3LTI1cXVWaTVQTHRUNk5HUGZTMl9FeDg2ZktQam55ZHVubFE2Q3pFMDNNaDV5cUxfclVXVVhycHFsR19GWEFnWG8zeEJwZFFDOG1SWG1iX3A1R0dwWnhhbGJJU05fbUVBYldiMHczNXctbzFGOVppckFsTEVUUTdxTEM2SHBQYkdEOVZ6S3VxTFAtMFk1UkxwLUJBWUUxRzA4bTNjSnpfRFhB?oc=5",
+      "date": "2026-08-22T06:34:09+00:00",
+      "source": "Frontline Magazine",
+      "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1062,13 +1092,13 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "5f2f148da4bc1c23",
-      "title": "Khalifa: The Ruler box office day 1: Prithviraj Sukumaran film earns Rs 5.35 crore in India - Storyboard18",
-      "description": "Khalifa: The Ruler box office day 1: Prithviraj Sukumaran film earns Rs 5.35 crore in India    Storyboard18",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzBGQnZOLVRBUERGdlZZeXB3eXRHbm54SEZ3UXVKbEJLb09iVENjYzNYbTJCd0w0U0FUZG1qb3Bob3pyRUNTamRlNmhqRnh1VGVkUEdWZXdQMlNPeV9SN3RGbF9pRkp2UWo0RVFoNmEzb2NZbzhGMENpaC04b1ozOTJpUnoxR2toVkZFcnpDTzRqSXAyaGtSallKaUc2aG9aT0xHb2pET3RvM1dVcWZ4bDhvRWFkWWZyTlZYNGl0ZDhCSG9pczVhZjNyN2thUXBFUmo5d9IB2gFBVV95cUxPU0dJQXZoNHYzSzZxMV9XNzAzNmZyQXNqeU5vS3FoMUd2TTMxVU9JWTNSQ1RlVWdpTm03dlp4emdmUFowYnU2Wmp3QXRROFNpUzZ6SV9vYVM1ZGpZeWZSdlRRRnVoM2ZfTUdCZWlGd0hua1ZPbjdJSjUyY01lOXdhTjYxYzZPV3Jha2g5dFhYZ2FBc1BJSEpjcXJtTm5NT3prYVotZHNSZHZFQzJSbzVTMVhvcVZBbTVycWlIM2pwb2UzRjkyQ2NnZU5Jb1JCRGJFNjkzMGNDMUszQQ?oc=5",
-      "date": "2026-08-22T05:11:01+00:00",
-      "source": "Storyboard18",
-      "category": "Entertainment",
+      "id": "9ef22941a5042c28",
+      "title": "US imposes 50% tariffs on Canada products as talks fail, Carney vows to match them ‘dollar for dollar’ | World News - Hindustan Times",
+      "description": "US imposes 50% tariffs on Canada products as talks fail, Carney vows to match them ‘dollar for dollar’ | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1lydk9GVTJablZWajNIWUhKeVdGWW5OYlNldTFZenc4V0JIM18wcWJYa252NnY2TXA2ZmJYTDBwVzl5ai1VdzNsMzUtbmgzRlJJQmo5RmpocVJ0bjhGeWZBUEtSWWljUVJXbW5va0R2Wm8zb0h0U3lROHlRdXdPTHV5bHZGaEUyNVJrcVVIZkJTQ0hwdlZuZnNVeWhuTFdBd1JBbGtrWk1tMHh0NS1XVU5MMlBnMEc0alo3NkgzdkJ2Zk5QRjFZRy1ZLXI4eVFsWTROaVJCQ3jSAd4BQVVfeXFMTlNVUkFxV3lfZTJkYzh0S1BRd3pyRnBCUjRTUVVPNlZ4Vk5UU1g5RGlNZm83TWs3dzhvNDQ1S3VZM0EzaGlEdUw5R1FLSkdhcUVoVzB2Mzk2Z2J2eHI0aXpOTmo1YmNieFBUZ2Fwc21jRjhZQkVaU0Z2X0FBbDRNQ09NNnNxMkZQZXZGU1FodXg5eVBVRXVEam40andPdXJBZURUTnJRd1ZHMk5HN1BBRUFsZG1oMGhPenVpNUdSbUZPczhTM3VRQ3k4NmFQLUhONTc1aTZKMVRGVFhxdmNn?oc=5",
+      "date": "2026-08-22T04:32:22+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1109,16 +1139,6 @@
       "date": "2026-08-22T04:10:54+00:00",
       "source": "NDTV",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "186a6e3380422bb7",
-      "title": "Amit Shah in Siliguri today to review Chicken's Neck security, Darjeeling solution - India Today",
-      "description": "Amit Shah in Siliguri today to review Chicken's Neck security, Darjeeling solution    India Today",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdkdPUDdZVFJPZS1ZSjMzSDJ2QVhrRGZDMGJheElXWGNhdlJLYUFVSFJzX0JOd09UTDgwMXFlWjhjekhQTXhvMFRvdmlUdVpmUWc1MzIxS3YxWlFlcDlDNUJETURxNkFEQUJRMHZYcXplcGU5WEVDX2d5SjhtaENCMnFBMFdsUjJ3b0NXM2dJLWFrdEdwU0hTWEphTVprTmE5aGdQRXhFbzhNMnZ5OGhrLUZrd2FWcXFqcnV3ekdrRm56OWRKZ29hV25YUmVqX29wbVphMDhuSmVuNWo4dGM2REd1NnpqemtseHRvOFRicEtwTUlGajVTZ0lHQUR0ZlBN0gGGAkFVX3lxTFA3WndRMkh6eThCUWpLQVdQcWROTG5pZDFLcmZwOTNGY01saEo3cnhtRmRjWmVSNzFNVDNNMTBiQW1vYU5hd09iLWVtQ1p6Y1ExNFM4NE01M1B0M3VCUGZQRUZaU1dnbWlrNE1MQTVCM2FnaS1fd2ZaQ1EzV2labjRRaFJpZ0lkRVpsaUJQUksyMnJ1T3VkUG1qcXFVM3IxM3QwbGxJQlh3Rmx0bGYycm5fWXVnUEd2UG1hcjZoLXYtZU5nM0xFZFNkV2lGSVZjaTRPcGphbWdyNVdsZ2c3OU1ULWhmbDJBazQ0NjlaTk5idkx0Z3QybC05WVFpRHNRc1BYa2t1RWc?oc=5",
-      "date": "2026-08-22T03:54:53+00:00",
-      "source": "India Today",
-      "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1178,26 +1198,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFVjZlBMWlRIRlM4d0lJVmJsbjA4TThvOXdlMDJjQ1BCMDFfbktjbTBMZEc0OUNEc2xxWkVmQ0FHQUhKako4VHg3eGNvd1NobkV4YmNjU0ZKb3JXWFZZUjFKU1BDOEpBb0tMSXVCS0kxZzk3bVFkYkoxTDQ5M0JLeFpXV1dtanhVRjdmQkF6NEpEem1rNmJ1bGxVNzVCM2k3MUp1WUI1Uml3R3J4aTRfMVpzS0w1dEZSSVptMVc1c2hZT2s?oc=5",
       "date": "2026-08-22T01:53:28+00:00",
       "source": "News On AIR",
-      "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "525d06592097d05a",
-      "title": "Bengal's new world order, 100 days on | India News - Hindustan Times",
-      "description": "Bengal's new world order, 100 days on | India News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV01jR3QtNkgzdHVLWjdLVmgwUF9hSWxfblpZNGtMU3ZGQy0zNVI0UjFBRFQwc1Nka1A2X3IwR21BanVDekh6QVlwMkdoVkJQQzF3dHU1T1dDRTZYWFBqd2xTOF9Sc1RCLWxlNzRmcDlKRXlETW4zbUlWQml3MFNzTDhoOVlQdnAxMVNnWFZFMXFKQU1EQkotTW9JbDNVRG9lS1dTX0xhSGFGWXp5bEJxRVp0Z0hDMzlPMzQ4SnhPaHBZWjh0YkVQa3JqVWROWFRBekFKcWVCajJFMVJ30gHiAUFVX3lxTE13ZDM5ZkVBVDF1VzVDeEJzQlR3M3FxWDFpTTVuZlhXZWhaSklRRFN1aHZIYm1HUGNmV2U5d19BMk1QWFVzaE5mZTM3aXdtaHJUZkpSVU96WmxJYXVqZWQyb2FrdEJ0QWtoS19lMjZFTzc1cXYxNjJVNlVrdEdlUjhHY2E3eF9uUFBYbHFQWnVaSWduRVVHWERkTUxnTF9GTy04TVhKXzl2RjYzMnJJMHlTcU5mYWFFTkdVSF84Nk5lbGZhRUhyU2lCSlMwS0tpTC1TUmpzRlN5N3lFUzgtN29HS2c?oc=5",
-      "date": "2026-08-22T01:51:04+00:00",
-      "source": "Hindustan Times",
-      "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "f070744929298b38",
-      "title": "BJP wants to stop its Trinamoolisation in Bengal. Why it's easier said than done - India Today",
-      "description": "BJP wants to stop its Trinamoolisation in Bengal. Why it's easier said than done    India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUW1jVUYzVktLWjQwb2VWTVhqOFlvU0FxMFZCQTliLUpLdEhxVTRNNHgwNkNMRWZVSG1OdXBmSHdYdHVoZl9QTUpEeWEtUzlBTFhpSENXY1BSTDNGQ1IwWUxyRE9YTV9jR3Q3Y0lmX1RIOEhCRVVMcFNNNVZHMUlFclh1Z0hBajdkblhGaHFDcDZlbFBsdEZ2eEdpOWItbWo2RURnNzF3UXNIWHVSZnVyREc1NjVzeGVGWmVLOTA3VFlQUjN4UzNiVnZvLUE3cWRJVUtvVzRaa0VRVVhjWHEzN1J1MUk4QdIB6wFBVV95cUxNRnI3RUZra0ZjXzJJTzdXOXBMcVhWMjlVY2pCT2xQSG1WLWt2N0VtQkJ5QnhBbU5mZkpqem9WWmhTRjlPeG91UDVJeVUyOGxidmNoUWxRME1fQnAxcUdqU0Nnem9zekhsQkRoLTQ0QS0xUE5OOEwtZUF1elYwV1dGMmtLUWZlOFRKa3psazlrMTNhLTg5aEplVHAySTVrNXl2RUdlZ2hEWFdfOTZfbWRNUFFfUXRpSlJ2SEVMYlFJMHlja0VGWHVPZVJDMFo1ZDdFR0Q4dmttVlRJbWJaWjh3VXNZVlN1djk1YUNB?oc=5",
-      "date": "2026-08-22T01:30:00+00:00",
-      "source": "India Today",
       "category": "Bengal",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     }
