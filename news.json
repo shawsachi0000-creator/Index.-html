@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-23T18:28:16.668269+00:00",
+  "updated_at": "2026-08-23T18:58:36.152404+00:00",
   "items": [
+    {
+      "id": "0912a27b7bf2cf18",
+      "title": "News at a glance - MillenniumPost",
+      "description": "News at a glance    MillenniumPost",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbm9hdm9IWlVmSmtfVTRrdG93bVItLW9pazNFT25ZZm5NaWc4UjRianNUMzdFT0FQUlZiYUFHZXE1c0NSZDZBaldwUkZDaTZYYmZEWUdDUlkwTk9VQ1QyeTQyOEtWVXhuUjQ00gFwQVVfeXFMTl9vdFZsa1JUdncwQVJER0o0Z0R3OGlmQU1uMlFZa282VUk0R241RzlnZ2xfVmQyMVpGYzg3elMtZmdOdC1TZURYT2NUb0JCTEpqRDRTc25QRmVoQy1ZeXNWT3Jka3BNbG5uSjRpQ0ZfMw?oc=5",
+      "date": "2026-08-23T18:47:58+00:00",
+      "source": "MillenniumPost",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "c7fd07c9bb6fc504",
+      "title": "CJP Warns Of Fresh Protests, To Decide Strategy In Monday Meeting - NDTV",
+      "description": "CJP Warns Of Fresh Protests, To Decide Strategy In Monday Meeting    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWHdoc0dkS2w1MWlQcUVQa3o5VkVOcWRXZzBTVUsza1c3eVlxcE1faGdiUGx5VHoycGM0blB6WmlwZ1NCdWtwRDZKWDJPZk9pdnZiTFVGcnFwZkttMTRaeTVOd253M0wwTXByZHFnaE5ZMks5Y2pwWmt6dzg5M1A0dGFPVDlNandDcFhFekZxaE01bGVuY0NfOURoTG9xQ2cyUVM4bTBxNFHSAbABQVVfeXFMTXNHWDA0R0VDVWVEN2ZPMThUUEp1ekgtTjJydU5BM3d1WE5HR3B3Y2VaTHRWdG9mTkhGVHVGWU4wYk5TZE5XYmJLVTlwb1pPV1NoY2pOdUZwUlZTT2drdkZCNXBQSHJiY1o0dUNxZnA2Y1B5bVE3a29zU2RrMnpIcWhrTlZET0w1b3prWDhYR0tHVFp4MEdLQ2QwZEk0RXZ2MnBYZE90eDZRNzZ3aGc4MXc?oc=5",
+      "date": "2026-08-23T18:07:49+00:00",
+      "source": "NDTV",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
     {
       "id": "475355079e14d08f",
       "title": "‘I’m pro-India and humanity’: Rajkumar Santoshi on ‘Batwara 1947’ backlash - MillenniumPost",
@@ -9,16 +29,6 @@
       "date": "2026-08-23T18:04:45+00:00",
       "source": "MillenniumPost",
       "category": "Entertainment",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "f9f3fa8bd7c42341",
-      "title": "Amit Shah to attend national security strategies conference in Delhi - The Times of India",
-      "description": "Amit Shah to attend national security strategies conference in Delhi    The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2gxNm10SWY0NTNCMnpfSmNpR25pVkQyQXNEMG1RYU5oMkMtRXpFTXNiWUsyUEtXcW1iXzVqZzBrcWxpbm9iUGI5VW90cVR5WXVmMU9TcXhGNXRKTHJnbU5EOWVmTThpTWw5SXltMHM1VHdfSXcxMkZMMTdNeV84M1FSMW1yMWI3X09QdWU3b0R3aUhwVHdVaWxUZi0yNi1nSUdiV2FxNHpZNFVuUzhNNVlOeGZEZmFIc3BOeXVzQnRJY2VmYWs3YkxDWXhZVjZxOVHSAdcBQVVfeXFMUHIzVXAtYS1oQnBlMm5LY0E3d3dibjNRcnlHQzgwNElvZGFfNS0zcFJaeGQtVHBrem10YlFkQ0UyXzMzTWdSVlNOaEZWME1XQnJBbmdXNlhBel9DbmdFWHBubExIMzU1ekhJclJCLUpmb05Ub01oUHN1aW9XU2phd0c5YUdSQzJsdnhRQkl6Zk1kdGctdzZtd0VudjdQcVF1M0djSHlhX2E3OExnb0J1ODQtS3otYWNLQW1IZEJMZDRwYy1Wb2JQTXRJeF9YWWx3ZXFRNDdvaUU?oc=5",
-      "date": "2026-08-23T17:57:00+00:00",
-      "source": "The Times of India",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -62,12 +72,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "644238f62073422a",
-      "title": "Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report - NDTV",
-      "description": "Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report    NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobdIBqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobQ?oc=5",
-      "date": "2026-08-23T17:04:16+00:00",
-      "source": "NDTV",
+      "id": "c976c5649c24bffb",
+      "title": "AI creates more jobs than it cuts in India, but freshers are losing out, says report - livemint.com",
+      "description": "AI creates more jobs than it cuts in India, but freshers are losing out, says report    livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWQ2RWFDbFEwNjdOVm9NODB5Vkc1cnl3eU1lU203eHlrdjJObi0zUGtHY1lqQWtuV2hjejl1QktoY3p6VXBqM05za3VwbTJ1aUNxY2F0b1JvNEd3TEt3dGFqWE9abUNzZmoyNjFaRHhCYTNOMXA4VkJFRmV0d2hHUUl5cFJXT3Nta2tJYUF5WGRTZ1Y5SEt0dExRVHl5LXVGZ3hHc3FMUHRxdlM5WDNrX3VlUjdzMjM2eElnQUxGMHcwX1doODc1QTNjem45UXRFejNqdUVoZ0lBQdIB3wFBVV95cUxNc2wzRlYzV3YtbGRUY0dhcXR4MWpnNXVsMDhlY0VQeS1hMXh2TW12RXNvNmxVYnpGNnlhZ2RxZTZnMU12ZWlTMDctbnVnQUZ4OUxkazBNaWUtS2hJQzN2cmJoTHdHNVF1RHdPWjlSbVB0WFpfcTl1dTFYM2diNFVmdFRmNEFVYjVTSTlsbWMzUDM1TTRTZDZhYWhMczhrX3VmYllpQlprdHZZMlpidlhSNEExUTZWZ2h3Y0tUV1BGUXdEOHpJRWpITHZGcl9KSUhxQXhBUkhRdkt3Q3VISVFF?oc=5",
+      "date": "2026-08-23T17:22:40+00:00",
+      "source": "livemint.com",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -89,16 +99,6 @@
       "date": "2026-08-23T16:52:27+00:00",
       "source": "Hindustan Times",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "7a8027316aee0977",
-      "title": "Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties | India News - Hindustan Times",
-      "description": "Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties | India News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOd2YwWkF6NDdpa0pndmZWaHkwOFB1Z2xXTHVpajVWcWpQa0tnVDVGcTFvNnhVdzF5cUZHN0NjS29TVEZPeVgycFAzNmFGVjAtaHh0bjZCQjVjZkdsTW9xT1h2QW5QTWp6UUtlSmVRRE9VWk9jT3VUS2YxNUVQcTZoRTBiUFdwajUxazhlcXUwanpnSTg1a1E3SFcydTRNS2ZMZXE3VEN3ajBLSW9TMU9wZlJYS0I1dmZzSVVPdnJBODBUcDFxSVZLZDlPMUY3bW9vMDMweXUzWDNROFp5MGptYVlMUmFCSGppZzRyUWx2YzEyWWZVUHYyREJEQzlVbHY5c1d5ZGNEWnY5d9IBjwJBVV95cUxNOEQza19jb3FQazVMSS1BLTZfOHBVazlvX0E4aVhySmxVam1PdE1xMjFrWkN5MkxuX0hWbjhYZjNXa1dNVF9VR3BxdDdyN1FiSGw5cGg2eHhTYWlXZjRlV1RlY005VE1JYW53MzdmZldkeV9QUXFpRjY1OGtNODRadzEtZ0wwNWlXcHJYQnFUeGljOXlpZzI3eUJoOXI4T2N0cFBTUllLQzBPZnlfeVhONUdaX0ZVMURwZVVSZ1AzZ0Y0bzdETUhYWjBzRHRhT2RfZVpfcXdaSEN1dkJQd2dwd2J6TGpveHJDYThmdkR6cW15UzBTSld4QlVFVmZHTjlEdTN0MGRsdkpvY0xlTzJZ?oc=5",
-      "date": "2026-08-23T16:48:54+00:00",
-      "source": "Hindustan Times",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -152,6 +152,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "3c147fccd1bc8f1c",
+      "title": "World News Today Live Updates: Pakistan army chief Asim Munir to visit Tehran on Monday, Iran says - The Indian Express",
+      "description": "World News Today Live Updates: Pakistan army chief Asim Munir to visit Tehran on Monday, Iran says    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDdRZHVaYk9LVXFxXzVhTUdNYUxVX2RNNVd6N25HRHp1aHVBRzROY1ZzR1dGZ0ZqUW5lbTBzQk1LMjg4VjVFZzNrYVhINXdaSVEyMGdXemRTQnpGc3hoaVFkTW1ncFV2THdkeU5IZXFET2VpQW80eWpERmR3MUNlOG9nNVQwWW92cWJSS2hFRkl1cXNmY2JaaDZmRFJ6VFR4bGktTzBib2U3amRhNDNXV3ZXSkgwUjkwVkpjbzdYTWdCZzdMdFExNWwxcGhmZmFXdXl30gHaAUFVX3lxTE02dEcxem91dDcxM2ZDdVQtcUx2OXlqcDZNeEJZdUJyVXc0bmlCeUVZaS1oMmpKeEVtUW5QeFhPdjQwOTNjSkswYnAyVzVZSUNKNG9Qbnk3Ui1WLXBBTEhfMnBqazJCQmp4MG51R3M2bHRVRG91ckk2bFpLRnRPME5RZ0xxRTQwV2pRUlljSjNxNkNmZGt1Z29ZNmtjbFBlTS05ZUlkS2tBcTFtNl92MzdCcU9VQkQyT1BOOS1RU21kOFpxLU0yclliRXM3NlVqSGdqUWpnQkFrb0NR?oc=5",
+      "date": "2026-08-23T16:08:11+00:00",
+      "source": "The Indian Express",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "c7f06277de8145f5",
       "title": "Badminton: India Open to move to Guwahati in 2028, Delhi to host 2027 and 2029 - India Today",
       "description": "Badminton: India Open to move to Guwahati in 2028, Delhi to host 2027 and 2029    India Today",
@@ -162,16 +172,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ecade6082c02c386",
-      "title": "Pakistan Rebuilds Jaish Headquarters Destroyed During Operation Sindoor - NDTV",
-      "description": "Pakistan Rebuilds Jaish Headquarters Destroyed During Operation Sindoor    NDTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeS15RWZpVVZIZnB4TER6d1VQWVVIS3Q3VG5UNGZtRENDckpLejc2MFMxMnluOEpSX0dXWHJTVVNjSml2dk9ROU1mSTV2Mm1TNWlpbzdHcWR5N29HMDd0czZEUWdmUF9IV19xcEZTVjd1Q2dJOFYxZEFHYnpDY3ZBaW9LRkF2LTVKMzM0WUpSSGR4dERvZzRibUJYeGpSZzZ5TmdsYVBjSGJiS1plZUttV3ZR0gG6AUFVX3lxTE1UTzZCX3hSYnVnNXZmbHk2aXZoVllXaHpfRFRmckZheDBUUllZTWFjSkNXWHdLd2dyU2F4WmwwS0xtaWlVOTVFc3RQR3dvSElneE85OWNqQmFUVVh2c0lFdldjVER6VzNVaS15cGp0MzFYak5QcVJndDVCeTlZOTE1R0J6RW9XTzVhVVptZFFKS0NGQW9EZElPOWRnR3RPNklzSnphQjVlR3BzSEVLczNZcXVUQmJoR1gxdw?oc=5",
-      "date": "2026-08-23T16:02:59+00:00",
-      "source": "NDTV",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "fc2142e475186050",
       "title": "East Bengal win record-equalling 17th Durand Cup with thumping victory over Mohun Bagan - ANI News",
       "description": "East Bengal win record-equalling 17th Durand Cup with thumping victory over Mohun Bagan    ANI News",
@@ -179,6 +179,16 @@
       "date": "2026-08-23T15:52:00+00:00",
       "source": "ANI News",
       "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "5dfa629e7f0a1d50",
+      "title": "After Operation Sindoor visa hurdle, 150 Pakistani brides reach India - The Tribune",
+      "description": "After Operation Sindoor visa hurdle, 150 Pakistani brides reach India    The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnROd01JVjQ0OG8yYWxEVjBtUG1QdzBZQlNLeV9nSERPMEFwRDZCckF5elNnc1dhU3ZqaXZualAtUVg1cDczUlBhcWltVGQzNlJRbVlxb2VwYXRJNmtoYW41V3VCOGpsOFZQT19rQXBVY0lhY1VQeGhOSV9mRTJsYlItOGRYSkl3cmF2c0NURC1ERG5BbTBKNi04OUhER0Y1c3NldWt1dFF4Wm9VWklN0gGzAUFVX3lxTFBWcjVkOG1vVEItVmM2YjVuQ2txQk1jRXRYWDNKX2NiNW5EbUo3NWRnckxXSkZzTWRLdUl4Z0pMd3BINU5yVW8tT1RST1Bza1BkSUZkY0lITDR4R3FPS2IwVWlQd05YbDhraDRhMWhFWXRYY3Fia2p5OWd0RWZnaEhEM3NvTG5sbVpDT1lacThpTjhLcW5zWlZ0dGpuYm5iV1A0eklDVWxNandMM0RORzdqTU04?oc=5",
+      "date": "2026-08-23T15:39:10+00:00",
+      "source": "The Tribune",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -229,6 +239,16 @@
       "date": "2026-08-23T14:51:10+00:00",
       "source": "worldathletics.org",
       "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "ffd5dfd9746e257b",
+      "title": "‘Represented India In 3 Nations’: Former Envoy Flags ‘Trouble Establishing Citizenship’ During SIR - The Times of India",
+      "description": "‘Represented India In 3 Nations’: Former Envoy Flags ‘Trouble Establishing Citizenship’ During SIR    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNkQyTEdxMHFpYTUyeF9acGVjemozanJTRW5CRHNMWlNnZXRtT1YxdERJV21XR1FKTjZiRHBiTGFLQndydVJUbm9pMlZQT0xNVnpMYVlNWmZVLTlMYW9XY01hajN2Nl81TzNEVmRiN1ZfUHUyTnVNWHRyaVRtNDNVaEZDbnpBY1lKWEtUSFhDaGJUUTUyQWNmU05IUkdVM2xoaEJBeFVHVEFwdEk5S0ZwV0xRdWZJV2pJNExUX2hUNEFMLVdaMjdDSmdUX25hMThvZmRpcWpwZXFFNVgwZUtGNm1yTHJJMG95ZENSSnlza2MyN2NPYkNSd9IB_gFBVV95cUxNSXdqMjN2UW1LQnBfcnVFQmRhR0U2a3lsS3Y4V1lMMHViYkdGZ3VhUUU3LVZUMTBqTEVsRzJlQmFBRVdsNUFDVlJ1aVhSbjA0TnFWYmNSYUxPNW1sTVJqVlNJbjdnRW5EbGEwNzhOY0dVSXhORmFiZU1MbmdRZnVuWGdBcUFReVlLM2s4NUs0WVhOVmU3eXJpNkF6bEFnbEp0dGJ4bmtqRGxsdEV0NF9LZ3hxdjlCanlvWEd1eE5vaHZIcjhGOWRaM01pMHhSWFVLaU0wQ1FSUEQyMW5ETUpXRjJ4MER3SDB5YWt6Ykw3ell3UlZQWi13UHlSOVBxQQ?oc=5",
+      "date": "2026-08-23T14:47:52+00:00",
+      "source": "The Times of India",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -302,16 +322,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "81c0de8223fa3a70",
-      "title": "Creating global intellectual property - financialexpress.com",
-      "description": "Creating global intellectual property    financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjVUWWhya3JMWEljMmZsMG1fYmNWVGtJTmxoZmk1bEVsSlZpdlNmRXRNXzVuNWNDelpoUXktblg1a1FNT1lPMXhNTThfRHlyWkNFei1lU3dvR05URXd0RkQ5Q2Nra2Y5ZmctNTVKbjlvUzh6Y09fRFhHbmdlZE15WmQzLVAySUhWRU5TRm1yWHRsaUF2S0NOUEgyWdIBogFBVV95cUxOSXU2NndVX0g1OXNVU3lXeTRrVUw5U2V2a0k4bnhwN0p3cEV6d3RYWXFjTDkyRi1Db0plRnFnZi0yaGxzanlLbXJMZ0pvN2hVQk9UTHJJY2c0NklvNTlsdEtiajVDODRRVGdXSEUwdjUxUXo0UW9ZZWpuTGlSdEU3VzN3ZHVZeHl2ZjczeS05dXEyaS03VW4waXBfZ0ZiMzczUWc?oc=5",
-      "date": "2026-08-23T13:45:07+00:00",
-      "source": "financialexpress.com",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "d75021219216cc5a",
       "title": "Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times",
       "description": "Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News    Hindustan Times",
@@ -329,6 +339,16 @@
       "date": "2026-08-23T13:40:00+00:00",
       "source": "ANI News",
       "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "7c94cb78c2f4e1d4",
+      "title": "‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News - Hindustan Times",
+      "description": "‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNV9pVXNjSFJXMlJRUE5Pd0RfZEx0Q1dwMWUtQVY1VkZ2bmhXS2RWdF95RXVOTno1RmVyclJIQmdlSUhZUUZlcUpTczcwOExHcHRzSDkxLXhSVF9mVk9CakNJNFJ3QUxSMF9mMUt0N2szLTBxUUZLS3VpcDBSYldpeURubUZ6Q3hncGNheWhhU2ZqM1pxZTMtbUtqWVB5VkplWlVwN2xDa3pnVkNOU0JsU0EyV1ItRWxiYXpwZWJYdHdHaEN6d3NvUGs2bWNzU3R0dlVxTm8zb255d1Q3ZzRjVjMyODM2TFpiWF9YT2t4VG9Qb1kwOWQzZ9IB_gFBVV95cUxQdTFyRUR2TjNnU1FpNUpocldXSDcwajFDWVdrYXk5NVFCanZ1dFR0U3JpcE5NcGhzQ2ZEWGJldW9mTzVMSUg1SjZsWXEzNGtqdWkzeUxCMGRzVTJ6QXNJbHd2MkUtRnVDQmtUNHZEdFR3bG5EaVh2YkdPeTAybVNFbkVDTE1RajBXcFRXMkFsZWRJTy1aWVByNmpWclI0dEZicGdRRzNNcWpCQ3NoTUFkM0g5MGxjNzVTQ0lDbHpad1JBR3RIUzVYU01qXzExSGgtSkZJb25iXzN6NjN2cEwzTjRTb1lmYV9lN3UzLVFhSmJka1pUU2pNQktUUnpxUQ?oc=5",
+      "date": "2026-08-23T13:33:19+00:00",
+      "source": "Hindustan Times",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -452,16 +472,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "3c147fccd1bc8f1c",
-      "title": "World News Today Live Updates: Pakistan army chief Asim Munir to visit Tehran on Monday, Iran says - The Indian Express",
-      "description": "World News Today Live Updates: Pakistan army chief Asim Munir to visit Tehran on Monday, Iran says    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDdRZHVaYk9LVXFxXzVhTUdNYUxVX2RNNVd6N25HRHp1aHVBRzROY1ZzR1dGZ0ZqUW5lbTBzQk1LMjg4VjVFZzNrYVhINXdaSVEyMGdXemRTQnpGc3hoaVFkTW1ncFV2THdkeU5IZXFET2VpQW80eWpERmR3MUNlOG9nNVQwWW92cWJSS2hFRkl1cXNmY2JaaDZmRFJ6VFR4bGktTzBib2U3amRhNDNXV3ZXSkgwUjkwVkpjbzdYTWdCZzdMdFExNWwxcGhmZmFXdXl30gHaAUFVX3lxTE02dEcxem91dDcxM2ZDdVQtcUx2OXlqcDZNeEJZdUJyVXc0bmlCeUVZaS1oMmpKeEVtUW5QeFhPdjQwOTNjSkswYnAyVzVZSUNKNG9Qbnk3Ui1WLXBBTEhfMnBqazJCQmp4MG51R3M2bHRVRG91ckk2bFpLRnRPME5RZ0xxRTQwV2pRUlljSjNxNkNmZGt1Z29ZNmtjbFBlTS05ZUlkS2tBcTFtNl92MzdCcU9VQkQyT1BOOS1RU21kOFpxLU0yclliRXM3NlVqSGdqUWpnQkFrb0NR?oc=5",
-      "date": "2026-08-23T12:30:01+00:00",
-      "source": "The Indian Express",
-      "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "05350b564b960a8c",
       "title": "Indian national shot dead by unidentified man in New York City - The Hindu",
       "description": "Indian national shot dead by unidentified man in New York City    The Hindu",
@@ -469,16 +479,6 @@
       "date": "2026-08-23T12:14:03+00:00",
       "source": "The Hindu",
       "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "a3128a3d35f2e9b7",
-      "title": "Jaish's Bahawalpur base in Pakistan rebuilt 15 months after Operation Sindoor strikes: Report | World News - Hindustan Times",
-      "description": "Jaish's Bahawalpur base in Pakistan rebuilt 15 months after Operation Sindoor strikes: Report | World News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYUFyMlBTdUxrWlQ0NXRiQWt6MVFKdnlISEhhSWVKVXk5TVRyUTB2Y3V1Qkhhcjh0RU0tNUZsanhKS21OY1EzclgzdnVMYWVzbVp3WHhyQWM3RGJCemM2bjM3U0d2NG50cjl3YUpIOXhZeWx5TXo3TWh4VERhUURXLVp4Q1Mybjc1eTJLV1pScjdRcXU0RUR4clFSTThYSENMeG1zRzdGZ04zRlNURmh0U3YtQ0dtSDliQ0NiOWdGQVF5TWlTNXdKcXIzcC1TM2N5Z2MyV0lmV2lLVGd1Wkl5NlZRRFA0RUpqM0NlYW5sc1gwazlUTVpIRFF1UFBWVDZpa0HSAYcCQVVfeXFMT0x6al8tMDJlbUlhTEpOcVhWVi1MNmZHeC1RcUhacFQtdHRjUGRSOVRSazdRWUN2SGpBdVRoN0VJM2NaUU13ZWtpTzRtdDNjZWF5bGswTmZaS25sV2dJMXQwNDdvYkZ6UDhzTlRXcm9fTDJCYWJJOWlvdHgzUElkel9NeFBkNHB3cmo3dHhDZEJjbmQxdHJmLWFuUmRkcGZJQzd2bTdNMVJURVk2N2lQY012anVtMW1nTm1BOUt4SG9lRFVMR2NyZlJiV1BGNlQ3Sm44eWYwOHBreGhIWG9MN3pkQU5ZTm5rN3AyY09BRlhrTGpHSVFzMXEtNEJReXcxQ1pOSENlYTQ?oc=5",
-      "date": "2026-08-23T12:11:12+00:00",
-      "source": "Hindustan Times",
-      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -499,6 +499,16 @@
       "date": "2026-08-23T11:57:00+00:00",
       "source": "NDTV",
       "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "c725ca7369d0e986",
+      "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "description": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "date": "2026-08-23T11:52:18+00:00",
+      "source": "News On AIR",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -529,6 +539,16 @@
       "date": "2026-08-23T11:48:18+00:00",
       "source": "News On AIR",
       "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "696696c7422a5411",
+      "title": "'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV",
+      "description": "'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5",
+      "date": "2026-08-23T11:47:53+00:00",
+      "source": "NDTV",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -599,16 +619,6 @@
       "date": "2026-08-23T11:33:12+00:00",
       "source": "Swarajya",
       "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "7e50567c980c200b",
-      "title": "NSDC, Cultus Education partner with AWS to train 1.6 lakh youth in cloud and AI skills - indiagazette.com",
-      "description": "NSDC, Cultus Education partner with AWS to train 1.6 lakh youth in cloud and AI skills    indiagazette.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelBMaGFxbmtnblJ1QUFuYmRyaTdWN0FYOXFyOUdPZWNvb3RhbG1IRTU2Z2laUWFxUHhIQWVzY0g1NjdwdHJ5SUNPNFZ3b1A4MUV4eGZjQW1FcEpBcWdmaG9iYjNhbmlaVnNlMUJFRU13bXNrdTdVTkxmbFlHN3dhWEw2R3FrR2N1YXJYbjlxelNtZ0dycEl0ZXVxWmYtNklyVF9ud2Z0a3JTM0Q1bS1USTdsZ2p6TzlaQmxBM052NkFQSEpHaUs4?oc=5",
-      "date": "2026-08-23T11:30:00+00:00",
-      "source": "indiagazette.com",
-      "category": "Education",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -772,6 +782,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "aa06477ca5cf6ee2",
+      "title": "Explainer: What will actually change for you under UCC - The Times of India",
+      "description": "Explainer: What will actually change for you under UCC    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFpZZGNnZU93VnJGS0k0djRkQm4yUlYydS1JbktlVlFwd2ZZZFhYMzVzTHVtVzdNVjgzeU14R0tqYUxrMk8wZGdNSTZvVm0xME9pMzF2RkZIY1NocnhCRERfLTAwQWZ1QjkxR2FXcGFvY01OQUxBYm9HNkE5ZW9WaGRUY0Z4dFlQLWJtR3lsMzQ5S2dUbHp1WXcwTFowdnV4aUdMN1RDLXNkSF9FTVBSWTdrbVZvS0xYTV8zQUtn?oc=5",
+      "date": "2026-08-23T09:27:00+00:00",
+      "source": "The Times of India",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "b184c050345d61d0",
       "title": "From the Thin Plate to the Learning State: Can Education Transform India? - Countercurrents",
       "description": "From the Thin Plate to the Learning State: Can Education Transform India?    Countercurrents",
@@ -819,6 +839,16 @@
       "date": "2026-08-23T09:00:00+00:00",
       "source": "indiagazette.com",
       "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "77aebc6335128e84",
+      "title": "'Space, AI, other tech integration to shape India's geopolitical future' - Business Standard",
+      "description": "'Space, AI, other tech integration to shape India's geopolitical future'    Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHdKMzgwY08zRlp5a25MRVlMdXVVemp2NGt1VWlKeGZxeG5CdVRhUnFMZWhkTkZaZXRZQ05CbnJVRi1IMUFMeTVDWHdLb1dIZDllRUxGUFN6Vk05b3BSY2tfYU5FLWgxaVBsaFFObEh2cWtYdDJGLU5Uc3hLc0hQLWVGY18tTmRZOEJ2Nk96TXl1V3Q5SkVJaU1hZmpWbGpRc1NBZjRKMVF4bW5vWHdDdEtpZTg3eGp2d3UwdWl6T09YSUQ2QkdIb3BFZXlvQdIB0wFBVV95cUxPajkwd1FaMWdwS05JY2Y0d3h2bW1rNk12TUR2Z3pWN1F1N3pnSzFFLTA0QmEyWkVTX2tnemtyVlE1R0NLS3dMakt0WlRKbnlSUW45Mklpd0hjVnJlZjE1d05SOGo4ckNvaF9mdXVyMEUtMHdqVi1lQ2pYVWRHaFIxck5xdjJSS0I1RVVXbi1NWVFZQ1pfbU5tRU4tZHEyQmRSU2xjWVR4VjRYbXpRSlhfcHVBaHN0aGVvcDNhTzdQYjZKN3ljZkpfaktqOFdZTW5wR3Nj?oc=5",
+      "date": "2026-08-23T08:59:18+00:00",
+      "source": "Business Standard",
+      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -962,16 +992,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "32819f6f7e173885",
-      "title": "PM Modi Meets Space Startups As India Targets $44B Space Economy Boom – India Today - India Today - India Today",
-      "description": "PM Modi Meets Space Startups As India Targets $44B Space Economy Boom – India Today - India Today    India Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1cwT3dTLUctSzJWaHppcE1oQ2s3LURvOTRiWERBaTlHUGNEMjJocWstMUdCNXluV2hUNWNmeDVLV2RMZGc2MUJOTVlwXzJkVmt6ZDduTlVfalpjR3JkalVHSEg1NWx5THpKdjJDaEVYajZHdUJZNXR2ajY1ZUo2bDNiYjRDUllVdWdGXzhZUTZZdHdKMEpvMWRvM3E0eFNWRUNSSmFXTkVzTjZTdlRTRUthQ19jTWZPTjVTM0IyRmNfZmhySFFSRDdLUFdwd1Q1dno3Z3ZR0gHWAUFVX3lxTE9LVzBPd1MtRy1LMlZoemlwTWhDazctRG85NGJYREFpOUdQY0QyMmhxay0xR0I1eW5XaFQ1Y2Z4NUtXZExkZzYxQk5NWXBfMmRWa3pkN25OVV9qWmNHcmRqVUdISDU1bHlMekp2MkNoRVhqNkd1Qlk1dHZqNjVlSjZsM2JiNENSWVV1Z0ZfOFlRNll0d0owSm8xZG8zcTR4U1ZFQ1JKYVdORXNONlN2VFNFS2FDX2NNZk9ONVMzQjJGY19maHJIUVJEN0tQV3B3VDV2ejdndlE?oc=5",
-      "date": "2026-08-23T06:33:58+00:00",
-      "source": "India Today",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "7748013b3045c817",
       "title": "Indian athletics team for Asian Games 2026 - olympics.com",
       "description": "Indian athletics team for Asian Games 2026    olympics.com",
@@ -999,16 +1019,6 @@
       "date": "2026-08-23T06:08:38+00:00",
       "source": "The New Indian Express",
       "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "64a672ba1e5c9af6",
-      "title": "PM extends greetings on National Space Day - PM India",
-      "description": "PM extends greetings on National Space Day    PM India",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXZZOXhvVk5JQ3RYLVc5YjNTR0NwaHQ2eVpENXJOWVVtRi12RzczY0VOYjlQNVJ1X1A4X3hHU3RCM084aEU5RnRHWFUxU1dfV2xkMFhfSTEtd1JmWWdTSTVGbnpqdERzUGsxV1pWMXJ0OC1PVHd5RWpzVF9SMzN4R0l1RnFjVFBRZUxpTkZaaWxtVGdKMlNSWVRVTnVqblNEVEJjeA?oc=5",
-      "date": "2026-08-23T06:03:44+00:00",
-      "source": "PM India",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1049,6 +1059,16 @@
       "date": "2026-08-23T04:00:28+00:00",
       "source": "Asianet Newsable",
       "category": "Education",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "becc0b2de54911f0",
+      "title": "India: Gandhi criticizes Modi over remark on girls' language - DW",
+      "description": "India: Gandhi criticizes Modi over remark on girls' language    DW",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXNFUmJFTkEyVUJITGhmRHAydUhsWDdhYVphQkZuWGE0WjNiOXc2WEpWOGZaZzFYanAydG5raXRfMlRPM3BlR3RrYmZiZF9YZldwVTViSXNON19nSVdkbmRKN1c1cEl2MUhNX0t4VmE4RktmcmxXRExnM2plR2JmUVNoM0txX2ZnbFlzdi15NVluTnlrQ253NVc3X1RnRjg5N2F2Tmt6SFUwNFNjM1ZfZzljRjBES2RjYk9tQw?oc=5",
+      "date": "2026-08-23T03:49:06+00:00",
+      "source": "DW",
+      "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1099,16 +1119,6 @@
       "date": "2026-08-23T02:23:35+00:00",
       "source": "NDTV",
       "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "becc0b2de54911f0",
-      "title": "India: Gandhi criticizes Modi over remark on girls' language - DW",
-      "description": "India: Gandhi criticizes Modi over remark on girls' language    DW",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXNFUmJFTkEyVUJITGhmRHAydUhsWDdhYVphQkZuWGE0WjNiOXc2WEpWOGZaZzFYanAydG5raXRfMlRPM3BlR3RrYmZiZF9YZldwVTViSXNON19nSVdkbmRKN1c1cEl2MUhNX0t4VmE4RktmcmxXRExnM2plR2JmUVNoM0txX2ZnbFlzdi15NVluTnlrQ253NVc3X1RnRjg5N2F2Tmt6SFUwNFNjM1ZfZzljRjBES2RjYk9tQw?oc=5",
-      "date": "2026-08-23T02:22:12+00:00",
-      "source": "DW",
-      "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1189,16 +1199,6 @@
       "date": "2026-08-22T21:18:43+00:00",
       "source": "News On AIR",
       "category": "Politics",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "1dbf23492fbb9641",
-      "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-      "description": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
-      "date": "2026-08-22T20:29:37+00:00",
-      "source": "News On AIR",
-      "category": "Entertainment",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     }
   ]
