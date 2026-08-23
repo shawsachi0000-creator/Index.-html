@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:45:11.679884+00:00",
+  "updated_at": "2026-08-23T00:00:09.749595+00:00",
   "items": [
     {
       "id": "a21aba67e181c89b",
@@ -282,16 +282,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "2cc6dc57a1c34dd0",
-      "title": "World News Today Live Updates: 2 US tanker aircraft leave Bulgaria a month after deployment upset Iran - The Indian Express",
-      "description": "World News Today Live Updates: 2 US tanker aircraft leave Bulgaria a month after deployment upset Iran    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnNnd1ZrbXY0TnVISXEtb21QNTJ4aFpqUTBiLWJ1VjlaUm5YRUNieDFCWjl3M1FtSmFIQkNOZEI4RGxuaDB3aXRpWDNUSnN1ZlRpYkpiZnRYOFlleVgxZXVTdUZScTA3OXR6emNCbDR3bUdiYkd0MXpicVRpWnJld2RjSk1UQTFSb2xoVF8tTk1DeWNSLTVYUm02bFpnNE9yeUtQZzIyWC14VVpCeFQwcEpwcUl4ZUpLQ0tDUjNtSXE1VEhkd3Y2WFdn0gHQAUFVX3lxTFA4SEVVU2NBd0NCdHliMkVfYVZFbUMtNU9EOWVtNXhEc0RieU9RVXNkWThuTERnTU9hMU5tRFVaWFBuM0otVTJmbmFoMG5GYXdnZDNob0NNYURrT3BwRFp1eDhRSUp6SWhyNmhqX19KbnFtakF1UGdIVVJ2M2oxRjRPcUNaOTRILTJZODNkSVBmNHNEWmtBU0pPUm52SXo1V1pmbXVoV1dwZk5iY3poMllwYWNzeDdDbmpoaDdoV2haVGJkcXNPVjR2MzdaVFUxMGs?oc=5",
-      "date": "2026-08-22T16:58:06+00:00",
-      "source": "The Indian Express",
-      "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "fcc787ff426cad05",
       "title": "Bangladesh PM Tarique Rahman India Visit | Presidential Ceremony Cancelled - Kanak News Odisha",
       "description": "Bangladesh PM Tarique Rahman India Visit | Presidential Ceremony Cancelled    Kanak News Odisha",
@@ -359,6 +349,16 @@
       "date": "2026-08-22T16:20:02+00:00",
       "source": "BusinessLine",
       "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "a553419d271c3198",
+      "title": "New book topstitches a Savile Row master tailor’s Indian heritage - The Indian Express",
+      "description": "New book topstitches a Savile Row master tailor’s Indian heritage    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalB6QlAzZ2loX1J0UWdyZmZhdWhSN0tmaDhkdWs0TnI2T3RNS0pDanAzdlNCZVZ0eEFDNmw4Nmt6UmJTZFR6WXRpOS10aFZ3ZkVhU05YbHEwUGw5TUxmWGI0b2R4bnVMd20zNlExSVRic2ctcnN4Q2pkYlBaMWxTSklHaHdxRWY5Z0hob0E0TlJrdlJ2YWtxNjl2cTJPSzNxQ1BrMHZhUkRXTnF0UTdxb0tkU2VhWlVuN2RhQ1lHa9IBxgFBVV95cUxPaXZUVHloaGN3bWI0cUFtekdGR3d5QTRuTGdfZVdncmU2cjdHeklBQ09GZjZpWkQ3WGNUdHZRalA3SXNYN2k1UWlxRi12U3pVdlpSNFNtemlaOVIxT3FGcER4RGJhUVdQeXd4Q213RlB2TUxIaE1VU0JOeF9yMWh4MzdDeF9NM1RoTV8ycVIzWmtNTEZSRHRsNU1KdlN4a0hHR1B5dFBIYnZFdThPbXF3TVhnNm12RjFpYzYtVVJaRzdnWlRCeXc?oc=5",
+      "date": "2026-08-22T16:18:46+00:00",
+      "source": "The Indian Express",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -692,16 +692,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "2fd64630f0ad57c9",
-      "title": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi - News On AIR",
-      "description": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHFKWFVyblpMWGJDSkxDRHhMbWMwZmpaMzJZeHhBVHFKRFFVd2x5TzZRZ09Hc19IVUxTXzFmd2tnVm5ZSzNuNzVTNmJRQklzZ0w5ZTdCQUt5VEt6Y0lJSTlndnNJN19PNFg3bWJLZGJWNFJjRW95VFJyZWRqXzd5a2E0alhVWWtudVRqdlN0TmRUUQ?oc=5",
-      "date": "2026-08-22T10:53:52+00:00",
-      "source": "News On AIR",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "402b5fa4a12d96df",
       "title": "West Bengal: Union Home Minister Amit Shah holds security meeting on Siliguri Corridor - ANI News",
       "description": "West Bengal: Union Home Minister Amit Shah holds security meeting on Siliguri Corridor    ANI News",
@@ -749,16 +739,6 @@
       "date": "2026-08-22T10:30:55+00:00",
       "source": "Moneycontrol.com",
       "category": "Education",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "d7a29f83f1626ca3",
-      "title": "Press Release Distribution India - Business Wire India",
-      "description": "Press Release Distribution India    Business Wire India",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzNPdVpwNVZUUlRRdUVSQTROMEp5bWljbGdXWkgxU0NLMGlCRW9YQUQ2Rnl3WWQzRjI4NERUbDdhX1QwOVlHS2t6bnVudGtKT1YwVU00eW1JVS1KUmJJeWpPME0xbXE5MV9zc1pSd01oU3RTaEpMb0tYTW5WVDBVeE54dzZZY0pIdldReVQ2Z3F5WUs2OEc5bXptbkZEcGxzXy1lUVRxcXNCZmVIdC1lZjNkdkExWkNLRnVKdHBzdw?oc=5",
-      "date": "2026-08-22T10:26:12+00:00",
-      "source": "Business Wire India",
-      "category": "Business",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -812,22 +792,22 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "0b3505d5e305c2e8",
-      "title": "India news: Gandhi's notes sold for $1.7 million at auction - dw.com",
-      "description": "India news: Gandhi's notes sold for $1.7 million at auction    dw.com",
+      "id": "78437e5a35f43f78",
+      "title": "India news: Gandhi's notes sold for $1.7 million at auction - DW.com",
+      "description": "India news: Gandhi's notes sold for $1.7 million at auction    DW.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVmSFlhZzBNUV9Pby12eVZxMmhKc1c2c3AyV2RjUXh2REdhUktYQ0h6T2F3YWJTN3RSdUZURHVUbXJuYUtfMlZPTTFoUk1mYjBxRFNDMXBYSGdRc0IwY0RWTGtHcEw4QWZiM3VjUFRweGtvZXlnZVlqdHUyY1cxdmwyV1BYTHlpT1E2eU96bWMxaTQ3VDd0ZHNpMXZkdGt6bTA4WmtVWG1fUk9mS3VZ?oc=5",
       "date": "2026-08-22T09:54:24+00:00",
-      "source": "dw.com",
+      "source": "DW.com",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "6bd3e5be6ea1db25",
-      "title": "India news: Gandhi's notes sold for $1.7 million at auction - dw.com",
-      "description": "India news: Gandhi's notes sold for $1.7 million at auction    dw.com",
+      "id": "35e5b139bac8ec1d",
+      "title": "India news: Gandhi's notes sold for $1.7 million at auction - DW.com",
+      "description": "India news: Gandhi's notes sold for $1.7 million at auction    DW.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVmSFlhZzBNUV9Pby12eVZxMmhKc1c2c3AyV2RjUXh2REdhUktYQ0h6T2F3YWJTN3RSdUZURHVUbXJuYUtfMlZPTTFoUk1mYjBxRFNDMXBYSGdRc0IwY0RWTGtHcEw4QWZiM3VjUFRweGtvZXlnZVlqdHUyY1cxdmwyV1BYTHlpT1E2eU96bWMxaTQ3VDd0ZHNpMXZkdGt6bTA4WmtVWG1fUk9mS3VZ?oc=5",
       "date": "2026-08-22T09:54:24+00:00",
-      "source": "dw.com",
+      "source": "DW.com",
       "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -852,6 +832,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "f125df0e7f149b5a",
+      "title": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence - News On AIR",
+      "description": "EC asks West Bengal Chief Secretary, DGP & CAPF to enforce zero tolerance towards post-poll violence    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2gycW84QVpOVDFiSlJVUGtyUnJ3cUo2dmxadmtEMTNyM2VnWXpqOFl5dkFfZ0E0Wk9TRUFrdDFPa0NwTi1OS1RZLTFDYjdFMkRaTWVGSTE3UzJkY3Z0R0Vra3gwQmROUWR5MVVjYWluLXk0Vnh5VTczbk91Q2pVZ3pzMUM0UDZGTWlkemkydy1yLTZZTU43SUtqbGpFa010cnlvbkVQV3k1MGFPUnVsOXgtNjUtOTltUkpaaGFzN0k3aUlNZ2c?oc=5",
+      "date": "2026-08-22T09:11:03+00:00",
+      "source": "News On AIR",
+      "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "92fb0bcf3aa4ae9e",
       "title": "'Rankings do not matter': Under fire Gautam Gambhir says India 'not struggling' in Tests - The Times of India",
       "description": "'Rankings do not matter': Under fire Gautam Gambhir says India 'not struggling' in Tests    The Times of India",
@@ -859,6 +849,16 @@
       "date": "2026-08-22T09:08:00+00:00",
       "source": "The Times of India",
       "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "de5d5daffccd61a1",
+      "title": "Luxid enters India’s hospital technology market with launch of VueAR Glass - BioSpectrum India",
+      "description": "Luxid enters India’s hospital technology market with launch of VueAR Glass    BioSpectrum India",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGJYYWR0V2xMYmpiNy15alZVdGQ3N0FfdW5sYmtJOTM5T1ltWXNCdUNGQnNwOEwzOU9IR055azkyYkdXTFZCaUdHdEFMT05wa0dMMlROcVpNOVlnOUdVTWZ2OWRXOE00Q0JTYWhSZlFWSFd2cDVSa29lNG1vT0hFRUU0NE1DTlZJeHp3eUJnMmFub0V5dzJDNjVGbTNjYXY2eHkwSlV2Z09rdFZqUXhIR3U1emhfc1M4THdEdUVkSDFtZ28?oc=5",
+      "date": "2026-08-22T09:06:31+00:00",
+      "source": "BioSpectrum India",
+      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -942,16 +942,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "85ddf3aa1bc7a62d",
-      "title": "Trinamool leader’s brother arrested in West Bengal over alleged ISI link - The Indian Express",
-      "description": "Trinamool leader’s brother arrested in West Bengal over alleged ISI link    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlEzNFBJM1AzNS11RUtsMnJpZU5kc0c3MkQ0YnFGS1VMOG5Ldk14R2Y1eE5GbnUtOWtsSG12U05fRXBMUFMzSlh6ekZSM0dIWFA2bjN4azhURWd5UFE5bDRaN2w3YjY5Um1NOWpsdmZrMi1JdlI0Y3hacDhPWmhZWkxRT2ZOb0hDbmxHLW5McUg4NUN0SVdWa1lIN0E1UnkzN25aVGdQZTRCc3FPZUQ3alQ3R3FIQTVx0gG_AUFVX3lxTFBjMkZFekR2eDJMY2s5LWxmUFdVWVl0NTY3SWhsYWFMaERDelZURy1XTlNkdzFINnVhU3RyMjRpNHlUR3JFZHhnZ3pobV9Lci1oakExbzNWZXN2NG41QVE5ZEtFd1habUIyalZLVXZOWDl4RVZTT0x4U2lWenZpamlaMEJ6WkFpdzZBdHdmenhFWlAyZXdVZGVrYlpTNnhCamo4VTFfWENPc1VzSG5CUXl5UUN5RjVEUE5RaGpMRUFZ?oc=5",
-      "date": "2026-08-22T07:40:14+00:00",
-      "source": "The Indian Express",
-      "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "5baef89507aa83fb",
       "title": "BJP’s Bengal Honeymoon Losing Shine - Frontline Magazine",
       "description": "BJP’s Bengal Honeymoon Losing Shine    Frontline Magazine",
@@ -999,6 +989,16 @@
       "date": "2026-08-22T06:07:33+00:00",
       "source": "NDTV",
       "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b316a34bba11fe45",
+      "title": "\"Wait Here\": Japan Man Hikes Mt Fuji With Elder Son, Leaves 7-Year-Old Behind - NDTV",
+      "description": "\"Wait Here\": Japan Man Hikes Mt Fuji With Elder Son, Leaves 7-Year-Old Behind    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWw0WGtLNjk4TDF1MDI2MjBNUkwzT2hLV1NpTjdEOC1TOUdBbjIxa1E2QjE3TWVOc1lrQjB4QThOV3cxYVJfNVY0VlpaXzZZVEFhV1pIbVNZSDNWRkFhaGw3OHByZFhjLVA2U09FY1d6bUl0d2VYYnRkV0hkSjBkbks1QXB5Zi1wNGNvTFhnSGloMnF0djBqTFR4NnBmczJTLUlmMVFYaTkxaVdoQ3B6aXF1Y9IBuwFBVV95cUxPdUFWTktWbjNPdXRCV0pmby01UG1wbG5NOGtGbTloT25NX2hqc2I2RkRFb0ZBLWs2a18wLXV3ZEFCeFVWMHdyYXEtb3ZwVjQ1ZmxjSEJ3WC1HUXk4UXFFbXdIT3RLb3JnUjFSdVNkaUJzbzdBQWtkNFViRmx2Z25zRnhDY2pZdkk2X1ZVMERraFozZ0k2eUdfdXJualdMZ1pvT3RVa0x1MXpRTGcxbC05VlE4c0FDNUxoS0xR?oc=5",
+      "date": "2026-08-22T05:58:27+00:00",
+      "source": "NDTV",
+      "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
