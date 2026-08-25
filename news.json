@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-08-25T16:55:12.653116+00:00",
+  "updated_at": "2026-08-25T17:30:48.320754+00:00",
   "items": [
+    {
+      "id": "668646ef08a0e06c",
+      "title": "Breaking News, World News and Video from Al Jazeera - Al Jazeera",
+      "description": "Breaking News, World News and Video from Al Jazeera    Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1B4alRHOHJwUUVwc0FhMzJhaHdQTVpsZ0poaTA1VDNpbWJCNGhyOEZMUEc4TnM3Tnh3SWJzMVNlMW14UmpFSmIwYzRYMDlCWDlBX2dId3BIYW9YajdGa2tBZVNuMGFRdFlJdUhEN1VRUGtPeHNxZmJ5ZUNrenl0YW1JdkhQN0dXZm5fR0pDaUlrckVxWURScHFwU3Q1V1VQWEdSZlFuM1V1UnozZWVQUXNCUF9GNnBKSVNF?oc=5",
+      "date": "2026-08-25T17:25:44+00:00",
+      "source": "Al Jazeera",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e4effbacf4c31e9e",
+      "title": "In Numbers: UPI Turns 10 But Payments Revolution Reflects Gender Disparity - NDTV",
+      "description": "In Numbers: UPI Turns 10 But Payments Revolution Reflects Gender Disparity    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWdzSkNEUG5XSXh1cjFHbXVxSTdqUFcxVzROSjZ3WGZnTk9HMldPSkNJWF9vdUk2MkJEMWRibmo1QjV5OVltRWVYTFR6emhiSmRNRDZFRWhycHB0dXBzOEJ5Y1V3TS0yZmxrM3EyLW1YbkpnaXROWFNZTnRzSjZPWUxZVHFaNE02NFdJQTFtVXlCNXFrY2ZhQUVkVmltd092SlVEcUJfNmJKNWE2aWRkOERkOHfSAbwBQVVfeXFMTUR3TnZpVklPT2hvck5XSWpHdUZ5NVY1NVRJT3BPUHBlaEJ2Ymw0cmpTSmZNTVdfQkh2NWJObGZ0XzFGc2hzZ3FyMFVBdW5hNXpKcm5tdnZSLWZxdTYzSFpqZjVIT1dFS3Z5ZG5sT18zUnM0bmkxWjF2MW1OOE9yQWVMR0pfUVZGWFQ0NDZxbFZWbDNSNjh4RTVUR0tLSmV4aUgzajF4OFFVdW9rbld6cExHTE1Wb1VLRHdOdlk?oc=5",
+      "date": "2026-08-25T17:22:26+00:00",
+      "source": "NDTV",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "987dc49dce1cb9ca",
+      "title": "Olympian G. Sathiyan highlights support of ecosystem as key to India’s sporting rise - thehawk.in",
+      "description": "Olympian G. Sathiyan highlights support of ecosystem as key to India’s sporting rise    thehawk.in",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWs1X3ZITk4wY1dkRUh3UndIckstUkpUMV94MFBMZmVLbUdBU0lOVldiM2l2ZEEwOGktMm9IclVJUENrNGkzSDZBcHVLSWtocEJOZUU3TlgtQjJUeTdWdDdvcV9vTFBQS1dyX3V3cWlvbllaY0tNV0t0NFE1dnhpRzEtWmFFZFVCZDJNa1JwWnNSX20wWjVIQ3hSMkRhVWZhbFJoaHphUWt5SElfQTZ2MHQ0MDhnMmtD?oc=5",
+      "date": "2026-08-25T17:05:50+00:00",
+      "source": "thehawk.in",
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "c94da26fa191a4e8",
+      "title": "India transitioning as global destination for R&D: Kris Gopalakrishnan - The Hindu",
+      "description": "India transitioning as global destination for R&D: Kris Gopalakrishnan    The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1pPUXZUX1FWSTRsWHRNY3gtd3QtSkp4Q2t2cFVSdUNhMTVUN3MxZ2dNM0pHN0lSRmxyNm0tM0o5SXBrUHRDM3RFS2t4bjRXTzE2WlZ3dm1jcWlFZDJoemcxRUZzZHNPaHJEWlJ0UzhZa3hxWWNpeGdRaHFyYXFmTVZpOG5lS1pWOFBQOHYyQUN2cGdUTFFlTE9XS293T2ZvM2xLODUzZ1lTY1ZDeXhkSjNUbWhPMHF4RE1FZWVhLVAtX3ZLYVhnZWV3VFctOVc5cnfSAdgBQVVfeXFMUHlhSEQyLTYyVUJlcFk4aS1rbUZad3pIOTFpVUJEYk1rWTJaTzRfa0hhbWhYeVFzYkN4LWt5aVo4bDlFVlhlS1YtbnBqbVNPek00NGtENzAxel8yT3NyU3AtNE04cG90YlpzSFJMTlFjSWQ2MHRaNFpaNnBOZ3BmQTdNUk5vRmdIbmR1M1k1TGtCTE5pdmdrT1ZtLWNZVTlpMHV3MEZmS25LZVowVVhKYVpWZkJtYnBhaTNnaUdvV3l4QWtXakhpOUNvOU1RQll6eTRPaGFRNVds?oc=5",
+      "date": "2026-08-25T16:58:58+00:00",
+      "source": "The Hindu",
+      "category": "India",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "b7aacba148216ab5",
+      "title": "Iran will be able to shrug off America’s financial threats | World News - Hindustan Times",
+      "description": "Iran will be able to shrug off America’s financial threats | World News    Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVlyeEF0Sl9ZVWJiVEZtZ2E2ekZHRjI5TzNSZjEwMTF2dlloc1BtYmF3bWtqa29iRE10ZVBMVkdqa3NQQ05zbEJ3WXdUb0Q5d0RTS2l1SXF0QjFwYkk1U3RRYklwNWp0NXFxUnZMeUx3VmpwT0FvQV9DOHhnaFpIRjNLalI4SU55cUcxNXFJRjJLSkwtSWh1TGR6OTFNZ2l1akJWTzZLTHkyUEpEWkpjblQ0cGJyT28zYmNHaVVB0gHDAUFVX3lxTE16V1JOS0xDMFlkSUM3T014UllRZm9VaEwwYUtXNXZ6Wjc5Z05uVFB4V1oySHl2SVYtblFlazhRbHBJMXhHR051blgzYTVRNk9nTjlDR2ZvYkVrVC1nZzJobUhxS2xUTmgxbHdwUUpWbWgwQkpVRFdSZEJrbWNTd0Q1Q3cyVHBNQno4emlIRkJhRlZBeXA4dF9BazlHSmlIdFhRQTlRQW0tT0xad3lvWmJNcTFIaC1lUlBxREFEamswbFFZUQ?oc=5",
+      "date": "2026-08-25T16:57:33+00:00",
+      "source": "Hindustan Times",
+      "category": "World",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "963a21ed27f0f9f2",
+      "title": "India poised to ban Carbosulfan, citing health risk to human and animal population - BusinessLine",
+      "description": "India poised to ban Carbosulfan, citing health risk to human and animal population    BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRkQwbWg5THpjSDZsOE8xQm5pci12eW5peElYNkRzTzQxOFBxaXBnbUhVWFdSMmNYZFJYYjZ3S2c5YjJfZWR2VkwxS1NMUm8tdHVoeVVhNE05NWowSEVRTzlwZG54ZWU5WnBWSU9mNXFoZ2h0RktUVFhMV0hSVXhlMmFWeWFPNnBqOHFDUGRvdzdfNXZ1UXh0MXBNNm9FQkREY1hKWG5YbFpGeTA0OHg0ZEFqX0hHSk56dVB3djJTNW16R1pveFNZNmV3eDVMZHlUSlBYWXdZckUwOVNlckJUSURvX1pERXR2QkN3MldrdjhpZ9IB-AFBVV95cUxQcUtTQmRJTlVtYXBQdF9nbF80RjFlOU8zZlA2bFdnallGR1k0QWN3R1U4S2FsVjVuY1FfdTR1U0t1Q0pNMm9QbTdjQ0FTZnFZSXVvd3pvUFRsUXJhV2dSOU0tdHRKd2IzaURxWlBUSkctUW9KNU1ZVUNUeVM4VVFPbG5vT2tGUjRsMmJ6Z1U4bTNpYkQwTGZEaTNTcjk1Um4zRk1ZWlNYbXZQeDRDMEdkUV9lUnVBQXlGcmZwaVBQdHFGM1F4STBzeDBpY2xPckJXT3lGQmZWSTVBM1phelVZS1BqTFItWEpWZ0hHYkQwbi1fRkVvcmtSbQ?oc=5",
+      "date": "2026-08-25T16:50:21+00:00",
+      "source": "BusinessLine",
+      "category": "Business",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
     {
       "id": "ce66f96afeea5ff2",
       "title": "EU approvals, easier sterilisation rules to speed device access - The Times of India",
@@ -8,26 +68,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenVIWDlLUWlHRHRtT05mTkZycGE2ZG96YW9aVnFQY3pua3MxNXVsVENwd01vcVZCOF80Tk1oZzBkT0FERWRHNEUwZVg5MDhoTkpXcHhPdl9PbHdfOGtiWWUtdXRwb3B6NlA0Ynp2Rmw0OXdEMUd4YlVlOGE0SFVPTGV3UlJONEY4TjdQb1VIVkR0Q04wM0pNWmM5LWRqa1Q4UXFuQ1JJRm9nY2xrSFdiMXFsNnVCVmxMc2xfcjF2cnRWTDUxZnBPaXp30gHPAUFVX3lxTFA2V2Zld3BHaWotenIwd3hMY1VTcmUtYlUyeWlPb2RfUDMyZ2JTRnVqd2lqaHktX0xPS0N3aDYwTnZqTE1oWnJ3MzBrd19HSmVfNkcyQVFxQUd0NVo0N2FwY3IyYkx2ZHhnNWx5UURHT0dQU3FFc3ppVzJ4WTNCRFRhQzNiTVpWLTNydGh3ZGV6UVZHNVF6WjRZcmtPQWN2RnhSMEZ1b2FsVTFhUHBJOEpjd3V1ZGVmRXdONTZWTU4za0FNMXlNTlIzX2NiV2N0dw?oc=5",
       "date": "2026-08-25T16:40:00+00:00",
       "source": "The Times of India",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "f99c1da38aed9c1e",
-      "title": "Indian strike on Kirana Hills in Pakistan during Operation Sindoor was accidental, says former CDS Anil Ch - The Economic Times",
-      "description": "Indian strike on Kirana Hills in Pakistan during Operation Sindoor was accidental, says former CDS Anil Ch    The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUk8xV3J2SUZBLVdwYUV1NlFqWGZybFBNakY4Ymk5R1N6LUVwTFRjV1M0QXZISnZqQUk0MFRmS0ZlQTN5TUhIRmU5ODV0bFlKc2dKVFF0TkxVZWdtT1RkOGVLQ0VWQlFBUkhwTGIxRHpyM3U4RjdnU3dZcXBWT2ZEZ3BXbTFveUxMc29OWDF3aFpYMHFqSXNkRWhxUHotWmNzX29zSmQyWkp5c2tIX3VQZ0o5dVFkNmQ1OFRLTHBXUGNQZTJUdGlMM25ZWjl4YlQtS1U4ODhTX29tOHpyZWF5eE85dmtBNDF2OFQzQ0xjTHNCdGJ6M01wSVNIZ1hDVTlteEtkTW5jeDNaOXhzQ1J6TjZJLWvSAY4CQVVfeXFMT2ZsSktab1gzdG93TVVsQTRtd0ttRllqZldibjFoaHI4bmh3ZEdBVmxOYWs4aGpTRmdERDl1U3NBTVAtVjlONGp6R3ZDcURQVTZObnJuOVFqalNCYVhHMnZYYjlrc1IwNXduUS1zcnluUEpTU2RtOWpwQmpMTzV5YWRlVGpzWGVReDN5alBTLVU2dlFZeU9CSDhvUFJhRGJQSEZlcFo1cXpsUmtuZV8wUXBVWDV4SjV5cmFZSUQ4ZEhpbjhKN0lLMU83NTVBTGpVTlFELWk5YlhBNTllZDZlLXdRenZSekNDRzhnanlvSnA4OWFBQzJqSTE4Q096V3lnb3VWZXBCbm9FcUZtbGd3?oc=5",
-      "date": "2026-08-25T16:37:57+00:00",
-      "source": "The Economic Times",
-      "category": "India",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "409fb6a7ab4292d7",
-      "title": "India’s energy demand expected to grow 2.5 times by 2047: Hardeep Puri - News On AIR",
-      "description": "India’s energy demand expected to grow 2.5 times by 2047: Hardeep Puri    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0dtMWtJNERnTUFlOGpOYjZ2bmpsZXlYdk9GOTdEU0RORmlKLXRtRldFNWRwb19OUHBSUWszR09lajdCRUg5bkJxZUlPUlAyeEE5UWJjWGZMX1M3WDNiWjkzOFJLTUJMWElIbzRrbGtIUnZMXzlyMlhmUmxzVW41R1J3UXIxNGtCaXJzMXk3UTl1OFFMM1V2R3dn?oc=5",
-      "date": "2026-08-25T16:31:15+00:00",
-      "source": "News On AIR",
       "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -102,16 +142,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "c32540a6236ae827",
-      "title": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties? - The Guardian",
-      "description": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties?    The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmNZcjhRZjlkQ1FuM0sxTDg4V0tIRFZDQ3JzZGRfY3ltX21rdE45TXZMTHRzUG1uQnRvMjBnb0xtcFJtVVViXzk4WGtpTnZyRGNXLV91OE51ampWVmV2RUlRb3FjSjhPX0NjUDRKMjNZWmVvRXVvUmhTWTl5RzFMVUNRb3lxSUZUNU5Cd0ZjemtlMnJpTUhJWjBSUnRmZ2xZTHk5aQ?oc=5",
-      "date": "2026-08-25T15:41:00+00:00",
-      "source": "The Guardian",
-      "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "253efccc8f000641",
       "title": "‘Honest leaders are the first step to a better future’: Cockroach hunger striker targets India’s political class - The Guardian",
       "description": "‘Honest leaders are the first step to a better future’: Cockroach hunger striker targets India’s political class    The Guardian",
@@ -149,16 +179,6 @@
       "date": "2026-08-25T15:38:00+00:00",
       "source": "ANI News",
       "category": "Business",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "ee6c316d3c72659f",
-      "title": "India didn't target Pakistan's Kirana Hills; loitering munition hit it inadvertently: Ex-CDS Anil Chauhan | India News - Hindustan Times",
-      "description": "India didn't target Pakistan's Kirana Hills; loitering munition hit it inadvertently: Ex-CDS Anil Chauhan | India News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQzBZeVdVTm9ibUxNWGsyc0ZOZ2pLbGUxcm1hV3QydEVFWkV5LXNSaVZGYU1iRHJMYS03ZlJ4VXVNZVRCdTJGWmFFbUNHclBBMUNFRDlJZVRqTVhfRl85UHVUNlFJSlZkR1cxS29PbDRaMnFuaGl2bnhmaHIwa3dORTExcHVVdlV0TzZVZXJCUVpUamxVNlo4VVZDVFlfdTJyX0ZsWnd5YnhmQ1psVmpHU3k0SlRVWUlqd2t0clBWUXFac3N2R1VIbWx2TEE3bGNIYkk4a1dZV3o1aTJPZG81OEpDS1dsVVhvNFpMZ1dLNGNOWGluMFo3ejIzeUhvNllqSUN3SnlHQdIBjAJBVV95cUxPTzZBNGlZQlZUbjNTSUJfbVdtXzhnc19hTXB6ZUFqbFl6bS10azdEc3NVakVHTk9nZUYzR2VLNVc5c2tQNTNmMmdCa1dsdGlYV2o2Y2pSY2hWdllHVC1fYVlHSENTdnBBSlNyVVF1Rnh2MGZubDJGT2RBYlNiTjRjR1V6UGhIYVFyZkhORGVnLTBKN015QklhRS1SRDg2djBlZGRXRnhQY2J3dXZvZkxCNjlOTTQ5c3NXTGR2VXNSRTRKN2cyZzFxc0czSHEyVTlPMjMyUFF4MG9EendUZXZwcW14ZFVfRnpCT2U2c05JdUh6MTJPYVZENXhkZDVHNllzbC1XN2dnSGcwNk9y?oc=5",
-      "date": "2026-08-25T15:35:10+00:00",
-      "source": "Hindustan Times",
-      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -222,16 +242,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "4ccbeb51435206c1",
-      "title": "World News Today Live Updates: Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines - The Indian Express",
-      "description": "World News Today Live Updates: Trump says all mines cleared from Strait of Hormuz, warns Iran not to place new mines    The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX3pLLWxCdTZTcnBDQ1B2cnVKUUc1RTFDelVYRDhUNHNjRkN2OW93UElmMjNZMGRFRVpGNnRHUi0tSi1WUjEyeTFJU18yWktJTkxxM2l6N0JoS3ltTzlqTE4yLWNSWEFiNU5Fb25FenRlbGtpLTE1akdrZVp4T3dKRmVhZGFiTEpwX3dtYTJHMVI5TUtndVAwQVRGcXZPSjNnMmlaM2JxUl9JS1RWNVRRSVlScjRDeUl5WXBUZ2hxMmhTZ2xhd1BkM3NPdEFtWHfSAdYBQVVfeXFMT1dRajI2anYxdTBTemg2MVhBcnI4UktzcENiemtVQzY0UXY1SllLMlRDdGQ2VUEtSlh4bjhrWkVVOGJ5YjdQeVlqV01nckY3ZjRNTXVkZF9xeUZRSXZJd3hqMzN4dTRjNUg5SXFrV0ZQanJHN3dvTWpGMFFhMG8yVFZKdU5LRzFFTF8xWkJiMnRwanlKcXRYcEhGSGlhTVdnbXF4Sk9xc2F0c3h6STc5T1Y4TXlwaTJSdFJaQWMwUmxlOGU4S2JMSTlreDNrVG83UHNRczlKdw?oc=5",
-      "date": "2026-08-25T14:57:59+00:00",
-      "source": "The Indian Express",
-      "category": "World",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "0145f7f36685b727",
       "title": "Inclusive access to education key to reducing disparities, ensuring social development: AISA chief - ThePrint",
       "description": "Inclusive access to education key to reducing disparities, ensuring social development: AISA chief    ThePrint",
@@ -282,6 +292,16 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
+      "id": "6a25c966ebb0369b",
+      "title": "India’s Technological Strength Will Define National Power in Coming Decades: Union Minister Dr Jitendra Singh - News On AIR",
+      "description": "India’s Technological Strength Will Define National Power in Coming Decades: Union Minister Dr Jitendra Singh    News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWFCcjUtUmgzNWx4aFltV0t6YWh2cm5oLVhBSzZLeG1pYzRMdnV4VkFqdVdoWWh2Z05haWtoS3hWTUlBZzJ0NTU1dDRlR05ENlJ3NE9mdHFpRHkxQ25NS1V1Y0F1cWlFQXhTSFdHWDRJQUc3SURIWlAwTVloODFaUWF5cDdSbUxzcjRHa0llZlpvU3RYZ24ycG4yUExnX1pLVjNFVUVyeW9nZ3ZTUmhULTRMMENmbUNVYldfUlo4U3puZXNfTmpLQzFPaTlYQQ?oc=5",
+      "date": "2026-08-25T14:15:44+00:00",
+      "source": "News On AIR",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
       "id": "dfaaf563e2216b91",
       "title": "India Tech Firms Cut Use Of H-1B Visas Even Before $100,000 Fee - NDTV Profit",
       "description": "India Tech Firms Cut Use Of H-1B Visas Even Before $100,000 Fee    NDTV Profit",
@@ -302,13 +322,13 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "0ec2c5e9a5a2e6de",
-      "title": "The Warnings That Came Before a War Now Reaching the Six-Month Mark | World News - Hindustan Times",
-      "description": "The Warnings That Came Before a War Now Reaching the Six-Month Mark | World News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2hJbHBpekh3bE41aG1Fd1ZSVXFzaFlMVW1KZUJVa2d1bGQwaEhMdzhRZS1seUVmaDNSbElvRWo4bTdPSF9ySlZtbVNCdUpKeHNTbGktSzNORDYwajhZQTdBeTgyZl9wQmRVcjNETWdqbVV4dm1PR1UzRDFQdmhZbHhOLUtTb3A1dHBpQy1YZ1plSUV4ZGxIbXg4bkV3MDhEb1NoQk5XdG1ESjNGcHNVbGFaY0Q5QndkSEZQSzRwU29jSlFVY3otYmFB0gHPAUFVX3lxTE9kMWxaZjF1MXBaVG0weWEzRENLZ1l2R1lWUXdZNVJPeGVacWg1WGdRaUhHakFheFY3ajAxMVZtb2picktubmhkQ251LXdUa1cyNWpqeFRQOFowTGVreHQ2ZGFHQ0dybVRTUDlyS0JxUjE0YXNRTUZTcUVzNjVqZ180ZHdWRWY5T3lpdWNLeS0zSFRpd25adV9aUl9fUE9sVVIweGIybjBuaWRYZzJPc3FEYnh3a21icjN0S1V6ZHBaZjBPN2kxX19rYm8zSGVfWQ?oc=5",
-      "date": "2026-08-25T14:08:11+00:00",
-      "source": "Hindustan Times",
-      "category": "World",
+      "id": "6a55bb366c879ef8",
+      "title": "India Is Much Poorer and Far Less Free Under Modi Than It Would Have Been Without Him: Study - TheWire.in",
+      "description": "India Is Much Poorer and Far Less Free Under Modi Than It Would Have Been Without Him: Study    TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGIydkhFbVZ2MGVqSjVhRE9UTjRZMG1pel90NmtMMXBNT09yc0IxR1ZuWnhyY3Q3RENMT1FxNjltU0hwaEJXZ2RadWhBRmtLQkc0OXRlT2hfaXUteXVyYUkwcVBINm45WWtsNmNnSnRoZEw4WklpVHh2VXFoVkw3TU5CZGNoamVIQ05wMHNaWHpSODlYNWttb3MxeVJhNlo2RHFOdnBYc28wUHFJX3cxQWtFZDVDbzEyaWNQLdIBzwFBVV95cUxPekNjcTVMV1J2SUVKTHBacjJqbnFWQmtYY1hHNjQxVk9wSTNrbWVDQU9DMU1wQzhUU29ROWFqRUVxdEx0RkZsQUc5bS1rWlFOdG9wVkxQOXlRQlVDZGJzZXNTbkZ4VTlMY2hWRDNEVGhZMC1HUlRWSDVzMjBxRll6dFN2SW5RdUNLMDZuUUZiS2FCMUd0OXFmcWpnWWhINGNUaDQ2d0pvZnhuajlfVjR1STh1WXhJMlRNVTBCeTFQaURhUXNxY01XTHhPMlR3aGc?oc=5",
+      "date": "2026-08-25T14:08:06+00:00",
+      "source": "TheWire.in",
+      "category": "Politics",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -462,12 +482,12 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "77043428b8f73444",
-      "title": "Donald Trump’s military expansion in Panama makes little sense | World News - Hindustan Times",
-      "description": "Donald Trump’s military expansion in Panama makes little sense | World News    Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGpMRU5hdElqNUhXTWxtTGdYMkRUdzU4N1QzTzFEV2FXaUtlaktUeW1qSG9GOW5rcVNvR2pwb0JlWU4tWWpSMElncmFvcTN2cUF0RE9WNHJaQlZBa1V3VDlyUmNMV0ViYXNYaHdzWjhWaGl0azZJUDdXZU5maERCcHA2eDJDeU9xazBPa3RXblVIM040S01JTWlBMnZLTmNHNHJJQmlYTW1JVllqOUxqYXZLS2t4ZktJa3V4bGZPbG1GNW_SAcgBQVVfeXFMTjZMdTJ5eEphclk5OXNUeEVMVGthUzNzbS1CbmpYeTg0ejlXWk9GRnRZMDlEYmRIaDlTcmp6T3lTZkpaZlpiLTVZSUpJYmVQbjJiM2RVVW92bmtlLTBmbUhnaERCMHQ2UDJIQWhJN3Vva2NBcC1qcHlNemFHRldHZUU0ZGpSODF0NGZwMFJTQzhwb2JhN2c5YzFDTFRGak9aR3VFR2NtZndJTjNuS2dTTFZzc0ZKWk00aDJYa0xnNFhGM0lleHhOVEQ?oc=5",
-      "date": "2026-08-25T12:57:10+00:00",
-      "source": "Hindustan Times",
+      "id": "8ca65cc22caa28d7",
+      "title": "Reuters World News Summary - Devdiscourse",
+      "description": "Reuters World News Summary    Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk9KdV9yMGU2dXk4QVNaMWFWbDByblR4MUxyWGI2bmlVaHFPYnJKeUs5N2VCWlNvOFk4dUF4ODZzNWlWVlAyd3l2MHZBdkxRdUcyUDFBc1JkbWJQc1E0d0ZUTUUwaldiSUktN2pBR3Z1QzlNVk5RUmQxLUFNMXVhOXlzSnlGR1hWdWlrNG5R0gGTAUFVX3lxTE5KMXU2UzRHeGRBeEh2ZWZyQWR0NktncjdPSEM1eVloa0xJNFp0aVR4MFA3WDY0RDAyVnhuWldiblQzRWdvVTdMeS1jS1pyWGZFOGphbFRDX0x1ZG1oY295WGhDTDBFWTZ3a0QwSW5WM3ZsVFM0Rnh1Z09sQUlYT0VvOHpaNV9UUlR0eUU2UzA1dlA5aw?oc=5",
+      "date": "2026-08-25T12:57:11+00:00",
+      "source": "Devdiscourse",
       "category": "World",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -722,16 +742,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "b5b57c77a4a84498",
-      "title": "‘Save women’s HIL’: Indian hockey stars make emotional plea as league faces uncertain future - The Times of India",
-      "description": "‘Save women’s HIL’: Indian hockey stars make emotional plea as league faces uncertain future    The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmcxbHcxOGtncC1pSktDQldIbnMzV1ZUOE8tanp1R1VWelJIamRmMGstaDN6dVJSTWhVTWJ0bU5CNGR5a1d0M05CTXBqSGZkMEdwa0w1LVRXS3dBZkVyVXNtNWk0MFFOYThhWElkWWZWQlMweVE1Q2RoZm8zTUh1cS1XTjFnTzdWVHFkQ2tBR2tPVXEyN2xJRkcweGtnY0lfWWtFT3AzUmRidjRfeTZGNHlBUXlzam5oQTY2cUFEWkVPNS1tRjhDR1lXdlU2djBQMG00QjhOYnZsT1VOSzZCejVNNjM1b1ZYUk5zOXl2Z0pZd2lXRTZBOHpkYXRzMU1mV2JIalVxRdIBjAJBVV95cUxOZEgzTlBUMkdhaG5URi1WTV9QdmlTd2NfUHE4NE1pUnFnS1ppdXBMQ3Fka3BJRXFMNWpyeF9JQm15c05NZWwyVjM3c1ZleGJjWFRWVGZTbGhkekNSYkp2RXdXckNZMjU5Q1lYYS1nVGFyQjhNanRnb05OdXZrWWl3Q01jdDRFQzJNZEN6SmRETjBFZ3VpNm1EcGlQVW0tSEdoUHRZMnpVVmJpbktnYWtBcUVGV1ozd3QtTXl4OG1XZ3BoNmVuakRRVllfOUx6MWhqS2tBSlJzeXRrNjhxNFZGVVlvSHFIME5PelhCRXpUOEVxUjdRblJJZy1zQ0lrMlNubE5QcWxTaEd1Wmox?oc=5",
-      "date": "2026-08-25T10:48:00+00:00",
-      "source": "The Times of India",
-      "category": "Sports",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "3aae9dbddbae7040",
       "title": "US sanctions 4 Indian firms under ‘Economic Outcast’ over Iran oil and petrochemical trade links - The Times of India",
       "description": "US sanctions 4 Indian firms under ‘Economic Outcast’ over Iran oil and petrochemical trade links    The Times of India",
@@ -758,16 +768,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYlYxcmNORW51ZWJ3Y19ZdkdRNkNSYmxLaW9iX19mSGNTRjRUSHZudWMzX2tMMFdnQ1pYbFFFZ2hwbGl3WkVadnAzS2pjMUNhMW8yc2NVTXg2LUxlZjdGMktfOElHMFJ4REFtY1Y1UFBRZDk1bUF3ejdZSzRsc0QtTDFSYXhoRmlYa2duUzlnZW53cWFBMEx6Q1FTTHZqa2FXaE1SaGpPbGdfWVFGdjNVN0lCUnA3NGhjbXNLby1tTDVyZ21ZTUt3RE9ybDlaZmdwY29XclhHU1VEc3NuSG5WUDF4OUxieU1Jb1l4WGtLc1FXb2FVNTdRNUZmSFVvNkV5RXVfbjJVa9IBjAJBVV95cUxNWmhtd3d2ZVZzUEdKbDFRWkM5N3A4UTdRQjgySk5KemNzS0ppOXdYOVNXRUFXaXdQbVBtRWlaNFZiM01OSTVqV25vNVB6bnd2TjZ3czJXa0lYUHU0SlF2YXBVSjNkeFdsMk5DODZDVXVjbmFQVDFEdEtnX0Y0MV8xRjNFT2VwSENuSFAyM0ZDZFNpVXBBZGstZ0JHUzFscWxhb011MFJWdUt2cWtrSS1CT3Jic3BKckRZbERBYlYwa2ZjODVxQkUxcnJEMnpvNnRicDk0QW4tYVd5M2l1SmhqOUdMRmxQMW1IaEFPMXBKWWtXMnFOdWxCTWtjam9OYlpEajd4QVpkTmNSTF8z?oc=5",
       "date": "2026-08-25T10:39:00+00:00",
       "source": "The Times of India",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "2fd64630f0ad57c9",
-      "title": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi - News On AIR",
-      "description": "India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi    News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHFKWFVyblpMWGJDSkxDRHhMbWMwZmpaMzJZeHhBVHFKRFFVd2x5TzZRZ09Hc19IVUxTXzFmd2tnVm5ZSzNuNzVTNmJRQklzZ0w5ZTdCQUt5VEt6Y0lJSTlndnNJN19PNFg3bWJLZGJWNFJjRW95VFJyZWRqXzd5a2E0alhVWWtudVRqdlN0TmRUUQ?oc=5",
-      "date": "2026-08-25T10:36:58+00:00",
-      "source": "News On AIR",
       "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
@@ -819,16 +819,6 @@
       "date": "2026-08-25T10:28:51+00:00",
       "source": "facebook.com",
       "category": "Bengal",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
-      "id": "29797d7096f79c15",
-      "title": "Sodium Ion Batteries Could See Wider Adoption in India as Technology Reaches TRL 7 - Energetica India Magazine",
-      "description": "Sodium Ion Batteries Could See Wider Adoption in India as Technology Reaches TRL 7    Energetica India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObkY2WWxjOTdyQVh6S2cyY2dpbXhfVkZFcjEwNmJQTU50OS1aMHlQdk1HaV9FQ2JndF9ZcTRPZEhfT3A1emFsekdsWTdLeTBqODhiazV5eU5sblpZaHFxVUhiLWgzOHpJSnhSZWhUZUhRRWFQUTB3MThlUUJUVkREZ2sybGdBM2xvLS0wS3JCb3YtczhGd2phNkNpVnpIUXhROGJnNF81SXlic2NaWEFGdmYzaldRUmM?oc=5",
-      "date": "2026-08-25T10:21:51+00:00",
-      "source": "Energetica India Magazine",
-      "category": "Technology",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1032,16 +1022,6 @@
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
-      "id": "ba6662c81fb3f0cc",
-      "title": "‘India went global. Hierarchy stayed local’: Austrian businessman on how India’s market has changed - Firstpost",
-      "description": "‘India went global. Hierarchy stayed local’: Austrian businessman on how India’s market has changed    Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFdIWkFVbVNRcFktVTRienhucThMNklVUWY4ZDdDb3dLTmRMcUJPcHh1NllqMFBzWDA2RHBwV1ZZVkd5YXVsekctS2dBRkV6OTJ2SXFRYnMxQmJKX3hNbjBzWTQzTGdRM3c3N3dkNEZWSk0xTGc1aDlvUlk4VjhJbVFSLTQxYnpIWEFHSVJIWTJPMmJqcldFbFZUbW9Md9IBowFBVV95cUxQSWVINFp5el8xb2hHN1g5dmlPT3BrRkFpMzZ5dWluVEF1dnp3X0drclBaRkdia2wyOFJHYzRLdTVqb3d0QjRqODZJaDUwSm9tUF95WkRGM2VXYU1IWTFQQ0lsdTFZaFZuVGtIdnNfakVYSWFTNDRQLUNmYTFCNlE5R2NaT3VIVU1YU0dyN1d4cF9lTmd4TURlbE92Q1ZzZnNxVEhj?oc=5",
-      "date": "2026-08-25T08:27:08+00:00",
-      "source": "Firstpost",
-      "category": "Business",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
-    },
-    {
       "id": "c221cf5f2bf64059",
       "title": "Rajnath Singh clears transfer of DRDO missile tech to Indian defence firms amid regional security concerns | India News - Hindustan Times",
       "description": "Rajnath Singh clears transfer of DRDO missile tech to Indian defence firms amid regional security concerns | India News    Hindustan Times",
@@ -1079,6 +1059,16 @@
       "date": "2026-08-25T08:09:21+00:00",
       "source": "facebook.com",
       "category": "Bengal",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "31c22fa8053b4413",
+      "title": "Bangladesh-India reset stalls over Hasina: What would break the deadlock? - Al Jazeera",
+      "description": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?    Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFZ0elg1dlBPUE9iVzNqalBiXzZGYzVybHRXU2VBbWhhQk5uTFBhcTRVU2tVUnpzLXBhbWh4bzFXUTFqUm01Wkd3N3laS0ZmRDRmTnBwQms0RGdUVEpFLTJkTmluYmJXbGprZFNGZjljUF8wbGNiVk5Zb2Q2ZjdQUUZaXzV3RjlteWZfdHlSVkRqZVdsSml5UnVhbUlCVU1ZdVZsdUxFbzhOR3Vvc0pyOUZR0gG3AUFVX3lxTE50bDZZVGwtOHhQbG0xYWJyUi13RW8wdjFPWS1LeW82bVdWZTlmNGpNTTFDTGRVdmhiUHVXR0xGY3MtQ1NBSGY2QzJTYlBpWlM2MVdVYUdCdFJxRHZlaDhKY05WSVM4NVJ2Wjg4aC1xdDdETFdXanI1SENpczN6WlNkZUNTQUd0NmQxSWJXVWVHUFMyWWhud0M3WTlSZ21FZjNDcTZJSjdQaXgxb1cyWlRVODBONTBNYw?oc=5",
+      "date": "2026-08-25T07:51:05+00:00",
+      "source": "Al Jazeera",
+      "category": "India",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -1197,6 +1187,16 @@
       "description": "Lollapalooza India returns to Mumbai in January. Here's all you need to know    India Today",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcThQX2Y3YXotQzZYVHphaGVGaFF3enZzQVE5aV9qb3FDWXVubG1rSXNuaWhjdnhnakpnSndNSkNicmhqaGM2RmxEeUJneExjdEhycEQ4clpnQmtRYjU4NXQtNF9Qd2FhLVY4Qi1wbW1rMjFqbEJzVDMtVlB5bWpBWjJZOXhNOWJfVmF0MUdXaHlSMElYdmtfREk0S1lTVnJpZ0VnWjY1dEhtZDNJblM5ZmlMM3NIeTBNYV9mdVFoVGNVYk9nSVhHVGk5VThoNW44Q3pFUHAybGRxMC1Hc0d2VWt0d9IB4wFBVV95cUxOcThQX2Y3YXotQzZYVHphaGVGaFF3enZzQVE5aV9qb3FDWXVubG1rSXNuaWhjdnhnakpnSndNSkNicmhqaGM2RmxEeUJneExjdEhycEQ4clpnQmtRYjU4NXQtNF9Qd2FhLVY4Qi1wbW1rMjFqbEJzVDMtVlB5bWpBWjJZOXhNOWJfVmF0MUdXaHlSMElYdmtfREk0S1lTVnJpZ0VnWjY1dEhtZDNJblM5ZmlMM3NIeTBNYV9mdVFoVGNVYk9nSVhHVGk5VThoNW44Q3pFUHAybGRxMC1Hc0d2VWt0dw?oc=5",
       "date": "2026-08-25T07:00:41+00:00",
+      "source": "India Today",
+      "category": "Entertainment",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "e95fbc46f4c3b65d",
+      "title": "Used art to escape: Taylor Swift on 'hate frenzy' during Reputation era - India Today",
+      "description": "Used art to escape: Taylor Swift on 'hate frenzy' during Reputation era    India Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMl9mSkU5VDUwR3NQaXR5Vko3aXNleFBieW5QNXdLQlZONmxfWUk5empUTFpsRzI0YUh4VGNSQ3RLT19oeDJsSXlxbksxVklZSW9RTVRwclFrU0ZFc3RFT09sVkVOdzg5SnZyYXhmNmNRV3VtNE5FUHR5aGcwVDd1Z3ZGd0x3andSNmUxQ0trR1BpNlhNWU45UlVISkNxcVJTTWtCYkdzY1RCMldackN0Y0pLYy1CV29pcTd5cmRIc1JoLVIy0gHKAUFVX3lxTE9SY29mOS13VnhrY1k4VHhJYlFZS2FBbWppSXcyZEx2V19PcVlIb1d1eDk1TFdzLUpMQ2pVSDBweF8weGgtQ2pDdk5SaVV5eFpfTlFRSExsRjFFY1pLQzJ2MDViNlh4RThrTVFGdTZycG5qVTlTbUl0TS02ZklpTUF0X2JYYk9hT2wzVXBYOTFNYUJ1QktUdkwyeklDNFdpcWhieXRGdDNaMk9Ka1poQmxXQXQ1VWFCU3FMU1pETXlzaTlQajhOU21CSmc?oc=5",
+      "date": "2026-08-25T06:20:36+00:00",
       "source": "India Today",
       "category": "Entertainment",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
