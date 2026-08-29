@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Birthday Surprise ♡</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Kalam:wght@400;700&family=Sacramento&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="screen">
+
+  <!-- 01 — exactly the opening idea -->
+  <section class="scene active" id="s1">
+    <div class="sheet gift">
+      <div class="title">PLS ACCEPT THE GIFT</div>
+      <div class="little-stars">✦　♡　✦</div>
+      <div class="penguin">
+        <div class="p-head"><i></i><i></i><b>⌣</b></div>
+        <div class="p-body"></div>
+        <div class="p-foot f1"></div><div class="p-foot f2"></div>
+      </div>
+      <div class="gift-buttons">
+        <button id="accept">YES</button>
+        <button id="reject">NO</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 02 — birthday heading appears first, then click -->
+  <section class="scene" id="s2">
+    <div class="sheet birthday">
+      <div class="paper-deco">✧　✦　✧</div>
+      <h1>HAPPY<br>BIRTHDAY</h1>
+      <div class="mini-party">✦　🎈　✦</div>
+      <button class="tiny-next" data-next="s3">tap the page ♡</button>
+    </div>
+  </section>
+
+  <!-- 03 — Beautiful -->
+  <section class="scene" id="s3">
+    <div class="sheet beautiful">
+      <div class="camera">📷</div>
+      <div class="beautiful-word">Beautiful</div>
+      <div class="heart-doodle">♡♡</div>
+
+      <div class="photo-grid">
+        <div class="heart-frame"><img src="photo.jpg"></div>
+        <div class="heart-frame"><img src="photo.jpg"></div>
+      </div>
+
+      <div class="middle-photo">
+        <div class="heart-frame center"><img src="photo.jpg"></div>
+      </div>
+
+      <div class="labels">
+        <span>My love</span>
+        <span>My Baby</span>
+      </div>
+
+      <button class="tiny-next" data-next="s4">click me ♡</button>
+    </div>
+  </section>
+
+  <!-- 04 — message card like the video -->
+  <section class="scene" id="s4">
+    <div class="sheet letter">
+      <div class="corner-camera">📷</div>
+      <div class="bunny">🐰</div>
+      <div class="letter-photo"><img src="photo.jpg"></div>
+      <div class="cutie">Cutie ♡</div>
+
+      <div class="letter-copy">
+        <h2>HAPPY BIRTHDAY</h2>
+        <p>Happy birthday, my love ♡</p>
+        <p>Today is your special day, and I hope it brings you the same happiness you bring into my life.</p>
+        <p>You're one of the most beautiful parts of my world. Keep smiling, keep dreaming and keep being you.</p>
+        <p>May this year give you countless reasons to smile and every little thing your heart wishes for.</p>
+        <p class="last-line">Happy Birthday, my cutie ♡</p>
+      </div>
+
+      <button class="click-circle" data-next="s5">CLICK<br>ME</button>
+    </div>
+  </section>
+
+  <!-- 05 — final scene in the supplied video -->
+  <section class="scene" id="s5">
+    <div class="sheet mine">
+      <div class="mine-title">Will you be mine?</div>
+      <div class="curly left">〰〰〰</div>
+      <div class="curly right">〰〰〰</div>
+
+      <div class="mine-heart">
+        <img src="photo.jpg" alt="photo">
+      </div>
+
+      <div class="date">11 05 2026</div>
+
+      <div class="answer-row">
+        <button id="mineYes">YES ♡</button>
+        <button id="mineNo">NO</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- After YES: no "I LOVE YOU" page. A soft ending only. -->
+  <section class="scene" id="s6">
+    <div class="sheet ending">
+      <div class="end-sparkle">✦ ♡ ✦</div>
+      <h2>YAY! ♡</h2>
+      <p>Then this little surprise<br>was worth making for you.</p>
+      <div class="end-photo"><img src="photo.jpg"></div>
+      <div class="end-note">Happy Birthday, cutie ♡</div>
+    </div>
+  </section>
+
+</div>
+<div id="hearts"></div>
+<script src="script.js"></script>
+</body>
+</html>
