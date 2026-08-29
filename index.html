@@ -1,123 +1,125 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<title>Birthday Surprise ♡</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Kalam:wght@400;700&family=Sacramento&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For You ❤️</title>
+
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<div class="screen">
 
-  <!-- 01 — exactly the opening idea -->
+  <!-- Scene 1 -->
   <section class="scene active" id="s1">
-    <div class="sheet gift">
-      <div class="title">PLS ACCEPT THE GIFT</div>
-      <div class="little-stars">✦　♡　✦</div>
-      <div class="penguin">
-        <div class="p-head"><i></i><i></i><b>⌣</b></div>
-        <div class="p-body"></div>
-        <div class="p-foot f1"></div><div class="p-foot f2"></div>
-      </div>
-      <div class="gift-buttons">
-        <button id="accept">YES</button>
-        <button id="reject">NO</button>
-      </div>
+    <div class="card">
+      <div class="emoji">💌</div>
+
+      <h1>Ek chhoti si baat...</h1>
+      <p>
+        Shayad ye kehne mein thoda waqt laga,
+        lekin dil mein ye baat hamesha se thi.
+      </p>
+
+      <button id="accept">Aage badho ✨</button>
+      <button id="reject">Nahi 🙈</button>
     </div>
   </section>
 
-  <!-- 02 — birthday heading appears first, then click -->
+
+  <!-- Scene 2 -->
   <section class="scene" id="s2">
-    <div class="sheet birthday">
-      <div class="paper-deco">✧　✦　✧</div>
-      <h1>HAPPY<br>BIRTHDAY</h1>
-      <div class="mini-party">✦　🎈　✦</div>
-      <button class="tiny-next" data-next="s3">tap the page ♡</button>
+    <div class="card">
+      <div class="emoji">🌸</div>
+
+      <h1>Tum mere liye...</h1>
+      <p>
+        Sirf ek naam nahi ho.<br>
+        Tumhari presence hi kuch alag hai.
+      </p>
+
+      <button data-next="s3">Next 💕</button>
     </div>
   </section>
 
-  <!-- 03 — Beautiful -->
+
+  <!-- Scene 3 -->
   <section class="scene" id="s3">
-    <div class="sheet beautiful">
-      <div class="camera">📷</div>
-      <div class="beautiful-word">Beautiful</div>
-      <div class="heart-doodle">♡♡</div>
+    <div class="card">
+      <div class="emoji">✨</div>
 
-      <div class="photo-grid">
-        <div class="heart-frame"><img src="photo.jpg"></div>
-        <div class="heart-frame"><img src="photo.jpg"></div>
-      </div>
+      <h1>Ek sawaal hai...</h1>
 
-      <div class="middle-photo">
-        <div class="heart-frame center"><img src="photo.jpg"></div>
-      </div>
+      <p>
+        Agar main kahun ki<br>
+        tum mere liye special ho...
+      </p>
 
-      <div class="labels">
-        <span>My love</span>
-        <span>My Baby</span>
-      </div>
-
-      <button class="tiny-next" data-next="s4">click me ♡</button>
+      <button data-next="s4">Kya kahoge? 💗</button>
     </div>
   </section>
 
-  <!-- 04 — message card like the video -->
+
+  <!-- Scene 4 -->
   <section class="scene" id="s4">
-    <div class="sheet letter">
-      <div class="corner-camera">📷</div>
-      <div class="bunny">🐰</div>
-      <div class="letter-photo"><img src="photo.jpg"></div>
-      <div class="cutie">Cutie ♡</div>
+    <div class="card">
+      <div class="emoji">🥺</div>
 
-      <div class="letter-copy">
-        <h2>HAPPY BIRTHDAY</h2>
-        <p>Happy birthday, my love ♡</p>
-        <p>Today is your special day, and I hope it brings you the same happiness you bring into my life.</p>
-        <p>You're one of the most beautiful parts of my world. Keep smiling, keep dreaming and keep being you.</p>
-        <p>May this year give you countless reasons to smile and every little thing your heart wishes for.</p>
-        <p class="last-line">Happy Birthday, my cutie ♡</p>
-      </div>
+      <h1>Ek honest answer...</h1>
 
-      <button class="click-circle" data-next="s5">CLICK<br>ME</button>
+      <p>
+        Kya tum bhi kabhi<br>
+        mere baare mein sochte ho?
+      </p>
+
+      <button data-next="s5">Haan ❤️</button>
+      <button id="mineNo">Nahi 😶</button>
     </div>
   </section>
 
-  <!-- 05 — final scene in the supplied video -->
+
+  <!-- Scene 5 -->
   <section class="scene" id="s5">
-    <div class="sheet mine">
-      <div class="mine-title">Will you be mine?</div>
-      <div class="curly left">〰〰〰</div>
-      <div class="curly right">〰〰〰</div>
+    <div class="card">
+      <div class="emoji">🫶</div>
 
-      <div class="mine-heart">
-        <img src="photo.jpg" alt="photo">
-      </div>
+      <h1>Bas itna hi...</h1>
 
-      <div class="date">11 05 2026</div>
+      <p>
+        Main tumhe force nahi karunga.<br>
+        Bas apne dil ki baat kehna chahta tha.
+      </p>
 
-      <div class="answer-row">
-        <button id="mineYes">YES ♡</button>
-        <button id="mineNo">NO</button>
-      </div>
+      <button id="mineYes">Continue 💖</button>
     </div>
   </section>
 
-  <!-- After YES: no "I LOVE YOU" page. A soft ending only. -->
+
+  <!-- Scene 6 -->
   <section class="scene" id="s6">
-    <div class="sheet ending">
-      <div class="end-sparkle">✦ ♡ ✦</div>
-      <h2>YAY! ♡</h2>
-      <p>Then this little surprise<br>was worth making for you.</p>
-      <div class="end-photo"><img src="photo.jpg"></div>
-      <div class="end-note">Happy Birthday, cutie ♡</div>
+    <div class="card final-card">
+
+      <div class="photo-frame">
+        <!-- Yahan apni photo ka naam likho -->
+        <img src="photo.jpg" alt="Our Photo">
+      </div>
+
+      <h1>For You ❤️</h1>
+
+      <p>
+        Kuch log zindagi mein<br>
+        bina kisi reason ke special ban jaate hain.
+      </p>
+
+      <div class="signature">
+        — Someone who cares ✨
+      </div>
+
     </div>
   </section>
 
-</div>
-<div id="hearts"></div>
-<script src="script.js"></script>
+
+  <script src="script.js"></script>
+
 </body>
 </html>
