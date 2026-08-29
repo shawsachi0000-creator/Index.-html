@@ -1,6 +1,6 @@
 const scenes = [...document.querySelectorAll(".scene")];
 
-function go(id) {
+function go(id) { 
   scenes.forEach(s => {
     s.classList.toggle("active", s.id === id);
   });
